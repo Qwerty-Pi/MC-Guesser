@@ -78,6 +78,7 @@ button {
 	padding: 0.5em;
 	font-size: 1.2em;
 	flex: 1 1 auto;
+	overflow-y: auto; 
 	
 	background-color: var(--terminal-black);
 	color: var(--terminal-white);
@@ -85,6 +86,22 @@ button {
 		background-color: var(--terminal-white);
 		color: var(--terminal-black);
 	}
+}
+
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    background: rgba(255,0,0,0.8); 
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5); 
+}
+::-webkit-scrollbar-thumb:window-inactive {
+    background: rgba(255,0,0,0.4); 
 }
 
 .game-options {
@@ -162,7 +179,7 @@ button {
 			Time <span class="value-counter">00:00</span>
 		</div>
 	</div>
-	<div class="game-screen">The equations of the straight lines $L_1$ and $L_2$ are $4x - 6y + 5 = 0$ and $6x - 9y - 1 = 0$ respectively. If $P$ is a moving point on the rectangular coordinate plane such that the perpendicular distance from $P$ to $L_1$ is equal to the perpendicular distance from $P$ to $L_2$, then the locus of $P$ is<br><br>A. a straight line.<br>B. two intersecting straight lines.<br>C. two parallel straight lines.<br>D. a circle.</div>
+	<div class="game-screen">The equations of the straight lines $L_1$ and $L_2$ are $4x - 6y + 5 = 0$ and $6x - 9y - 1 = 0$ respectively. If $P$ is a moving point on the rectangular coordinate plane such that the perpendicular distance from $P$ to $L_1$ is equal to the perpendicular distance from $P$ to $L_2$, then the locus of $P$ is<br><br>A. a straight line.<br>B. two intersecting straight lines.<br>C. two parallel straight lines.<br>D. a circle. </div>
 	<div class="game-options">
 		<button class="game-option option-x unselectable" data-option="X" style="grid-column: span 2">Pass (X)</button>
 		<button class="game-option option-a unselectable" data-option="A">A</button>
@@ -187,7 +204,6 @@ button {
 
 	$(document).on('keydown', function(e) {
 		e = e || window.event
-		console.log(e.ctrlKey)
 		if (e.ctrlKey === true)
 			return;
 		switch (e.keyCode) {
