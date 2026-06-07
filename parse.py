@@ -14,7 +14,7 @@ def parse_texts(pdf_path, output_path):
 
 if __name__ == '__main__':
     if len(sys.argv) != 3:
-        print("Usage: ./parse pdf_path output_path")
+        print("Usage: python3 parse.py pdf_path output_path")
     else:
         pdf_path, output_path = sys.argv[1], sys.argv[2]
         parse_texts(pdf_path, output_path)

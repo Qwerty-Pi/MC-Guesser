@@ -6,7 +6,8 @@ def ask(question):
     client = genai.Client(api_key=os.environ["GOOGLE_API_KEY"], http_options={"timeout": 300_000}) # 5 minutes
     response_stream = client.models.generate_content_stream(
         model='gemini-flash-latest',
-        contents=question
+        contents=question,
+        config=types.GenerateContentConfig(timeout=600)
     )
     print("Wait for responses...")
     res = ""
@@ -16,7 +17,6 @@ def ask(question):
         sys.stdout.flush()
     return res
 
-os.system("cat prompt.txt text/{25-}.txt > actual-prompt.txt")
-prompt = open("actual-prompt.txt", "r").read()
+prompt = open("prompt.txt", "r").read() + open("paper-2.txt", "r").read()
 resp = ask(prompt)
 print(resp)

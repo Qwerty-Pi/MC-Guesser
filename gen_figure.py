@@ -1,5 +1,5 @@
 import fitz  # PyMuPDF
-import os
+import os, sys
 import json
 
 def crop_pdf_to_svg(pdf_path, page_num, bound_box, output_svg_path):
@@ -59,20 +59,22 @@ def scale_svg(input_path, output_path, scale):
 
 if __name__ == "__main__":
 
-    pdf_name = "PP-DSE-MATH-CP-1.pdf"
-    config = "figures.json"
+    if len(sys.argv) != 3:
+        print("Usage: python3 gen_figure.py pdf_path config_path")
+    else:
+        pdf_path, config_path = sys.argv[1], sys.argv[2]
 
-    with open(config, "r") as f:
+    with open(config_path, "r") as f:
         data = f.read()
     data = json.loads(data)
 
-    if not os.path.exists(pdf_name):
-        raise ValueError(f"File '{pdf_name}' does not exists")
+    if not os.path.exists(pdf_path):
+        raise ValueError(f"File '{pdf_path}' does not exists")
     
     for figure in data:
         page, rect, label = figure['page'], figure['rect'], figure['label']
         crop_pdf_to_svg(
-            pdf_path=pdf_name,
+            pdf_path=pdf_path,
             page_num=page,
             bound_box=rect,
             output_svg_path=f"figures/{label}.svg"

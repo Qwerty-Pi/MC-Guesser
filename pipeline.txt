@@ -1,0 +1,8 @@
+[Step 1] pdf -> images -> text (each page separate)
+[Step 2] text -> html (no figure)
+[Step 3] bounding box -> gen figures
+
+python3 parse.py PP-DSE-MATH-CP-1.pdf pages
+python3 concat.py
+### Gemini ### > questions.json
+python3 gen_figure.py PP-DSE-MATH-CP-1.pdf figures.json
