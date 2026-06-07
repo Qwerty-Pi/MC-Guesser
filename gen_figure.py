@@ -59,11 +59,13 @@ def scale_svg(input_path, output_path, scale):
 
 if __name__ == "__main__":
 
-    with open("crop.json", "r") as f:
+    pdf_name = "PP-DSE-MATH-CP-1.pdf"
+    config = "figures.json"
+
+    with open(config, "r") as f:
         data = f.read()
     data = json.loads(data)
 
-    pdf_name = "PP-DSE-MATH-CP-1.pdf" 
     if not os.path.exists(pdf_name):
         raise ValueError(f"File '{pdf_name}' does not exists")
     
