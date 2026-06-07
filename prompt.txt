@@ -7,12 +7,21 @@ Note the following requirements:
 - Do not reformulate the formulae even if they are identical, because those are intended to test student's knowledge.
 - Use \lt and \gt in place of < and >, because HTML is used.
 - Ignore places for barcodes and pages header / footer. Those are irrelevant to keep in webpage.
-- Use Times New Roman in 12pt to ensure formality.
 - Add placeholder places for images, as those will be added manually.
 - Always put numbers / variables in math mode.
 - Do not add fullstop for options of the form "I and II only" or "I, II and III".
+- Do not put fullstop inside math mode.
 - Only put one option (A, B, C, D) per line.
 - Use slanted bars \mathbin{\!/\mkern-5mu/\!} to denote parallel lines over ||.
+- Return the result in JSON format, as an array of strings, the HTML statement for each question.
+- Do NOT add inline styles, since they hinder the portability.
+- Do not include the section headers (Section A, Section B).
+- Do not include the question ID.
+- Use \( \) instead of $ $.
+- Do not place the whole thing inside a div or p.
+- For placeholders images, assume all of them will be of format svg. You can assume the svg name follows the form 1a, 1b, 1c or simply 1 when there is only one image. The images will be in the folder "figures".
+- Do not add endline or space at the beginning of each questions.
+- Do not put the literal text "\n" in the JSON. Those does not affect the HTML.
 
 The pre-processed content are as follows:
 ==================================

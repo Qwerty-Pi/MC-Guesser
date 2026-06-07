@@ -1,0 +1,361 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PyMuPDF Dataset Bounding Box Tool</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.4.120/pdf.min.js"></script>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            margin: 20px;
+            background-color: #f5f5f7;
+            color: #333;
+        }
+        h2 { margin-top: 0; }
+        .controls {
+            margin-bottom: 20px;
+            background: white;
+            padding: 15px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+        .container {
+            display: flex;
+            gap: 20px;
+            align-items: flex-start;
+        }
+        /* Left Column: Data Logging */
+        .sidebar-left {
+            width: 320px;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            height: 75vh;
+            display: flex;
+            flex-direction: column;
+        }
+        /* Middle Column: PDF Canvas */
+        .viewer-side {
+            flex: 1;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            min-height: 600px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            overflow: auto;
+        }
+        .canvas-container {
+            position: relative;
+            border: 1px solid #ccc;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+            cursor: crosshair;
+        }
+        #pdf-canvas { display: block; }
+        #box-overlay {
+            position: absolute;
+            border: 2px dashed #00ffd2;
+            background-color: rgba(0, 255, 210, 0.2);
+            pointer-events: none;
+            display: none;
+        }
+        /* Right Column: Code Output */
+        .sidebar-right {
+            width: 320px;
+            background: #2f3542;
+            color: #f1f2f6;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        pre {
+            background: #1e222b;
+            padding: 12px;
+            border-radius: 5px;
+            overflow-x: auto;
+            font-family: 'Courier New', Courier, monospace;
+            color: #2ed573;
+            font-size: 0.85em;
+        }
+        /* UI Elements */
+        button {
+            background: #1e90ff;
+            color: white;
+            border: none;
+            padding: 8px 14px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-weight: bold;
+        }
+        button:disabled { background: #ccc; cursor: not-allowed; }
+        button.success { background: #2ed573; width: 100%; margin-top: 10px; padding: 12px;}
+        button.download { background: #ffa502; width: 100%; margin-top: auto; padding: 12px;}
+        .form-group {
+            margin-bottom: 15px;
+        }
+        .form-group label {
+            display: block;
+            font-weight: bold;
+            margin-bottom: 5px;
+            font-size: 0.9em;
+        }
+        .form-group input[type="text"] {
+            width: 93%;
+            padding: 8px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        .record-list {
+            border: 1px solid #eee;
+            border-radius: 4px;
+            flex-grow: 1;
+            overflow-y: auto;
+            margin-top: 10px;
+            padding: 5px;
+            background: #fafafa;
+        }
+        .record-item {
+            background: white;
+            border: 1px solid #ddd;
+            padding: 8px;
+            margin-bottom: 6px;
+            border-radius: 4px;
+            font-size: 0.8em;
+            position: relative;
+        }
+        .record-item .delete-btn {
+            position: absolute;
+            right: 5px;
+            top: 5px;
+            background: #ff4757;
+            color: white;
+            border: none;
+            border-radius: 3px;
+            padding: 2px 6px;
+            cursor: pointer;
+            font-size: 0.8em;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>PyMuPDF Labeling & Bounding Box Tool</h2>
+    
+    <div class="controls">
+        <input type="file" id="pdf-file" accept="application/pdf">
+        <button id="prev-page" disabled>◀ Previous</button>
+        <span id="page-num-display">Page: 0 / 0</span>
+        <button id="next-page" disabled>Next ▶</button>
+    </div>
+
+    <div class="container">
+        <div class="sidebar-left">
+            <h3>Figures</h3>
+            <div class="form-group">
+                <label for="box-label">New Figure Label (e.g., 1, 2a, 2b)</label>
+                <input type="text" id="box-label" placeholder="e.g., header, table_1, signature" value="1">
+            </div>
+            <button id="btn-record" class="success" disabled>Add Figure</button>
+            
+            <h4 style="margin-bottom: 5px; margin-top: 20px;">Saved Figures (<span id="count-display">0</span>)</h4>
+            <div class="record-list" id="record-list">
+                </div>
+            
+            <button id="btn-download" class="download" disabled>Download JSON</button>
+        </div>
+
+        <div class="viewer-side">
+            <div class="canvas-container" id="canvas-wrapper">
+                <canvas id="pdf-canvas"></canvas>
+                <div id="box-overlay"></div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.4.120/pdf.worker.min.js';
+
+        let pdfDoc = null;
+        let pageNum = 1;
+        let currentViewport = null;
+        let scale = 1.3; 
+
+        const canvas = document.getElementById('pdf-canvas');
+        const ctx = canvas.getContext('2d');
+        const wrapper = document.getElementById('canvas-wrapper');
+        const overlay = document.getElementById('box-overlay');
+        
+        let isDrawing = false;
+        let startX = 0, startY = 0;
+        let currentX = 0, currentY = 0;
+
+        // Current coordinates state tracking
+        let activeRect = null;
+        let savedRecords = [];
+
+        // --- PDF Rendering Engine ---
+        document.getElementById('pdf-file').addEventListener('change', function(e) {
+            const file = e.target.files[0];
+            if (!file) return;
+
+            const reader = new FileReader();
+            reader.onload = function(evt) {
+                const typedarray = new Uint8Array(evt.target.result);
+                pdfjsLib.getDocument(typedarray).promise.then(function(pdf) {
+                    pdfDoc = pdf;
+                    pageNum = 1;
+                    renderPage(pageNum);
+                });
+            };
+            reader.readAsArrayBuffer(file);
+        });
+
+        function renderPage(num) {
+            pdfDoc.getPage(num).then(function(page) {
+                currentViewport = page.getViewport({ scale: scale });
+                canvas.height = currentViewport.height;
+                canvas.width = currentViewport.width;
+
+                const renderContext = { canvasContext: ctx, viewport: currentViewport };
+                
+                page.render(renderContext).promise.then(() => {
+                    document.getElementById('page-num-display').textContent = `Page: ${num} / ${pdfDoc.numPages}`;
+                    document.getElementById('prev-page').disabled = num <= 1;
+                    document.getElementById('next-page').disabled = num >= pdfDoc.numPages;
+                    overlay.style.display = 'none'; 
+                    activeRect = null;
+                    document.getElementById('btn-record').disabled = true;
+                });
+            });
+        }
+
+        document.getElementById('prev-page').addEventListener('click', () => { if (pageNum > 1) renderPage(--pageNum); });
+        document.getElementById('next-page').addEventListener('click', () => { if (pageNum < pdfDoc.numPages) renderPage(++pageNum); });
+
+        // --- Drag Mapping Mechanics ---
+        wrapper.addEventListener('mousedown', (e) => {
+            if (!currentViewport) return;
+            isDrawing = true;
+            const rect = wrapper.getBoundingClientRect();
+            startX = e.clientX - rect.left;
+            startY = e.clientY - rect.top;
+
+            overlay.style.left = `${startX}px`;
+            overlay.style.top = `${startY}px`;
+            overlay.style.width = '0px';
+            overlay.style.height = '0px';
+            overlay.style.display = 'block';
+        });
+
+        wrapper.addEventListener('mousemove', (e) => {
+            if (!isDrawing) return;
+            const rect = wrapper.getBoundingClientRect();
+            currentX = Math.max(0, Math.min(e.clientX - rect.left, canvas.width));
+            currentY = Math.max(0, Math.min(e.clientY - rect.top, canvas.height));
+
+            const width = currentX - startX;
+            const height = currentY - startY;
+
+            overlay.style.left = `${width > 0 ? startX : currentX}px`;
+            overlay.style.top = `${height > 0 ? startY : currentY}px`;
+            overlay.style.width = `${Math.abs(width)}px`;
+            overlay.style.height = `${Math.abs(height)}px`;
+        });
+
+        wrapper.addEventListener('mouseup', () => {
+            if (!isDrawing) return;
+            isDrawing = false;
+
+            const x0_screen = Math.min(startX, currentX);
+            const x1_screen = Math.max(startX, currentX);
+            const y0_screen = Math.min(startY, currentY);
+            const y1_screen = Math.max(startY, currentY);
+
+            // Convert visual elements to PDF spaces
+            const [x0_pdf, y0_pdf] = currentViewport.convertToPdfPoint(x0_screen, y0_screen);
+            const [x1_pdf, y1_pdf] = currentViewport.convertToPdfPoint(x1_screen, y1_screen);
+
+            const pdfPageHeight = currentViewport.viewBox[3] - currentViewport.viewBox[1];
+            
+            const fitz_x0 = Math.round(x0_pdf * 100) / 100;
+            const fitz_y0 = Math.round((pdfPageHeight - y0_pdf) * 100) / 100;
+            const fitz_x1 = Math.round(x1_pdf * 100) / 100;
+            const fitz_y1 = Math.round((pdfPageHeight - y1_pdf) * 100) / 100;
+
+            activeRect = {
+                x0: fitz_x0,
+                y0: Math.min(fitz_y0, fitz_y1),
+                x1: fitz_x1,
+                y1: Math.max(fitz_y0, fitz_y1)
+            };
+
+            document.getElementById('btn-record').disabled = false;
+        });
+
+        // --- Data Logging & Download Logic ---
+        const recordBtn = document.getElementById('btn-record');
+        const downloadBtn = document.getElementById('btn-download');
+        const recordListContainer = document.getElementById('record-list');
+        const labelInput = document.getElementById('box-label');
+
+        recordBtn.addEventListener('click', () => {
+            if (!activeRect) return;
+
+            const labelValue = labelInput.value.trim() || `unlabeled_${savedRecords.length + 1}`;
+            
+            const entry = {
+                page: pageNum - 1,
+                label: labelValue,
+                rect: [activeRect.x0, activeRect.y0, activeRect.x1, activeRect.y1]
+            };
+
+            savedRecords.push(entry);
+            updateRecordsUI();
+            
+            // Highlight text box automatically for fast sequential data entries
+            labelInput.select();
+        });
+
+        function updateRecordsUI() {
+            recordListContainer.innerHTML = '';
+            savedRecords.forEach((item, index) => {
+                const div = document.createElement('div');
+                div.className = 'record-item';
+                div.innerHTML = `
+                    <strong>[Page ${item.page + 1}] ${item.label}</strong><br>
+                    <span>[${item.rect.join(', ')}]</span>
+                    <button class="delete-btn" onclick="deleteRecord(${index})">✕</button>
+                `;
+                recordListContainer.appendChild(div);
+            });
+
+            document.getElementById('count-display').textContent = savedRecords.length;
+            downloadBtn.disabled = savedRecords.length === 0;
+        }
+
+        window.deleteRecord = function(index) {
+            savedRecords.splice(index, 1);
+            updateRecordsUI();
+        };
+
+        downloadBtn.addEventListener('click', () => {
+            if (savedRecords.length === 0) return;
+
+            const dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(savedRecords, null, 4));
+            const downloadAnchor = document.createElement('a');
+            downloadAnchor.setAttribute("href", dataStr);
+            downloadAnchor.setAttribute("download", "pymupdf_annotations.json");
+            document.body.appendChild(downloadAnchor);
+            downloadAnchor.click();
+            downloadAnchor.remove();
+        });
+    </script>
+</body>
+</html>

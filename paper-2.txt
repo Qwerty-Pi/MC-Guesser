@@ -1,24 +1,3 @@
-You are a DSE Mathematics paper formatter. Your job is to format the DSE Paper in format of HTML, so people can read them online.
-
-MathJax4.0 is used as <script src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js"></script>.
-
-Note the following requirements:
-- Fullstop should be added to the options when the question itself is not ended with punctuation, or the options themselves are complete sentences.
-- Do not reformulate the formulae even if they are identical, because those are intended to test student's knowledge.
-- Use \lt and \gt in place of < and >, because HTML is used.
-- Ignore places for barcodes and pages header / footer. Those are irrelevant to keep in webpage.
-- Use Times New Roman in 12pt to ensure formality.
-- Add placeholder places for images, as those will be added manually.
-- Always put numbers / variables in math mode.
-- Do not add fullstop for options of the form "I and II only" or "I, II and III".
-- Do not put fullstop inside math mode.
-- Only put one option (A, B, C, D) per line.
-- Use slanted bars \mathbin{\!/\mkern-5mu/\!} to denote parallel lines over ||.
-- Return the result in JSON format, as an array of strings, the HTML statement for each question.
-
-The pre-processed content are as follows:
-==================================
-
 PP-DSE MATH CP PAPER 2 HONGKONG EXAMINATIONS AND ASSESSMENT AUTHORITY HONG KONG DIPLOMA OF SECONDARY EDUCATION EXAMINATION MC PRACTICE PAPER MATHEMATICS Compulsory Part PAPER2 (1/hours) INSTRUCTIONS 1. Read carefully the instructions on the Answer Sheet.After the announcementofthestartof the examination, you shouldfirststick a barcode label and insert the information required in the spaces provided.No extra time will be given for sticking on the barcode label after the 'Time is up’announcement. 2. When told toopen thisbook,you should checkthatall thequestions arethere.Lookforthewords'ENDOF PAPER'after the last question. 3. All questions carry equal marks. 4. ANSWER ALL QUESTIONS.You are advised to use an HBpencil to markall theanswerson the Answer Sheet,so that wrong marks can be completely erased with a clean rubber.You must mark the answers clearly: otherwise you will lose marks if the answers cannot be captured. 5. You should mark only ONE answer for each question.Ifyou mark more than one answer,you will receive NO MARKS for that question. 6. No marks will be deducted for wrong answers. ©香港考試及評核局 保留版權 Not to be taken away before the Hong Kong Examinations and Assessment Authority end of the examination session All Rights Reserved 2012 PP-DSE-MATH-CP 2–1 1
 There are 30 questions in Section A and 15 questions in Section B. The diagrams in this paper are not necessarily drawn to seale. Choose the best answer for each question. Section A 1.x{3}2x+x)= A. 3x4. B. 2x{5 C. 3x^{. D. 2x6 2. If3a+1=3(b-2)，thenb= A. a+1. B. a+3. C. a+ 7 3r D. 51m a− 3. p2−2−−q= A. (p+q)(p−q−1) . B. (p+ q)(p+ q−1) . C. (p−q)(p−q+1) . D. (p− q)(p+−1) . PP-DSE-MATH-CP 2-2 2
 4. Letmandnbeconstants.Ifm(x−3)2+n(x+1)2=x2−38x+41，thenm= A. -4. B. -1. C. 3. D. 5. 5. Letf(x)=x4−x3+x2−+1.Whenf(x)isdividedbyx+2，theremainderis A. -2. B. 0. C. 11. D. 31. 6. Letkbeaconstant.Ifthequadraticequation3x2+2kx−k=0hasequalroots,thenk= A. -3. B. 3. C. -3 or 0. D. 0 or 3. 7. Inthefigure,thex-interceptsofthestraightlinesLandL2are5whilethey-interceptsofthesraight lines L2 and L3 are3.Whichofthefollowing aretrue? I.Theequation of L1isx=5. y个 II. The slope of L2 is 35 III.The point(2,3)lieson L3 -L3 A. I and II only 3 B. I and III only 0 5 1 C. II and III only D. I,IⅡ and III L1 V PP-DSE-MATH-CP 2-3 3 Go on to the next page

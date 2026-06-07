@@ -14,7 +14,7 @@ for i, page in enumerate(pages):
     print(f"\n--- 正在辨識第 {i+1} 頁 ---")
     
     # 暫存為圖片檔案
-    img = f"images/{i+1}.png"
+    img = f"pages/images/{i+1}.png"
     page.save(img, "PNG")
     
-    os.system(f"lexoid parse -i images/{i+1}.png --parser-type STATIC_PARSE > output/{i+1}.txt")
+    os.system(f"lexoid parse -i pages/images/{i+1}.png --parser-type static_parse --verbose > pages/text/{i+1}.txt")
