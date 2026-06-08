@@ -1,0 +1,70 @@
+import os, sys
+from bs4 import BeautifulSoup
+import json
+
+def resize_paper(paper):
+    os.system(f"pdfjam --paper a4paper raw/{paper}.pdf --outfile raw/{paper}.pdf")
+
+def parse_paper(paper):
+    pdf_path = f"raw/{paper}.pdf"
+    output_path = f"artifact/{paper}"
+    os.system(f"time ./parse {pdf_path} {output_path}")
+
+def custom_int(s):
+    if s[-4:] == ".txt":
+        s = s[:-4]
+    try:
+        return int(s)
+    except:
+        return 0
+
+def concat_text(paper):
+    path = f"artifact/{paper}/text"
+    content = ""
+    for file in sorted(os.listdir(path), key=custom_int):
+        if file == "." or file == "..": continue
+        content += open(f"{path}/{file}", "r").read()
+    with open(f"artifact/{paper}/merged.txt", "w") as f:
+        f.write(content)
+
+    prompt = open("prompt.txt").read()
+    with open("prompt-actual.txt", "w") as f:
+        f.write(prompt + content)
+
+def convert_html_to_json(paper_path):
+    content = open(f"artifact/{paper_path}/questions.html").read()
+    soup = BeautifulSoup(content, "html.parser")
+    questions = []
+    for question in soup.find_all("div"):
+        s = question.prettify().replace("<div>", "").replace("</div>", "")
+        s = s.replace("\n", "").strip(" ")
+        print(s)
+        for n in range(1, 100):
+            if s.startswith(f"{n}. "):
+                s = s[len(f"{n}. "):]
+        if s.startswith("<br/>"):
+            s = s[len("<br/>"):]
+        if s.startswith("<br>"):
+            s = s[len("<br>"):]
+        s = s.strip()
+        s = s.replace("figures/", f"artifact/{paper_path}/figure/")
+        print(s)
+        questions.append(s)
+    with open(f"artifact/{paper_path}/questions.json", "w") as f:
+        f.write(json.dumps(questions))
+    print(f"Written output to artifact/{paper_path}/questions.json.")
+
+def gen_figure(paper_path):
+    download_path = "/mnt/c/Users/thele/Downloads/figures.json"
+    if os.path.exists(download_path):
+        os.system(f"mv {download_path} artifact/{paper_path}/figures.json")
+        print(f"Copied the configuration from the download path.")
+    cmd = f"./gen_figure raw/{paper_path}.pdf artifact/{paper_path}/figures.json artifact/{paper_path}/figure"
+    os.system(cmd)
+
+paperID = "paper-2/2013"
+# resize_paper(paperID)
+# parse_paper(paperID)
+# concat_text(paperID)
+convert_html_to_json(paperID)
+gen_figure(paperID)

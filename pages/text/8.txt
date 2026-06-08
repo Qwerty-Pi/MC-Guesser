@@ -1,1 +1,0 @@
-SECTION A(2) (35 marks) 10.Letf(x)beapolynomial.Whenfx)isdividedbyx1，thequotientis6x2+17x2.Itis given that f (1) = 4 . (a) Findf(−3). (3 marks) (b) Factorizef(x). (3 marks) eer aimrn Answers written in the margins will not be marked. PP-DSE-MATH-CP 1–8 8 Page total

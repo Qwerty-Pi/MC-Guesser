@@ -14,14 +14,15 @@ Note the following requirements:
 - Do not put fullstop inside math mode.
 - Only put one option (A, B, C, D) per line.
 - Use slanted bars \mathbin{\!/\mkern-5mu/\!} to denote parallel lines over ||.
-- Return the result in JSON format, as an array of strings, the HTML statement for each question.
+- Return the result in the form of HTML. Only one outermost div should be used for each question; the rest should only contains "<br>".
+- Do not return in form of JSON.
 - Do NOT add inline styles, since they hinder the portability.
 - Do not include the section headers (Section A, Section B).
 - Do not include the question ID.
-- Do not place the whole thing inside a div or p.
 - For placeholders images, assume all of them are svg. You can assume the svg name follows the form 1a, 1b, 1c or simply 1 when there is only one image. The images will be in the folder "figures".
 - Do not add endline or space at the beginning of each questions.
-- Do not put the literal text "\n" in the JSON. Those does not affect the HTML.
+- Those does not affect the HTML. Use <br/> instead.
+
 
 The pre-processed content are as follows:
 ==================================

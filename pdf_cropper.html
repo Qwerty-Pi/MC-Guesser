@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PyMuPDF Dataset Bounding Box Tool</title>
+    <title>Bounding Box Tool</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.4.120/pdf.min.js"></script>
     <style>
         body {
@@ -30,7 +30,7 @@
         }
         /* Left Column: Data Logging */
         .sidebar-left {
-            width: 320px;
+            width: 200px;
             background: white;
             padding: 20px;
             border-radius: 8px;
@@ -67,14 +67,6 @@
             display: none;
         }
         /* Right Column: Code Output */
-        .sidebar-right {
-            width: 320px;
-            background: #2f3542;
-            color: #f1f2f6;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-        }
         pre {
             background: #1e222b;
             padding: 12px;
@@ -145,9 +137,6 @@
     </style>
 </head>
 <body>
-
-    <h2>PyMuPDF Labeling & Bounding Box Tool</h2>
-    
     <div class="controls">
         <input type="file" id="pdf-file" accept="application/pdf">
         <button id="prev-page" disabled>◀ Previous</button>
@@ -159,7 +148,7 @@
         <div class="sidebar-left">
             <h3>Figures</h3>
             <div class="form-group">
-                <label for="box-label">New Figure Label (e.g., 1, 2a, 2b)</label>
+                <label for="box-label">Figure Label (e.g., 1, 2a, 2b)</label>
                 <input type="text" id="box-label" placeholder="e.g., header, table_1, signature" value="1">
             </div>
             <button id="btn-record" class="success" disabled>Add Figure</button>
@@ -185,7 +174,7 @@
         let pdfDoc = null;
         let pageNum = 1;
         let currentViewport = null;
-        let scale = 1.3; 
+        let scale = 0.6; 
 
         const canvas = document.getElementById('pdf-canvas');
         const ctx = canvas.getContext('2d');
@@ -305,7 +294,7 @@
         const recordListContainer = document.getElementById('record-list');
         const labelInput = document.getElementById('box-label');
 
-        recordBtn.addEventListener('click', () => {
+        function addRecord() {
             if (!activeRect) return;
 
             const labelValue = labelInput.value.trim() || `unlabeled_${savedRecords.length + 1}`;
@@ -318,10 +307,11 @@
 
             savedRecords.push(entry);
             updateRecordsUI();
-            
-            // Highlight text box automatically for fast sequential data entries
+
             labelInput.select();
-        });
+        }
+
+        recordBtn.addEventListener('click', () => { addRecord() });
 
         function updateRecordsUI() {
             recordListContainer.innerHTML = '';
@@ -345,13 +335,25 @@
             updateRecordsUI();
         };
 
+        
+        window.document.addEventListener('keydown', function(e) {
+            e = e || window.event
+            if (e.ctrlKey === true)
+                return;
+            switch (e.keyCode) {
+                case 89:
+                    addRecord()
+                    break
+            }
+        })
+
         downloadBtn.addEventListener('click', () => {
             if (savedRecords.length === 0) return;
 
             const dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(savedRecords, null, 4));
             const downloadAnchor = document.createElement('a');
             downloadAnchor.setAttribute("href", dataStr);
-            downloadAnchor.setAttribute("download", "pymupdf_annotations.json");
+            downloadAnchor.setAttribute("download", "figures.json");
             document.body.appendChild(downloadAnchor);
             downloadAnchor.click();
             downloadAnchor.remove();
