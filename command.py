@@ -38,7 +38,6 @@ def convert_html_to_json(paper_path):
     for question in soup.find_all("div"):
         s = question.prettify().replace("<div>", "").replace("</div>", "")
         s = s.replace("\n", "").strip(" ")
-        print(s)
         for n in range(1, 100):
             if s.startswith(f"{n}. "):
                 s = s[len(f"{n}. "):]
@@ -48,7 +47,6 @@ def convert_html_to_json(paper_path):
             s = s[len("<br>"):]
         s = s.strip()
         s = s.replace("figures/", f"artifact/{paper_path}/figure/")
-        print(s)
         questions.append(s)
     with open(f"artifact/{paper_path}/questions.json", "w") as f:
         f.write(json.dumps(questions))
@@ -62,7 +60,7 @@ def gen_figure(paper_path):
     cmd = f"./gen_figure raw/{paper_path}.pdf artifact/{paper_path}/figures.json artifact/{paper_path}/figure"
     os.system(cmd)
 
-paperID = "paper-2/2013"
+paperID = "paper-2/2012"
 # resize_paper(paperID)
 # parse_paper(paperID)
 # concat_text(paperID)
