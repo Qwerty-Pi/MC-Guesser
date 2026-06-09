@@ -64,7 +64,7 @@
 		</select>
 		<button onclick="loadPaper()">Load</button>
 	</div>
-	<div>Proofread Progress: 2012-PP, 2012-CP, 2012</div>
+	<div>Done Proofread: 2012-PP, 2012-CP, 2012, 2013, 2014, 2015</div>
 	<div id="content">
 
 	</div>
@@ -86,7 +86,7 @@
 					e.innerHTML += "<div>" + question + ". " + datum + "</div>";
 					question += 1;
 				}
-				MathJax.typeset();
+				await MathJax.typesetPromise();
 			})
 		}
 		

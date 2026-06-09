@@ -23,6 +23,7 @@ Note the following requirements:
 - For placeholders images, assume all of them are svg. You can assume the svg name follows the form 1a, 1b, 1c or simply 1 when there is only one image. The images will be in the folder "figures".
 - Do not add endline or space at the beginning of each questions.
 - Those "\n" does not affect the HTML. Use <br/> instead.
+- Use \Delta instead of \triangle to represent triangle.
 - Remember, only put fullstop to options when the options themselves are complete sentence, or the question has not ended as a complete sentence.
 
 
