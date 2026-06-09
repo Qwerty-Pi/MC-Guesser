@@ -70,6 +70,6 @@ def gen_figure(paper_path):
 #     parse_paper(paperID)
 #     concat_text(paperID)
 
-paperID = "paper-2/2020"
+paperID = "paper-2/2012-PP"
 convert_html_to_json(paperID)
 gen_figure(paperID)
