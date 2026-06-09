@@ -70,6 +70,7 @@ def gen_figure(paper_path):
 #     parse_paper(paperID)
 #     concat_text(paperID)
 
-paperID = "paper-2/2012-PP"
-convert_html_to_json(paperID)
-gen_figure(paperID)
+if len(sys.argv) == 2:
+    paperID = f"paper-2/{sys.argv[1]}"
+    convert_html_to_json(paperID)
+    gen_figure(paperID)
