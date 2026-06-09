@@ -9,12 +9,20 @@
   <g clip-path="url(#crop-clip)" transform="translate(-321.39, -60)">
 <defs>
 <clipPath id="clip_1">
-<path transform="matrix(.3447771,0,0,-.3447771,1.651,841.91006)" d="M0 0H1717V2442H0Z"/>
+<path transform="matrix(1.00005,0,0,-1.00005,-.013,841.908)" d="M0 0H595.276V841.89H0Z"/>
+</clipPath>
+<clipPath id="clip_2">
+<path transform="matrix(1.0000999,0,0,-1.0000999,-.026000649,841.926)" d="M0 0H595.276V841.89H0Z"/>
+</clipPath>
+<clipPath id="clip_3">
+<path transform="matrix(.34481154,0,0,-.34481154,1.6251644,841.94607)" d="M0 0H1717V2442H0Z"/>
 </clipPath>
 </defs>
 <g clip-path="url(#clip_1)">
-<g transform="matrix(.3447771,0,0,.3447771,1.651,-.03564453)">
-<image id="image_2" width="1717" height="2442" xlink:href="data:image/jpeg;base64,
+<g clip-path="url(#clip_2)">
+<g clip-path="url(#clip_3)">
+<g transform="matrix(.34481154,0,0,.34481154,1.6251644,-.0836792)">
+<image id="image_4" width="1717" height="2442" xlink:href="data:image/jpeg;base64,
 /9j/4AAQSkZJRgABAQAASABIAAD/4QCMRXhpZgAATU0AKgAAAAgABQESAAMAAAAB
 AAEAAAEaAAUAAAABAAAASgEbAAUAAAABAAAAUgEoAAMAAAABAAIAAIdpAAQAAAAB
 AAAAWgAAAAAAAABIAAAAAQAAAEgAAAABAAOgAQADAAAAAQABAACgAgAEAAAAAQAA
@@ -5419,6 +5427,8 @@ oAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooo
 oAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooo
 oAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooo
 oAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigD//Z"/>
+</g>
+</g>
 </g>
 </g>
   </g>
