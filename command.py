@@ -64,10 +64,12 @@ def gen_figure(paper_path):
     cmd = f"./gen_figure raw/{paper_path}.pdf artifact/{paper_path}/figures.json artifact/{paper_path}/figure"
     os.system(cmd)
 
-paperID = "paper-2/2017"
+# for year in range(2018, 2026):
+#     paperID = f"paper-2/{year}"
+#     resize_paper(paperID)
+#     parse_paper(paperID)
+#     concat_text(paperID)
 
-# resize_paper(paperID)
-# parse_paper(paperID)
-# concat_text(paperID)
-# convert_html_to_json(paperID)
+paperID = "paper-2/2018"
+convert_html_to_json(paperID)
 gen_figure(paperID)
