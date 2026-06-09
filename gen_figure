@@ -26,15 +26,17 @@ def crop_pdf_to_svg(pdf_path, page_num, bound_box, output_svg_path):
     
     lines = page_svg.splitlines()
     
+    scale = 1.5
     cropped_svg_lines = [
         '<?xml version="1.0" encoding="UTF-8" standalone="no"?>',
-        f'<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="{width}pt" height="{height}pt" viewBox="0 0 {width} {height}">',
+        f'<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="{width * scale}pt" height="{height * scale}pt" viewBox="0 0 {width * scale} {height * scale}">',
         '  <defs>',
         f'    <clipPath id="crop-clip">',
-        f'      <rect x="{x_min}" y="{y_min}" width="{width}" height="{height}" />',
+        f'      <rect x="{x_min}" y="{y_min}" width="{width * scale}" height="{height * scale}" />',
         '    </clipPath>',
         '  </defs>',
         # The translate transform shifts the coordinate plane up and left, bringing your crop window to (0,0)
+        f'  <g transform="scale({scale})">',
         f'  <g clip-path="url(#crop-clip)" transform="translate({-x_min}, {-y_min})">'
     ]
     
@@ -48,6 +50,7 @@ def crop_pdf_to_svg(pdf_path, page_num, bound_box, output_svg_path):
         cropped_svg_lines.append(line)
         
     # 4. Close the clipping groups and the root SVG tag safely
+    cropped_svg_lines.append('  </g>')
     cropped_svg_lines.append('  </g>')
     cropped_svg_lines.append('</svg>')
 
@@ -81,10 +84,5 @@ if __name__ == "__main__":
             page_num=page,
             bound_box=rect,
             output_svg_path=f"{output_path}/{label}.svg"
-        )
-        scale_svg(
-            input_path=f"{output_path}/{label}.svg",
-            output_path=f"{output_path}/{label}.svg",
-            scale=1.5
         )
         print(f"Generated figure {label}")

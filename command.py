@@ -6,6 +6,9 @@ def resize_paper(paper):
     os.system(f"pdfjam --paper a4paper raw/{paper}.pdf --outfile raw/{paper}.pdf")
 
 def parse_paper(paper):
+    print(f"Confirm to parse {paper}? [Y/N] ", end="")
+    if input().lower() != "y":
+        exit(0)
     pdf_path = f"raw/{paper}.pdf"
     output_path = f"artifact/{paper}"
     os.system(f"time ./parse {pdf_path} {output_path}")
@@ -55,14 +58,16 @@ def convert_html_to_json(paper_path):
 def gen_figure(paper_path):
     download_path = "/mnt/c/Users/thele/Downloads/figures.json"
     if os.path.exists(download_path):
+        os.makedirs(f"artifact/{paper_path}", exist_ok = True)
         os.system(f"mv {download_path} artifact/{paper_path}/figures.json")
-        print(f"Copied the configuration from the download path.")
+        print(f"Copied the configuration file from the download path.")
     cmd = f"./gen_figure raw/{paper_path}.pdf artifact/{paper_path}/figures.json artifact/{paper_path}/figure"
     os.system(cmd)
 
-paperID = "paper-2/2012"
+paperID = "paper-2/2017"
+
 # resize_paper(paperID)
 # parse_paper(paperID)
 # concat_text(paperID)
-convert_html_to_json(paperID)
+# convert_html_to_json(paperID)
 gen_figure(paperID)

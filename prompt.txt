@@ -19,9 +19,11 @@ Note the following requirements:
 - Do NOT add inline styles, since they hinder the portability.
 - Do not include the section headers (Section A, Section B).
 - Do not include the question ID.
+- Use \dfrac over \frac if the options are fractions.
 - For placeholders images, assume all of them are svg. You can assume the svg name follows the form 1a, 1b, 1c or simply 1 when there is only one image. The images will be in the folder "figures".
 - Do not add endline or space at the beginning of each questions.
-- Those does not affect the HTML. Use <br/> instead.
+- Those "\n" does not affect the HTML. Use <br/> instead.
+- Remember, only put fullstop to options when the options themselves are complete sentence, or the question has not ended as a complete sentence.
 
 
 The pre-processed content are as follows:
