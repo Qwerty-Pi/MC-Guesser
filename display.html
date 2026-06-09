@@ -34,11 +34,20 @@
 			border-radius: 0;
 		}
 
+		#selector {
+			position: fixed;
+			top: 0;
+			left: 0;
+			width: 100%;
+			background-color: var(--background-color);
+			z-index: 10;
+		}
+
 		option:hover {
 			background: color-mix(in srgb, var(--background-color) 100%, var(--text-color) 20%) !important;
 		}
 	</style>
-	<div>
+	<div id="selector">
 		DSE Mathematics 
 		<select id="year">
 			<option value="2012-PP">2012-PP</option>
@@ -64,7 +73,10 @@
 		</select>
 		<button onclick="loadPaper()">Load</button>
 	</div>
-	<div>Done Proofread: 2012-PP, 2012-CP, 2012, 2013, 2014, 2015</div>
+	<div></div>
+	<div>Done Proofread: ~ 2019
+		<br>Has Basic: 2020 ~ 2023
+		<br>WIP: 2024 ~ 2025</div>
 	<div id="content">
 
 	</div>

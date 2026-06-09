@@ -9,12 +9,16 @@
   <g clip-path="url(#crop-clip)" transform="translate(-311.39, -78.33)">
 <defs>
 <clipPath id="clip_1">
-<path transform="matrix(1.00084,0,0,-1.00084,-.211,842.137)" d="M0 0H595.2V841.68H0Z"/>
+<path transform="matrix(1.00005,0,0,-1.00005,-.013,841.908)" d="M0 0H595.276V841.89H0Z"/>
+</clipPath>
+<clipPath id="clip_2">
+<path transform="matrix(1.0008899,0,0,-1.0008899,-.22401053,842.155)" d="M0 0H595.2V841.68H0Z"/>
 </clipPath>
 </defs>
 <g clip-path="url(#clip_1)">
-<g transform="matrix(.24012088,0,0,.24000754,-.211,.43060304)">
-<image id="image_2" width="2480" height="3507" xlink:href="data:image/jpeg;base64,
+<g clip-path="url(#clip_2)">
+<g transform="matrix(.24013286,0,0,.2400195,-.22401053,.4066162)">
+<image id="image_3" width="2480" height="3507" xlink:href="data:image/jpeg;base64,
 /9j/4AAQSkZJRgABAgEBLAEsAAD//gAMS01fOTU4IFE5NP/bAIQABAICAgICAgIC
 AgICAgIDBQMDAwMDBQQEAwUGBgcHBgYGBgcICggHBwkHBgYJCwkJCgoLCwsHCAwN
 DAwNCgsLCgEEAgIDAwMFAwMFCgcGBwoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
@@ -7928,6 +7932,7 @@ UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
 UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
 UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
 UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUV//2Q=="/>
+</g>
 </g>
 </g>
   </g>

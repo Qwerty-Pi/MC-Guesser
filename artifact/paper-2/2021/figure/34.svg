@@ -9,12 +9,16 @@
   <g clip-path="url(#crop-clip)" transform="translate(-288.06, -91.67)">
 <defs>
 <clipPath id="clip_1">
-<path transform="matrix(-1.00005,-0,0,1.00005,595.2847,-.009033203)" d="M0 0H595.26V841.86H0Z"/>
+<path transform="matrix(1.00005,0,0,-1.00005,-.013,841.908)" d="M0 0H595.276V841.89H0Z"/>
+</clipPath>
+<clipPath id="clip_2">
+<path transform="matrix(-1.0000999,-0,0,1.0000999,595.30148,-.033081056)" d="M0 0H595.26V841.86H0Z"/>
 </clipPath>
 </defs>
 <g clip-path="url(#clip_1)">
-<g transform="matrix(-.18000882,0,-0,-.180009,595.2847,841.893)">
-<image id="image_2" width="3307" height="4677" xlink:href="data:image/png;base64,
+<g clip-path="url(#clip_2)">
+<g transform="matrix(-.1800178,0,-0,-.180018,595.30148,841.911)">
+<image id="image_3" width="3307" height="4677" xlink:href="data:image/png;base64,
 iVBORw0KGgoAAAANSUhEUgAADOsAABJFCAAAAAB0LFG3AAAACXBIWXMAAA7EAAAO
 xAGVKw4bAAHFXklEQVR4nOzdi1bjuBIFUP3/T2vWEEuWbMkPGogL9p57Z0jiJKah
 u32oUimllHNOOXFRBgAAAvj/4v3//wk7Y///yrz7awQAAGwMrtK3d5XL+c+kgGv3
@@ -2435,6 +2439,7 @@ W5FesSuzTc73SlFTDpt3L2rUoajcuP7bE3y9ve/ZffpQgfLqFURv+Sl6e0p06NCW
 V+xjkLRlHxT577l1yj2+8gBfqLhYHr46OTYoW9lipPB6l9/U8PPaX+L9ytd7AHy9
 6inOVvdiq2KZKr5phkCHT45/BasWS9Sx+LG0/U0Cfsnhu+jqW+Nj8xG2PUIK+Lu2
 qMs8wA/b/gOkEIZORmkgLQAAAABJRU5ErkJggg=="/>
+</g>
 </g>
 </g>
   </g>

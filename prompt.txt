@@ -25,7 +25,7 @@ Note the following requirements:
 - Those "\n" does not affect the HTML. Use <br/> instead.
 - Use \Delta instead of \triangle to represent triangle.
 - Remember, only put fullstop to options when the options themselves are complete sentence, or the question has not ended as a complete sentence.
-
+- Returns in the format of code.
 
 The pre-processed content are as follows:
 ==================================

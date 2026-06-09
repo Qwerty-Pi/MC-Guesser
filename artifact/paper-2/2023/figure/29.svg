@@ -9,15 +9,23 @@
   <g clip-path="url(#crop-clip)" transform="translate(-134.72, -323.33)">
 <defs>
 <clipPath id="clip_1">
-<path transform="matrix(1.02058,0,0,-1.02058,2.241,842.241)" d="M0 0H578.88V825.6H0Z"/>
+<path transform="matrix(1.00005,0,0,-1.00005,-.013,841.908)" d="M0 0H595.276V841.89H0Z"/>
+</clipPath>
+<clipPath id="clip_2">
+<path transform="matrix(1.0000999,0,0,-1.0000999,-.026000649,841.926)" d="M0 0H595.276V841.89H0Z"/>
 </clipPath>
 <clipPath id="clip_3">
-<path transform="matrix(1.02058,0,0,-1.02058,2.241,842.241)" d="M0 0H578.88V825.6H0ZM0 0H578.88V825.6H0Z" clip-rule="evenodd"/>
+<path transform="matrix(1.020682,0,0,-1.020682,2.215223,842.27706)" d="M0 0H578.88V825.6H0Z"/>
+</clipPath>
+<clipPath id="clip_5">
+<path transform="matrix(1.020682,0,0,-1.020682,2.215223,842.27706)" d="M0 0H578.88V825.6H0ZM0 0H578.88V825.6H0Z" clip-rule="evenodd"/>
 </clipPath>
 </defs>
 <g clip-path="url(#clip_1)">
-<g transform="matrix(.24493927,0,0,.24493921,2.241,-.34985353)">
-<image id="image_2" width="2412" height="3440" xlink:href="data:image/png;base64,
+<g clip-path="url(#clip_2)">
+<g clip-path="url(#clip_3)">
+<g transform="matrix(.24496374,0,0,.24496366,2.215223,-.39794923)">
+<image id="image_4" width="2412" height="3440" xlink:href="data:image/png;base64,
 iVBORw0KGgoAAAANSUhEUgAACWwAAA1wCAAAAADEg5W0AAAACXBIWXMAAA7EAAAO
 xAGVKw4bAAD4BUlEQVR4nOzd22LjKLMGUL3/S3vvfzqJBVQhOXbJjrTWxYxjCyjQ
 ga/TmcxyAwCgzPLuAgAAzkzYAgAoJGwBABQStgAACglbAACFhC0AgELCFgBAIWEL
@@ -1344,9 +1352,11 @@ AAAKiS0AgEJiCwCgkNgCACgktgAACoktAIBCYgsAoJDYAgAoJLYAAAqJLQCAQmIL
 AKCQ2AIAKCS2AAAKiS0AgEJiCwCgkNgCACgktgAACoktAIBCYgsAoJDYAgAo9A+3
 lXc3yfngdgAAAABJRU5ErkJggg=="/>
 </g>
-<g clip-path="url(#clip_3)">
-<path transform="matrix(1.02058,0,0,-1.02058,199.90694,359.7108)" stroke-width="2.4" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0H83.52"/>
-<path transform="matrix(1.02058,0,0,-1.02058,282.69639,370.73304)" stroke-width="2.4" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0H41.76"/>
+<g clip-path="url(#clip_5)">
+<path transform="matrix(1.020682,0,0,-1.020682,199.90091,359.6986)" stroke-width="2.4" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0H83.52"/>
+<path transform="matrix(1.020682,0,0,-1.020682,282.6986,370.72196)" stroke-width="2.4" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0H41.76"/>
+</g>
+</g>
 </g>
 </g>
   </g>

@@ -9,12 +9,16 @@
   <g clip-path="url(#crop-clip)" transform="translate(-283.06, -290)">
 <defs>
 <clipPath id="clip_1">
-<path transform="matrix(1.00005,0,0,-1.00005,-.005,841.893)" d="M0 0H595.26V841.86H0Z"/>
+<path transform="matrix(1.00005,0,0,-1.00005,-.013,841.908)" d="M0 0H595.276V841.89H0Z"/>
+</clipPath>
+<clipPath id="clip_2">
+<path transform="matrix(1.0000999,0,0,-1.0000999,-.018000249,841.911)" d="M0 0H595.26V841.86H0Z"/>
 </clipPath>
 </defs>
 <g clip-path="url(#clip_1)">
-<g transform="matrix(.18000882,0,0,.180009,-.005,-.009033203)">
-<image id="image_2" width="3307" height="4677" xlink:href="data:image/png;base64,
+<g clip-path="url(#clip_2)">
+<g transform="matrix(.1800178,0,0,.180018,-.018000249,-.033081056)">
+<image id="image_3" width="3307" height="4677" xlink:href="data:image/png;base64,
 iVBORw0KGgoAAAANSUhEUgAADOsAABJFCAAAAAB0LFG3AAAACXBIWXMAAA7EAAAO
 xAGVKw4bAAHu50lEQVR4nOzdiYKiOgIF0Pz/TzvzuqoUsgdRSTxn3nSrZGMRuQ1i
 uIUQ/vv/f3/8+/vv0fbF9JWwrbd7mE6NimY7zDXweD3p5haPKRra5r9btsXHq/cS
@@ -2657,6 +2661,7 @@ Uz8cOIbtlsHOHzf2AADAU8TN/MfOTbDDt/cPAACwzb/2/LtV/wtzE2yjtwcAAO7m
 8AcAAD4tbpCLdc6R+UZFPwAAcLK4+S3WOcWr/xv1fB8AADhK1CI3N8FJ9n6jw2R5
 IiEAAOgXt6hf5py+n/cTkv525nePJQAAuJC4zfzXr/Mfe0HiPzYNRt8AAAAASUVO
 RK5CYII="/>
+</g>
 </g>
 </g>
   </g>
