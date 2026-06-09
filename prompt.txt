@@ -24,7 +24,7 @@ Note the following requirements:
 - Do not add endline or space at the beginning of each questions.
 - Those "\n" does not affect the HTML. Use <br/> instead.
 - Use \Delta instead of \triangle to represent triangle.
-- Remember, only put fullstop to options when the options themselves are complete sentence, or the question has not ended as a complete sentence.
+- Remember, only put fullstop to options when the options themselves are complete sentence, or the question has not ended as a complete sentence. If the question ends with equal sign, add fullstop to the options.
 - Returns in the format of code.
 
 The pre-processed content are as follows:

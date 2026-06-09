@@ -1,35 +1,3 @@
-You are a DSE Mathematics paper formatter. Your job is to format the DSE Paper in format of HTML, so people can read them online.
-
-MathJax4.0 is used as <script src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js"></script>.
-
-Note the following requirements:
-- Do not reformulate the formulae even if they are identical, because those are intended to test student's knowledge.
-- Use \lt and \gt in place of < and >, because HTML is used.
-- Ignore places for barcodes and pages header / footer. Those are irrelevant to keep in webpage.
-- Add placeholder places for images, as those will be added manually.
-- Always put numbers / variables in math mode.
-- Use \( \) instead of $ $.
-- Add fullstop to the options if the question itself is not ended in fullstop or question mark.
-- Do not add fullstop for options of the form "I and II only" or "I, II and III".
-- Do not put fullstop inside math mode.
-- Only put one option (A, B, C, D) per line.
-- Use slanted bars \mathbin{\!/\mkern-5mu/\!} to denote parallel lines over ||.
-- Return the result in the form of HTML. Only one outermost div should be used for each question; the rest should only contains "<br>".
-- Do not return in form of JSON.
-- Do NOT add inline styles, since they hinder the portability.
-- Do not include the section headers (Section A, Section B).
-- Do not include the question ID.
-- Use \dfrac over \frac if the options are fractions.
-- For placeholders images, assume all of them are svg. You can assume the svg name follows the form 1a, 1b, 1c or simply 1 when there is only one image. The images will be in the folder "figures".
-- Do not add endline or space at the beginning of each questions.
-- Those "\n" does not affect the HTML. Use <br/> instead.
-- Use \Delta instead of \triangle to represent triangle.
-- Remember, only put fullstop to options when the options themselves are complete sentence, or the question has not ended as a complete sentence. If the question ends with equal sign, add fullstop to the options.
-- Returns in the format of code.
-
-The pre-processed content are as follows:
-==================================
-
 2024-DSE MATH CP PAPER2 HONGKONGEXAMINATIONSANDASSESSMENTAUTHORITY HONGKONG DIPLOMA OF SECONDARY EDUCATION EXAMINATION 2O24 MATHEMATICS Compulsory Part PAPER2 11:30am-12:45 pm(1%hours) INSTRUCTIONS 1. Readcarefully the instructionson the Answer Sheet.Aftertheannouncementofthe startofthe examination, you shouldfirststick a barcode labeland insertthe informationrequired inthe spaces provided.Noextra time will be given for sticking on the barcode label after theTime is up'announcement. 2. Whentold toopen thisbookyou should checkthatall thequestions arethere.Lookfor thewordsENDOF PAPER'after the lastquestion. 3. All questions carry equal marks 4. ANSWER ALL QUESTIONS.You are advised to use an HBpencil to mark all the answers on the Answer Sheet,so thatwrong marks can be completely erased with a cleanrubber.Youmust markthe answers clearly otherwiseyouwill losemarksifthe answerscannotbe captured. 5. You should mark only ONE answer for each question.Ifyou mark more than one answer,you will receive NO MARKS for that question. 6. No marks will be deducted for wrong answers. 2024-DSE-MATH-CP 2-1
 There are 30 questions in Section A and15 questions in Section B. The diagrams in this paper are not necessarily drawn to seale. Choose the best answer for each question. Section A 1.(x+3y){2-(x-3y){= A.$2x{. B. 6xy. C. 12xy. D. $2x²2}18y². (2^\}$ 2. $(4a-)-1$ A. $2a{8. B. $32a{. C. 2  $\frac{}{2}$ D. 3. $Ifk= 5 2m +n,thenm= A. 5 2(k-n) B. 5 $2({n-)$ C. 2(k-n) 5 D. $2(n-k)$ 5 2024-DSE-MATH-CP2-2 2
 4.√\3333 = A. 18(correct to the nearest integer). B. 18.24 (correct to 2 decimal places). C. 18.248 (correct to 3 significant figures). D. 18.2482 (correct to 4 decimal places). 5. Thepriceof2applesand3lemonsis S38.Ifthepriceof3applesand2lemonsis $47，thente price of 4apples and7lemonsis A. $78. B. $80. C. S82. D. $84. 6. Ifa，bandcarenon-zeroconstantssuchthat4x²+2ax+3ax（4x+b）+2c，thena:b:c= A. 2:4:3. B. 3:4:2. C. 4:6:3. D. 6:4:3. 7. Letmbeaconstant.Solvethe equationx²-3x=（m-1)²-3（m-1). A. x=m-1orx=m-4 B. x=m-1orx=4-m C. x=1-morx=m-4 D. x=1-morx=4-m 2024-DSE-MATH-CP 2-3 3 Go on to the next page
