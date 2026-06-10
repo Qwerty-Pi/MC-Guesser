@@ -4,12 +4,13 @@
     <meta charset="UTF-8">
     <title>DSE Mathematics Compulsory Part Practice Paper</title>
     <script src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js"></script>
+    <script src="https://code.jquery.com/jquery-4.0.0.js" integrity="sha256-9fsHeVnKBvqh3FB2HYu7g2xseAZ5MlN6Kz/qnkASV8U=" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="index.css">
 </head>
 <body>
 	<style>
 		div {
-			margin-bottom: 2em;
+			margin-bottom: 1em;
 		}
 		img {
 			filter: invert(0.917); 
@@ -25,7 +26,7 @@
 			outline-style: none;	
 		}
 
-		select, button, option {
+		select, button, option, input {
 			background-color: var(--background-color);
 		}
 
@@ -46,72 +47,140 @@
 		option:hover {
 			background: color-mix(in srgb, var(--background-color) 100%, var(--text-color) 20%) !important;
 		}
+
+        #content {
+            margin-top: 6em;
+        }
 	</style>
 	<div id="selector">
-		DSE Mathematics 
-		<select id="paper">
-			<!-- <option value="1">Paper 1</option> -->
-			<option value="2">Paper 2</option>
-		</select>
-        <select id="topic">
-        <optgroup label="Junior Secondary Mathematics">
-            <option value="J1">J1. Basic computation</option>
-            <option value="J2">J2. Directed numbers</option>
-            <option value="J3">J3. Approximate values and numerical estimation</option>
-            <option value="J4">J4. Rational and irrational numbers</option>
-            <option value="J5">J5. Using percentages</option>
-            <option value="J6">J6. Rates, ratios and proportions</option>
-            <option value="J7">J7. Algebraic expressions</option>
-            <option value="J8">J8. Linear equations in one unknown</option>
-            <option value="J9">J9. Linear equations in two unknowns</option>
-            <option value="J10">J10. Laws of integral indices</option>
-            <option value="J11">J11. Polynomials</option>
-            <option value="J12">J12. Identities</option>
-            <option value="J13">J13. Formulae</option>
-            <option value="J14">J14. Linear inequalities in one unknown</option>
-            <option value="J15">J15. Errors in measurement</option>
-            <option value="J16">J16. Arc lengths and areas of sectors</option>
-            <option value="J17">J17. 3-D figures</option>
-            <option value="J18">J18. Mensuration</option>
-            <option value="J19">J19. Angles and parallel lines</option>
-            <option value="J20">J20. Polygons</option>
-            <option value="J21">J21. Congruent triangles</option>
-            <option value="J22">J22. Similar triangles</option>
-            <option value="J23">J23. Quadrilaterals</option>
-            <option value="J24">J24. Centres of triangles</option>
-            <option value="J25">J25. Pythagoras’ theorem</option>
-            <option value="J26">J26. Rectangular coordinate system</option>
-            <option value="J27">J27. Trigonometry</option>
-            <option value="J28">J28. Organisation of data</option>
-            <option value="J29">J29. Presentation of data</option>
-            <option value="J30">J30. Measures of central tendency</option>
-            <option value="J31">J31. Probability</option>
-        </optgroup>
+        <div>
+            <span>DSE Mathematics</span>
+            <select id="paper">
+                <!-- <option value="1">Paper 1</option> -->
+                <option value="2">Paper 2</option>
+            </select>
+            <select id="topic">
+                <optgroup label="Junior Secondary Mathematics">
+                    <option value="J1">J1. Basic computation</option>
+                    <option value="J2">J2. Directed numbers</option>
+                    <option value="J3">J3. Approximate values and numerical estimation</option>
+                    <option value="J4">J4. Rational and irrational numbers</option>
+                    <option value="J5">J5. Using percentages</option>
+                    <option value="J6">J6. Rates, ratios and proportions</option>
+                    <option value="J7">J7. Algebraic expressions</option>
+                    <option value="J8">J8. Linear equations in one unknown</option>
+                    <option value="J9">J9. Linear equations in two unknowns</option>
+                    <option value="J10">J10. Laws of integral indices</option>
+                    <option value="J11">J11. Polynomials</option>
+                    <option value="J12">J12. Identities</option>
+                    <option value="J13">J13. Formulae</option>
+                    <option value="J14">J14. Linear inequalities in one unknown</option>
+                    <option value="J15">J15. Errors in measurement</option>
+                    <option value="J16">J16. Arc lengths and areas of sectors</option>
+                    <option value="J17">J17. 3-D figures</option>
+                    <option value="J18">J18. Mensuration</option>
+                    <option value="J19">J19. Angles and parallel lines</option>
+                    <option value="J20">J20. Polygons</option>
+                    <option value="J21">J21. Congruent triangles</option>
+                    <option value="J22">J22. Similar triangles</option>
+                    <option value="J23">J23. Quadrilaterals</option>
+                    <option value="J24">J24. Centres of triangles</option>
+                    <option value="J25">J25. Pythagoras’ theorem</option>
+                    <option value="J26">J26. Rectangular coordinate system</option>
+                    <option value="J27">J27. Trigonometry</option>
+                    <option value="J28">J28. Organisation of data</option>
+                    <option value="J29">J29. Presentation of data</option>
+                    <option value="J30">J30. Measures of central tendency</option>
+                    <option value="J31">J31. Probability</option>
+                </optgroup>
 
-        <optgroup label="Senior Secondary Mathematics (Compulsory Part)">
-            <option value="S1">S1. Quadratic equations in one unknown</option>
-            <option value="S2">S2. Functions and graphs</option>
-            <option value="S3">S3. Exponential and logarithmic functions</option>
-            <option value="S4">S4. More about polynomials</option>
-            <option value="S5">S5. More about equations</option>
-            <option value="S6">S6. Variations</option>
-            <option value="S7">S7. Arithmetic and geometric sequences and their summations</option>
-            <option value="S8">S8. Inequalities and linear programming</option>
-            <option value="S9">S9. More about graphs of functions</option>
-            <option value="S10">S10. Equations of straight lines</option>
-            <option value="S11">S11. Basic properties of circles</option>
-            <option value="S12">S12. Loci</option>
-            <option value="S13">S13. Equations of circles</option>
-            <option value="S14">S14. More about trigonometry</option>
-            <option value="S15">S15. Permutations and combinations</option>
-            <option value="S16">S16. More about probability</option>
-            <option value="S17">S17. Measures of dispersion</option>
-            <option value="S18">S18. Uses and abuses of statistics</option>
-            <option value="S19">S19. Further applications</option>
-        </optgroup>
-    </select>
-        <span id="load">Loading...</span>
-		<button id="load-btn" style="display: none" onclick="loadTopic()">Load</button>
+                <optgroup label="Senior Secondary Mathematics (Compulsory Part)">
+                    <option value="S1">S1. Quadratic equations in one unknown</option>
+                    <option value="S2">S2. Functions and graphs</option>
+                    <option value="S3">S3. Exponential and logarithmic functions</option>
+                    <option value="S4">S4. More about polynomials</option>
+                    <option value="S5">S5. More about equations</option>
+                    <option value="S6">S6. Variations</option>
+                    <option value="S7">S7. Arithmetic and geometric sequences and their summations</option>
+                    <option value="S8">S8. Inequalities and linear programming</option>
+                    <option value="S9">S9. More about graphs of functions</option>
+                    <option value="S10">S10. Equations of straight lines</option>
+                    <option value="S11">S11. Basic properties of circles</option>
+                    <option value="S12">S12. Loci</option>
+                    <option value="S13">S13. Equations of circles</option>
+                    <option value="S14">S14. More about trigonometry</option>
+                    <option value="S15">S15. Permutations and combinations</option>
+                    <option value="S16">S16. More about probability</option>
+                    <option value="S17">S17. Measures of dispersion</option>
+                    <option value="S18">S18. Uses and abuses of statistics</option>
+                </optgroup>
+            </select>
+            <span id="load">Loading...</span>
+            <!-- <button id="load-btn" style="display: none" onclick="loadTopic()">Load</button> -->
+
+        </div>
+        <div>
+            <label>Change</label>
+            <input id="change-question-label" maxlength="10" size="10" disabled style="text-align: center;"></input>
+            to
+            <select id="change-topic">
+                <optgroup label="Junior Secondary Mathematics">
+                    <option value="J1">J1. Basic computation</option>
+                    <option value="J2">J2. Directed numbers</option>
+                    <option value="J3">J3. Approximate values and numerical estimation</option>
+                    <option value="J4">J4. Rational and irrational numbers</option>
+                    <option value="J5">J5. Using percentages</option>
+                    <option value="J6">J6. Rates, ratios and proportions</option>
+                    <option value="J7">J7. Algebraic expressions</option>
+                    <option value="J8">J8. Linear equations in one unknown</option>
+                    <option value="J9">J9. Linear equations in two unknowns</option>
+                    <option value="J10">J10. Laws of integral indices</option>
+                    <option value="J11">J11. Polynomials</option>
+                    <option value="J12">J12. Identities</option>
+                    <option value="J13">J13. Formulae</option>
+                    <option value="J14">J14. Linear inequalities in one unknown</option>
+                    <option value="J15">J15. Errors in measurement</option>
+                    <option value="J16">J16. Arc lengths and areas of sectors</option>
+                    <option value="J17">J17. 3-D figures</option>
+                    <option value="J18">J18. Mensuration</option>
+                    <option value="J19">J19. Angles and parallel lines</option>
+                    <option value="J20">J20. Polygons</option>
+                    <option value="J21">J21. Congruent triangles</option>
+                    <option value="J22">J22. Similar triangles</option>
+                    <option value="J23">J23. Quadrilaterals</option>
+                    <option value="J24">J24. Centres of triangles</option>
+                    <option value="J25">J25. Pythagoras’ theorem</option>
+                    <option value="J26">J26. Rectangular coordinate system</option>
+                    <option value="J27">J27. Trigonometry</option>
+                    <option value="J28">J28. Organisation of data</option>
+                    <option value="J29">J29. Presentation of data</option>
+                    <option value="J30">J30. Measures of central tendency</option>
+                    <option value="J31">J31. Probability</option>
+                </optgroup>
+
+                <optgroup label="Senior Secondary Mathematics (Compulsory Part)">
+                    <option value="S1">S1. Quadratic equations in one unknown</option>
+                    <option value="S2">S2. Functions and graphs</option>
+                    <option value="S3">S3. Exponential and logarithmic functions</option>
+                    <option value="S4">S4. More about polynomials</option>
+                    <option value="S5">S5. More about equations</option>
+                    <option value="S6">S6. Variations</option>
+                    <option value="S7">S7. Arithmetic and geometric sequences and their summations</option>
+                    <option value="S8">S8. Inequalities and linear programming</option>
+                    <option value="S9">S9. More about graphs of functions</option>
+                    <option value="S10">S10. Equations of straight lines</option>
+                    <option value="S11">S11. Basic properties of circles</option>
+                    <option value="S12">S12. Loci</option>
+                    <option value="S13">S13. Equations of circles</option>
+                    <option value="S14">S14. More about trigonometry</option>
+                    <option value="S15">S15. Permutations and combinations</option>
+                    <option value="S16">S16. More about probability</option>
+                    <option value="S17">S17. Measures of dispersion</option>
+                    <option value="S18">S18. Uses and abuses of statistics</option>
+                </optgroup>
+            </select>
+            <button onclick="changeTopic()">Change</button>
+        </div>
 	</div>
 	<div></div>
 	<div id="content">
@@ -148,6 +217,32 @@
             document.getElementById("load-btn").style = ""
         }
 
+        async function changeTopic() {
+            const label = $("#change-question-label").val()
+            const parts = label.split(" ")
+            const year = parts[0]
+            const q = parts[1]
+            const topic = $("#change-topic").val()
+
+            let data = {
+                'year': year,
+                'q': q,
+                'topic': topic
+            }
+
+            let headers = {
+                "Content-Type": "application/json"
+            }
+
+            res = await fetch("update_topic.php", {
+                method: "POST",
+                headers: headers,
+                body: JSON.stringify(data)
+            })
+
+            console.log(await res.text())
+        }
+
         async function loadTopic() {
             const topic = document.getElementById("topic").value
             const e = document.getElementById("content");
@@ -159,15 +254,23 @@
                 for (var q = 0; q < questions_year.length; q++) {
                     let identifier = `${year} Q${q+1}`
                     if (topics_year[q] == topic) {
-                        e.innerHTML += `<div>${qid}. (${identifier}) ${questions_year[q]}</div>`
+                        e.innerHTML += `<div class="question" data-identifier="${year} ${q}">${qid}. (${identifier}) ${questions_year[q]}</div>`
                         qid += 1;
                     }
                 }
             }
+            $("#change-topic").val(topic)
+            $(".question").on('click', function(e) {
+                $("#change-question-label").val($(e.target).data("identifier"))
+                $("#change-question-label").change()
+            })
             await MathJax.typesetPromise();
         }
         loadData()
 
+		document.getElementById("topic").addEventListener('change', function() {
+			loadTopic();
+		})
 	</script>
 </body>
 </html>
