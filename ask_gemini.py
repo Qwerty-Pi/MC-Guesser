@@ -7,7 +7,7 @@ client = genai.Client(api_key=os.environ["GOOGLE_API_KEY"])
 
 def ask(prompt):
     response = client.models.generate_content(
-        model='gemini-3.1-flash-lite',
+        model='gemini-3.5-flash',
         contents=prompt
     )
     print(response)
