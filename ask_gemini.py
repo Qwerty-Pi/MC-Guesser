@@ -3,11 +3,11 @@ from google.genai import types
 import os, httpx, sys
 import json
 
-client = genai.Client(api_key=os.environ["GOOGLE_API_KEY"]) # 5 minutes
+client = genai.Client(api_key=os.environ["GOOGLE_API_KEY"])
 
 def ask(prompt):
     response = client.models.generate_content(
-        model='gemini-3.5-flash',
+        model='gemini-3.1-flash-lite',
         contents=prompt
     )
     print(response)
@@ -15,8 +15,10 @@ def ask(prompt):
 
 def by_topic(year):
     prompt = open("topics_J.json", "r").read() + open("topics_S.json", "r").read()
-    prompt += "\nRefers to the above documents, classify the topics listed below, and return as an array of the format J1, S3 where J refers to junior, S refers to senior.\n"
+    prompt += "\nRefers to the above documents, classify the topics listed below, and return as an array of the format J1, S3 where J refers to junior, S refers to senior. Return in JSON format.\n"
     prompt += open(f"artifact/paper-2/{year}/questions.html").read()
+    print(prompt)
+    exit(0)
     res = ask(prompt)
     return json.loads(res[7:-3])
 
