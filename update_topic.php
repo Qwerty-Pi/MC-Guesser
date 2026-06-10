@@ -1,7 +1,7 @@
 <?php
     $data = json_decode(trim(file_get_contents("php://input")), true);
 
-    if (!isset($data['year']) || !$data['year'] || !isset($data['q']) || !$data['q'])
+    if (!isset($data['year']) || !$data['year'] || !isset($data['q']))
         die(0);
 
     $year = $data['year'];
