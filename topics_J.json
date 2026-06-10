@@ -1,0 +1,348 @@
+{
+  "Junior Secondary Mathematics Curriculum": [
+    {
+      "strand": "Number and Algebra Strand",
+      "learning_units": [
+        {
+          "unit_number": 1,
+          "unit_name": "Basic computation",
+          "learning_objectives": [
+            "1.1 recognise the tests of divisibility of 4, 6, 8 and 9",
+            "1.2 understand the concept of power",
+            "1.3 perform prime factorisation of positive integers",
+            "1.4 find the greatest common divisor and the least common multiple",
+            "1.5 perform mixed arithmetic operations of positive integers involving multiple levels of brackets",
+            "1.6 perform mixed arithmetic operations of fractions and decimals"
+          ]
+        },
+        {
+          "unit_number": 2,
+          "unit_name": "Directed numbers",
+          "learning_objectives": [
+            "2.1 understand the concept of directed numbers",
+            "2.2 perform mixed arithmetic operations of directed numbers",
+            "2.3 solve problems involving directed numbers"
+          ]
+        },
+        {
+          "unit_number": 3,
+          "unit_name": "Approximate values and numerical estimation",
+          "learning_objectives": [
+            "3.1 recognise the concept of approximate values",
+            "3.2 understand the estimation strategies",
+            "3.3 solve related real-life problems",
+            "3.4 design numerical estimation strategies according to the contexts and judge the reasonableness of the results obtained"
+          ]
+        },
+        {
+          "unit_number": 4,
+          "unit_name": "Rational and irrational numbers",
+          "learning_objectives": [
+            "4.1 recognise the concept of nth root",
+            "4.2 recognise the concepts of rational and irrational numbers",
+            "4.3 perform mixed arithmetic operations of simple quadratic surds a√b",
+            "4.4 explore the relation between constructible numbers and rational and irrational numbers"
+          ]
+        },
+        {
+          "unit_number": 5,
+          "unit_name": "Using percentages",
+          "learning_objectives": [
+            "5.1 understand the concept of percentage changes",
+            "5.2 solve related real-life problems"
+          ]
+        },
+        {
+          "unit_number": 6,
+          "unit_name": "Rates, ratios and proportions",
+          "learning_objectives": [
+            "6.1 understand the concepts of rates, ratios and proportions",
+            "6.2 solve problems involving rates, ratios and proportions"
+          ]
+        },
+        {
+          "unit_number": 7,
+          "unit_name": "Algebraic expressions",
+          "learning_objectives": [
+            "7.1 represent word phrases by algebraic expressions",
+            "7.2 represent algebraic expressions by word phrases",
+            "7.3 recognise the concept of sequences of numbers",
+            "7.4 recognise the preliminary idea of functions"
+          ]
+        },
+        {
+          "unit_number": 8,
+          "unit_name": "Linear equations in one unknown",
+          "learning_objectives": [
+            "8.1 solve linear equations in one unknown",
+            "8.2 formulate linear equations in one unknown from a problem situation",
+            "8.3 solve problems involving linear equations in one unknown"
+          ]
+        },
+        {
+          "unit_number": 9,
+          "unit_name": "Linear equations in two unknowns",
+          "learning_objectives": [
+            "9.1 understand the concept of linear equations in two unknowns and their graphs",
+            "9.2 solve simultaneous linear equations in two unknowns by the graphical method",
+            "9.3 solve simultaneous linear equations in two unknowns by the algebraic methods",
+            "9.4 formulate simultaneous linear equations in two unknowns from a problem situation",
+            "9.5 solve problems involving simultaneous linear equations in two unknowns"
+          ]
+        },
+        {
+          "unit_number": 10,
+          "unit_name": "Laws of integral indices",
+          "learning_objectives": [
+            "10.1 understand the laws of positive integral indices",
+            "10.2 understand the definitions of zero exponent and negative exponents",
+            "10.3 understand the laws of integral indices",
+            "10.4 understand scientific notations",
+            "10.5 understand the binary number system and the denary number system",
+            "10.6 understand other numeral systems, such as the hexadecimal number system"
+          ]
+        },
+        {
+          "unit_number": 11,
+          "unit_name": "Polynomials",
+          "learning_objectives": [
+            "11.1 understand the concept of polynomials",
+            "11.2 perform addition, subtraction, multiplication and their mixed operations of polynomials",
+            "11.3 factorise polynomials"
+          ]
+        },
+        {
+          "unit_number": 12,
+          "unit_name": "Identities",
+          "learning_objectives": [
+            "12.1 understand the concept of identities",
+            "12.2 use identities to expand algebraic expressions",
+            "12.3 use identities to factorise polynomials"
+          ]
+        },
+        {
+          "unit_number": 13,
+          "unit_name": "Formulae",
+          "learning_objectives": [
+            "13.1 perform operations of algebraic fractions",
+            "13.2 use substitution to find the values of unknowns in the formulae",
+            "13.3 change the subject of formulae not involving radical signs"
+          ]
+        },
+        {
+          "unit_number": 14,
+          "unit_name": "Linear inequalities in one unknown",
+          "learning_objectives": [
+            "14.1 understand the concept of inequalities",
+            "14.2 recognise the basic properties of inequalities",
+            "14.3 solve linear inequalities in one unknown",
+            "14.4 solve problems involving linear inequalities in one unknown"
+          ]
+        }
+      ]
+    },
+    {
+      "strand": "Measures, Shape and Space Strand",
+      "learning_units": [
+        {
+          "unit_number": 15,
+          "unit_name": "Errors in measurement",
+          "learning_objectives": [
+            "15.1 recognise the concept of errors in measurement",
+            "15.2 recognise the concepts of maximum absolute errors, relative errors and percentage errors",
+            "15.3 solve problems related to errors",
+            "15.4 design estimation strategies in measurement according to the contexts and judge the reasonableness of the results obtained"
+          ]
+        },
+        {
+          "unit_number": 16,
+          "unit_name": "Arc lengths and areas of sectors",
+          "learning_objectives": [
+            "16.1 understand the formula for arc lengths of circles",
+            "16.2 understand the formula for areas of sectors of circles",
+            "16.3 solve problems related to arc lengths and areas of sectors of circles",
+            "16.4 recognise the Circle Dissection Algorithm of the ancient Chinese mathematician Liu Hui and further recognise Huilu and Tsulu (approximations of π)"
+          ]
+        },
+        {
+          "unit_number": 17,
+          "unit_name": "3-D figures",
+          "learning_objectives": [
+            "17.1 recognise the concepts of right prisms, right circular cylinders, right pyramids, right circular cones, regular prisms, regular pyramids, polyhedra and spheres",
+            "17.2 recognise the sections of prisms, circular cylinders, pyramids, circular cones, polyhedra and spheres",
+            "17.3 sketch the 2-D representations of 3-D figures",
+            "17.4 recognise the three orthographic views of 3-D figures",
+            "17.5 recognise Euler’s formula and explore the number of regular polyhedra (Platonic solids)"
+          ]
+        },
+        {
+          "unit_number": 18,
+          "unit_name": "Mensuration",
+          "learning_objectives": [
+            "18.1 recognise the formulae for volumes of prisms, circular cylinders, pyramids, circular cones and spheres",
+            "18.2 find the surface areas of right prisms, right circular cylinders, right pyramids, right circular cones and spheres",
+            "18.3 recognise the relations among lengths, areas and volumes of similar figures and solve related problems",
+            "18.4 solve problems involving volumes and surface areas",
+            "18.5 explore ways to form a container with the greatest capacity by folding an A4-sized paper with squares cutting from its four corners"
+          ]
+        },
+        {
+          "unit_number": 19,
+          "unit_name": "Angles and parallel lines",
+          "learning_objectives": [
+            "19.1 understand the concepts and properties of adjacent angles on a straight line, vertically opposite angles and angles at a point",
+            "19.2 understand the concepts of corresponding angles, alternate interior angles and interior angles",
+            "19.3 recognise the conditions for two straight lines being parallel",
+            "19.4 recognise the angle properties associated with parallel lines",
+            "19.5 understand the properties of the interior and exterior angles of triangles"
+          ]
+        },
+        {
+          "unit_number": 20,
+          "unit_name": "Polygons",
+          "learning_objectives": [
+            "20.1 understand the concept of regular polygons",
+            "20.2 understand the formula for the sum of the interior angles of a polygon",
+            "20.3 understand the formula for the sum of the exterior angles of a convex polygon",
+            "20.4 appreciate the triangles, quadrilaterals, and regular polygons that tessellate in the plane",
+            "20.5 construct equilateral triangles and regular hexagons with compasses and straightedge",
+            "20.6 explore ways to construct regular pentagons with compasses and straightedge"
+          ]
+        },
+        {
+          "unit_number": 21,
+          "unit_name": "Congruent triangles",
+          "learning_objectives": [
+            "21.1 understand the concept of congruent triangles",
+            "21.2 recognise the conditions for congruent triangles",
+            "21.3 understand the property of isosceles triangles",
+            "21.4 understand the condition for isosceles triangles",
+            "21.5 construct angle bisectors, perpendicular bisectors, perpendicular lines, parallel lines, special angles and squares with compasses and straightedge",
+            "21.6 recognise the concept of congruent 2-D figures",
+            "21.7 explore the angles that can be constructed with compasses and straightedge"
+          ]
+        },
+        {
+          "unit_number": 22,
+          "unit_name": "Similar triangles",
+          "learning_objectives": [
+            "22.1 understand the concept of similar triangles",
+            "22.2 recognise the conditions for similar triangles",
+            "22.3 recognise the concept of similar 2-D figures",
+            "22.4 explore shapes of fractals"
+          ]
+        },
+        {
+          "unit_number": 23,
+          "unit_name": "Quadrilaterals",
+          "learning_objectives": [
+            "23.1 understand the properties of parallelograms",
+            "23.2 understand the properties of rectangles, rhombuses and squares",
+            "23.3 understand the conditions for parallelograms",
+            "23.4 use the above properties or conditions to perform simple geometric proofs",
+            "23.5 understand the mid-point theorem and the intercept theorem",
+            "23.6 explore the conditions for congruent quadrilaterals"
+          ]
+        },
+        {
+          "unit_number": 24,
+          "unit_name": "Centres of triangles",
+          "learning_objectives": [
+            "24.1 understand the properties of angle bisectors and perpendicular bisectors",
+            "24.2 understand the concurrence of angle bisectors and the concurrence of perpendicular bisectors of a triangle",
+            "24.3 recognise the concurrence of medians and the concurrence of altitudes of a triangle"
+          ]
+        },
+        {
+          "unit_number": 25,
+          "unit_name": "Pythagoras’ theorem",
+          "learning_objectives": [
+            "25.1 understand the Pythagoras’ theorem",
+            "25.2 recognise the converse of Pythagoras’ theorem",
+            "25.3 solve problems related to Pythagoras’ theorem and its converse",
+            "25.4 explore Pythagorean triples"
+          ]
+        },
+        {
+          "unit_number": 26,
+          "unit_name": "Rectangular coordinate system",
+          "learning_objectives": [
+            "26.1 recognise the rectangular coordinate system",
+            "26.2 find the distance between two points on a horizontal line and the distance between two points on a vertical line",
+            "26.3 find areas of polygons in the rectangular coordinate plane",
+            "26.4 recognise the effect of transformations on a point in the rectangular coordinate plane",
+            "26.5 understand the distance formula",
+            "26.6 understand the mid-point formula and the formula for the internal point of division",
+            "26.7 understand the slope formula and solve related problems",
+            "26.8 recognise the relation between the slopes of parallel lines and the relation between the slopes of perpendicular lines, and solve related problems",
+            "26.9 use coordinate geometry to perform simple geometric proofs",
+            "26.10 explore the formula for the external point of division"
+          ]
+        },
+        {
+          "unit_number": 27,
+          "unit_name": "Trigonometry",
+          "learning_objectives": [
+            "27.1 understand sine, cosine and tangent of angles between 0° and 90°",
+            "27.2 understand the properties of trigonometric ratios",
+            "27.3 understand the exact values of trigonometric ratios of 30°, 45° and 60°",
+            "27.4 solve problems related to plane figures",
+            "27.5 solve problems involving gradients, angles of elevation, angles of depression and bearings"
+          ]
+        }
+      ]
+    },
+    {
+      "strand": "Data Handling Strand",
+      "learning_units": [
+        {
+          "unit_number": 28,
+          "unit_name": "Organisation of data",
+          "learning_objectives": [
+            "28.1 recognise the concepts of discrete data and continuous data",
+            "28.2 recognise organisation of data without grouping",
+            "28.3 recognise organisation of data in groups"
+          ]
+        },
+        {
+          "unit_number": 29,
+          "unit_name": "Presentation of data",
+          "learning_objectives": [
+            "29.1 recognise stem-and-leaf diagrams and histograms",
+            "29.2 interpret stem-and-leaf diagrams and histograms",
+            "29.3 interpret statistical charts representing two different sets of data in daily life",
+            "29.4 recognise frequency polygons, frequency curves, cumulative frequency polygons and cumulative frequency curves",
+            "29.5 interpret frequency polygons, frequency curves, cumulative frequency polygons and cumulative frequency curves",
+            "29.6 choose appropriate statistical charts to present data",
+            "29.7 recognise the uses and abuses of statistical charts in daily life"
+          ]
+        },
+        {
+          "unit_number": 30,
+          "unit_name": "Measures of central tendency",
+          "learning_objectives": [
+            "30.1 understand the concepts of mean, median and mode/modal class",
+            "30.2 calculate mean, median and mode of ungrouped data",
+            "30.3 calculate mean, median and modal class of grouped data",
+            "30.4 recognise the uses and abuses of mean, median and mode/modal class in daily life",
+            "30.5 understand the effects of the following operations on the mean, median, and mode: (i) adding a common constant to each item of the set of data (ii) multiplying each item of the set of data by a common constant",
+            "30.6 recognise the concept of weighted mean",
+            "30.7 solve problems involving weighted mean"
+          ]
+        },
+        {
+          "unit_number": 31,
+          "unit_name": "Probability",
+          "learning_objectives": [
+            "31.1 recognise the concepts of certain events, impossible events and random events",
+            "31.2 recognise the concept of probability",
+            "31.3 calculate probabilities of events by listing the sample space and counting",
+            "31.4 solve problems involving probability",
+            "31.5 recognise the concept of expectation",
+            "31.6 solve problems involving expectation"
+          ]
+        }
+      ]
+    }
+  ]
+}

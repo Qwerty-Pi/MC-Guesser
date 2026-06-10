@@ -1,3 +1,0 @@
-cp display.html /var/www/general-wiki/secret
-rm -r /var/www/general-wiki/secret/artifact
-cp -r artifact /var/www/general-wiki/secret/artifact

@@ -1,0 +1,237 @@
+{
+  "Senior Secondary Mathematics Curriculum (Compulsory Part)": [
+    {
+      "strand": "Number and Algebra Strand",
+      "learning_units": [
+        {
+          "unit_number": 1,
+          "unit_name": "Quadratic equations in one unknown",
+          "learning_objectives": [
+            "1.1 solve quadratic equations by the factor method",
+            "1.2 form quadratic equations from given roots",
+            "1.3 solve the equation ax^2+bx+c=0 by plotting the graph of the parabola y=ax^2+bx+c and reading the x-intercepts",
+            "1.4 solve quadratic equations by the quadratic formula",
+            "1.5 understand the relations between the discriminant of a quadratic equation and the nature of its roots",
+            "1.6 solve problems involving quadratic equations",
+            "1.7 understand the relations between the roots and coefficients and form quadratic equations using these relations",
+            "1.8 appreciate the development of the number systems including the system of complex numbers",
+            "1.9 perform addition, subtraction, multiplication and division of complex numbers"
+          ]
+        },
+        {
+          "unit_number": 2,
+          "unit_name": "Functions and graphs",
+          "learning_objectives": [
+            "2.1 recognise the intuitive concepts of functions, domains and co-domains, independent and dependent variables",
+            "2.2 recognise the notation of functions and use tabular, algebraic and graphical methods to represent functions",
+            "2.3 understand the features of the graphs of quadratic functions",
+            "2.4 find the maximum and minimum values of quadratic functions by the algebraic method"
+          ]
+        },
+        {
+          "unit_number": 3,
+          "unit_name": "Exponential and logarithmic functions",
+          "learning_objectives": [
+            "3.1 understand the definitions of rational indices",
+            "3.2 understand the laws of rational indices",
+            "3.3 understand the definition and properties of logarithms (including the change of base)",
+            "3.4 understand the properties of exponential functions and logarithmic functions and recognise the features of their graphs",
+            "3.5 solve exponential equations and logarithmic equations",
+            "3.6 appreciate the applications of logarithms in real-life situations",
+            "3.7 appreciate the development of the concepts of logarithms"
+          ]
+        },
+        {
+          "unit_number": 4,
+          "unit_name": "More about polynomials",
+          "learning_objectives": [
+            "4.1 perform division of polynomials",
+            "4.2 understand the remainder theorem",
+            "4.3 understand the factor theorem",
+            "4.4 understand the concepts of the greatest common divisor and the least common multiple of polynomials",
+            "4.5 perform addition, subtraction, multiplication and division of rational functions"
+          ]
+        },
+        {
+          "unit_number": 5,
+          "unit_name": "More about equations",
+          "learning_objectives": [
+            "5.1 use the graphical method to solve simultaneous equations in two unknowns, one linear and one quadratic in the form y=ax^2+bx+c",
+            "5.2 use the algebraic method to solve simultaneous equations in two unknowns, one linear and one quadratic",
+            "5.3 solve equations (including fractional equations, exponential equations, logarithmic equations and trigonometric equations) which can be transformed into quadratic equations",
+            "5.4 solve problems involving equations which can be transformed into quadratic equations"
+          ]
+        },
+        {
+          "unit_number": 6,
+          "unit_name": "Variations",
+          "learning_objectives": [
+            "6.1 understand direct variations and inverse variations, and their applications to solving real-life problems",
+            "6.2 understand the graphs of direct and inverse variations",
+            "6.3 understand joint and partial variations, and their applications to solving real-life problems"
+          ]
+        },
+        {
+          "unit_number": 7,
+          "unit_name": "Arithmetic and geometric sequences and their summations",
+          "learning_objectives": [
+            "7.1 understand the concept and the properties of arithmetic sequences",
+            "7.2 understand the general term of an arithmetic sequence",
+            "7.3 understand the concept and the properties of geometric sequences",
+            "7.4 understand the general term of a geometric sequence",
+            "7.5 understand the general formulae of the sum to a finite number of terms of an arithmetic sequence and a geometric sequence and use the formulae to solve related problems",
+            "7.6 explore the general formulae of the sum to infinity for certain geometric sequences and use the formulae to solve related problems",
+            "7.7 solve related real-life problems"
+          ]
+        },
+        {
+          "unit_number": 8,
+          "unit_name": "Inequalities and linear programming",
+          "learning_objectives": [
+            "8.1 solve compound linear inequalities in one unknown",
+            "8.2 solve quadratic inequalities in one unknown by the graphical method",
+            "8.3 solve quadratic inequalities in one unknown by the algebraic method",
+            "8.4 represent the graphs of linear inequalities in two unknowns in the rectangular coordinate plane",
+            "8.5 solve systems of linear inequalities in two unknowns",
+            "8.6 solve linear programming problems"
+          ]
+        },
+        {
+          "unit_number": 9,
+          "unit_name": "More about graphs of functions",
+          "learning_objectives": [
+            "9.1 sketch and compare graphs of various types of functions including constant, linear, quadratic, trigonometric, exponential and logarithmic functions",
+            "9.2 solve the equation f(x)=k using the graph of y=f(x)",
+            "9.3 solve the inequalities f(x) > k, f(x) < k, f(x) >= k and f(x) <= k using the graph of y=f(x)",
+            "9.4 understand the transformations of the function f(x) including f(x) + k, f(x + k), k f(x) and f(kx) from tabular, symbolic and graphical perspectives"
+          ]
+        }
+      ]
+    },
+    {
+      "strand": "Measures, Shape and Space Strand",
+      "learning_units": [
+        {
+          "unit_number": 10,
+          "unit_name": "Equations of straight lines",
+          "learning_objectives": [
+            "10.1 understand the equation of a straight line",
+            "10.2 understand the possible intersection of two straight lines"
+          ]
+        },
+        {
+          "unit_number": 11,
+          "unit_name": "Basic properties of circles",
+          "learning_objectives": [
+            "11.1 understand the properties of chords and arcs of a circle",
+            "11.2 understand the angle properties of a circle",
+            "11.3 understand the properties of a cyclic quadrilateral",
+            "11.4 understand the tests for concyclic points and cyclic quadrilaterals",
+            "11.5 understand the properties of tangents to a circle and angles in the alternate segments",
+            "11.6 use the basic properties of circles to perform simple geometric proofs"
+          ]
+        },
+        {
+          "unit_number": 12,
+          "unit_name": "Loci",
+          "learning_objectives": [
+            "12.1 understand the concept of loci",
+            "12.2 describe and sketch the locus of points satisfying given conditions",
+            "12.3 describe the locus of points with algebraic equations"
+          ]
+        },
+        {
+          "unit_number": 13,
+          "unit_name": "Equations of circles",
+          "learning_objectives": [
+            "13.1 understand the equation of a circle",
+            "13.2 find the coordinates of the intersections of a straight line and a circle and understand the possible intersection of a straight line and a circle"
+          ]
+        },
+        {
+          "unit_number": 14,
+          "unit_name": "More about trigonometry",
+          "learning_objectives": [
+            "14.1 understand the functions sine, cosine and tangent, and their graphs and properties, including maximum and minimum values and periodicity",
+            "14.2 solve the trigonometric equations a sin θ = b, a cos θ = b, a tan θ = b (solutions in the interval from 0° to 360°) and other trigonometric equations (solutions in the interval from 0° to 360°)",
+            "14.3 understand the formula ½ ab sin C for areas of triangles",
+            "14.4 understand the sine and cosine formulae",
+            "14.5 understand Heron’s formula",
+            "14.6 understand the concept of projection",
+            "14.7 understand the angle between a line and a plane, and the angle between 2 planes",
+            "14.8 understand the theorem of three perpendiculars",
+            "14.9 solve related 2-dimensional and 3-dimensional problems"
+          ]
+        }
+      ]
+    },
+    {
+      "strand": "Data Handling Strand",
+      "learning_units": [
+        {
+          "unit_number": 15,
+          "unit_name": "Permutations and combinations",
+          "learning_objectives": [
+            "15.1 understand the addition rule and multiplication rule in the counting principle",
+            "15.2 understand the concept and notation of permutation",
+            "15.3 solve problems on the permutation of distinct objects without repetition",
+            "15.4 understand the concept and notation of combination",
+            "15.5 solve problems on the combination of distinct objects without repetition"
+          ]
+        },
+        {
+          "unit_number": 16,
+          "unit_name": "More about probability",
+          "learning_objectives": [
+            "16.1 recognise the notation of set language including union, intersection and complement",
+            "16.2 understand the addition law of probability and the concepts of mutually exclusive events and complementary events",
+            "16.3 understand the multiplication law of probability and the concept of independent events",
+            "16.4 recognise the concept and notation of conditional probability",
+            "16.5 use permutation and combination to solve problems related to probability"
+          ]
+        },
+        {
+          "unit_number": 17,
+          "unit_name": "Measures of dispersion",
+          "learning_objectives": [
+            "17.1 understand the concept of dispersion",
+            "17.2 understand the concepts of range and inter-quartile range",
+            "17.3 construct and interpret the box-and-whisker diagram and use it to compare the distributions of different sets of data",
+            "17.4 understand the concept of standard deviation for both grouped and ungrouped data sets",
+            "17.5 compare the dispersions of different sets of data using appropriate measures",
+            "17.6 understand the applications of standard deviation to real-life problems involving standard scores and the normal distribution",
+            "17.7 understand the effect of the following operations on the dispersion of the data: (i) adding a common constant to each item of the set of data (ii) multiplying each item of the set of data by a common constant"
+          ]
+        },
+        {
+          "unit_number": 18,
+          "unit_name": "Uses and abuses of statistics",
+          "learning_objectives": [
+            "18.1 recognise different techniques in survey sampling and the basic principles of questionnaire design",
+            "18.2 discuss and recognise the uses and abuses of statistical methods in various daily-life activities or investigations",
+            "18.3 assess statistical investigations presented in different sources such as news media, research reports, etc."
+          ]
+        }
+      ]
+    },
+    {
+      "strand": "Further Learning Unit",
+      "learning_units": [
+        {
+          "unit_number": 19,
+          "unit_name": "Further applications",
+          "learning_objectives": [
+            "Solve more sophisticated real-life and mathematical problems that may require students to search the information for clues, to explore different strategies, or to integrate various parts of mathematics which they have learned in different areas"
+          ]
+        },
+        {
+          "unit_number": 20,
+          "unit_name": "Inquiry and investigation",
+          "learning_objectives": [
+            "Through various learning activities, discover and construct knowledge, further improve the ability to inquire, communicate, reason and conceptualise mathematical concepts"
+          ]
+        }
+      ]
+    }
+  ]
+}
