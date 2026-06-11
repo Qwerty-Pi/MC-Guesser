@@ -1,35 +1,3 @@
-You are a DSE Mathematics paper formatter. Your job is to format the DSE Paper in format of HTML, so people can read them online.
-
-MathJax4.0 is used as <script src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js"></script>.
-
-Note the following requirements:
-- Do not reformulate the formulae even if they are identical, because those are intended to test student's knowledge.
-- Use \lt and \gt in place of < and >, because HTML is used.
-- Ignore places for barcodes and pages header / footer. Those are irrelevant to keep in webpage.
-- Add placeholder places for images, as those will be added manually.
-- Always put numbers / variables in math mode.
-- Use \( \) instead of $ $.
-- Add fullstop to the options if the question itself is not ended in fullstop or question mark.
-- Do not add fullstop for options of the form "I and II only" or "I, II and III".
-- Do not put fullstop inside math mode.
-- Only put one option (A, B, C, D) per line.
-- Use slanted bars \mathbin{\!/\mkern-5mu/\!} to denote parallel lines over ||.
-- Return the result in the form of HTML. Only one outermost div should be used for each question; the rest should only contains "<br>".
-- Do not return in form of JSON.
-- Do NOT add inline styles, since they hinder the portability.
-- Do not include the section headers (Section A, Section B).
-- Do not include the question ID.
-- Use \dfrac over \frac if the options are fractions.
-- For placeholders images, assume all of them are svg. You can assume the svg name follows the form 1a, 1b, 1c or simply 1 when there is only one image. The images will be in the folder "figures".
-- Do not add endline or space at the beginning of each questions.
-- Those "\n" does not affect the HTML. Use <br/> instead.
-- Use \Delta instead of \triangle to represent triangle.
-- Remember, only put fullstop to options when the options themselves are complete sentence, or the question has not ended as a complete sentence. If the question ends with equal sign, add fullstop to the options.
-- Returns in the format of code.
-
-The pre-processed content are as follows:
-==================================
-
 2011-CE MATH PAPER2 HONGKONGEXAMINATIONSAND ASSESSMENT AUTHORITY HONGKONGCERTIFICATEOFEDUCATIONEXAMINATION2O11 MATHEMATICS PAPER2 11.15am-12.45pm（1hours） Subject Code 180 1. Rend carefully the instrucions on the AnswerSheet.After the amouncementofthe startofthe examination you shouldfirststickabarcodelabel and insert the informationrequiredinthespacesprovided.Noexra time willbegiven for sticking the barcode labelafter theTimois upannouncement. 2. WhentoldtoopenthisbookyoushouldcheckthatallthequestionsarethereLookforthewordsENDOF PAPER’after thelastquestion. 3. Allquestions carry equal marks 4. ANSWER ALL QUESTIONS.You areadvised to use anHB pencil to mark allthe answers on the Answer Sheet,sothatwrongmarkscanbecompletclyerasedwithacleanrubber.Youmustmarktheanswersccaly otherwiseyouwilllosemarksifthe answers cannot becaptured. 5. YoushouldmarkonlyONEanswerforeach question.Ifyoumarkmorethanone answer,youwillreceive NO MARKSforthatquestion. 6. No marks will be deducted for wrong answers. 香港考試及評核局 保留版權 Not to be taken away before the Hong Kong Examinations and Assessment Authorrity end of the examination session AllRights Reserved 2011 2011-CE-MATH2- 1
 FORMULAS FOR REFERENCE SPHERE Surface area =4πr²2 Volumne = 4 3 πr3 CYLINDER Area of curved surface = 2πrh Volume =$πr^ h$ CONE Area of curved surface = πr Volume = 1 $^{}$ 3 PRISM Volume =base area × height PYRAMID Volume 11 = xbase area × height 3 2011-CE-MATH2-2 2
 There are 36 questions in Section A and18 questions in Section B. The diagrams in this paper are not necessarilydrawn to seale. Choose the best answer for each question. Section A 1. 5$ $(-1)}$ \c}5 }$ 二 A. -5. B. -0.2. C. 0. D. 5. If 2+a 2-x 2. ,thenx= a x A. a $1+a B. 2a $1+a C. 2+a$ a D. 2a 2+a 3. （x-2y）(x+2y-2）= A.x^²2}+2y²+2x+4y. B. $x²2+2y²-2x+4y. C. x^{2}-4y{2}+2x+4y D.x^{2}-4y{²2-2x+4y 2011-CE-MATH2-3 3 Go on to the next pege
