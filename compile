@@ -65,10 +65,16 @@ def gen_figure(paper_path):
     cmd = f"./gen_figure raw/{paper_path}.pdf artifact/{paper_path}/figures.json artifact/{paper_path}/figure"
     os.system(cmd)
 
+def fix_fullstop(paper_path):
+    file_path = f"artifact/{paper_path}/questions.html"
+    os.system(f"python3 fix_fullstop.py {file_path} {file_path}")
+
 # paperID = f"paper-2/2011"
 # resize_paper(paperID)
 # parse_paper(paperID)
 # concat_text(paperID)
+
+fix_fullstop("paper-2/2011")
 
 if len(sys.argv) == 2:
     paperID = f"paper-2/{sys.argv[1]}"
