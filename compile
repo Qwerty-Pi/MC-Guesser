@@ -69,12 +69,13 @@ def fix_fullstop(paper_path):
     file_path = f"artifact/{paper_path}/questions.html"
     os.system(f"python3 fix_fullstop.py {file_path} {file_path}")
 
-# paperID = f"paper-2/2011"
-# resize_paper(paperID)
-# parse_paper(paperID)
-# concat_text(paperID)
+for year in range(2010, 2006, -1):
+    paperID = f"paper-2/{year}"
+    resize_paper(paperID)
+    parse_paper(paperID)
+    concat_text(paperID)
 
-fix_fullstop("paper-2/2011")
+# fix_fullstop("paper-2/2011")
 
 if len(sys.argv) == 2:
     paperID = f"paper-2/{sys.argv[1]}"

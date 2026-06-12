@@ -15,10 +15,10 @@ def ask(prompt):
 
 def by_topic(year):
     prompt = open("topics_J.json", "r").read() + open("topics_S.json", "r").read()
+    prompt = prompt.replace("\n", "").replace("  ", " ").replace("  ", " ").replace("  ", " ")
     prompt += "\nRefers to the above documents, classify the topics listed below, and return as an array of the format J1, S3 where J refers to junior, S refers to senior. Return in JSON format.\n"
     prompt += open(f"artifact/paper-2/{year}/questions.html").read()
     print(prompt)
-    exit(0)
     res = ask(prompt)
     return json.loads(res[7:-3])
 

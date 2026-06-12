@@ -148,8 +148,8 @@
         <div class="sidebar-left">
             <h3>Figures</h3>
             <div class="form-group">
-                <label for="box-label">Figure Label (e.g., 1, 2a, 2b)</label>
-                <input type="text" id="box-label" placeholder="e.g., header, table_1, signature" value="1">
+                <label for="box-label">Figure Label</label>
+                <input type="text" id="box-label" placeholder="e.g., 1, 2a, 2b" value="1">
             </div>
             <button id="btn-record" class="success" disabled>Add Figure</button>
             
@@ -279,9 +279,9 @@
             const fitz_y1 = Math.round((pdfPageHeight - y1_pdf) * 100) / 100;
 
             activeRect = {
-                x0: fitz_x0,
+                x0: Math.min(fitz_x0, fitz_x1),
                 y0: Math.min(fitz_y0, fitz_y1),
-                x1: fitz_x1,
+                x1: Math.max(fitz_x0, fitz_x1),
                 y1: Math.max(fitz_y0, fitz_y1)
             };
 
