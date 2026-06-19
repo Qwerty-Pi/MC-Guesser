@@ -1,22 +1,675 @@
-FORMULAS FOR REFERENCE SPHERE Surface area = 4πr^{$ Volume 41 = 3 πr CYLINDER Area of curved surface  2πrh Volume = $πr^{2h$ CONE Area of curved surface = πrl Volume -13 = $πr^{h$ PRISM Volume base area × height PYRAMID Volume = 1 ×base area× height 3 2004-CE-MATH 2-2 -1-
-There are 36 questions in Section A and 18 questions in Section B. The diagrams in this paper are not necessarily drawn to seale. Choose the best answer for each question. Section A $2^{.^}$ 1. 3" A. $6^{$ B. $6^$ C. 12" D. $12^{2n. 2. If x= y- 2x$ 2y ，then y= A. 2x 1-2$ B. 2x $2x-1 C. 1-2x $2x D. $2_x- 1$ 2x 2004-CE-MATH 2–3 -2- Go on to the next page
-3. Iff(x）=x²-x+1，thenf（x+1）-f（x）= A. 0. B. 2. C. 2x. D. 4x. 4. $\s25a-sa= A. $3\sqar{}$. B. $7\sqr{}$. C. $21\sq}$. D.$\f{1}$. 5. Inthefigurethegraphofy2x4cpassesthroughthepoin (1, k) .Find the value of k. $y↑}$ $y=2x^{2}-4x+$ A. -5 B. -4 C. -3 个 0 D. -2 -1 (1, k) 2004-CE-MATH 2-4 -3-
-6. Iftheequation4x²+kx+9=0hasequal positiveroots，then= A. -6. B. 6. C. -12. D. 12. 7. Solve x(x-6)=x. A. $x =6 B. $x=7 C. x=0 or x=6 D. x=0 or x=7 8. If pq+2q}=1$ ,then q = 4p+q=14 A. 2. B. 3. C. -3 or 3. 2 D. 2 or 20. 2004-CE-MATH 2-5 -4- Go on to the next page
-9. The solutionof-2x<3-xor3x+3>0is A. x>-3. B. x>-1. C. -3<x<-1 D. x<-3orx>-1 10.Ifa（2x-x²）+b（2x²-x）=-5x²+4x，thena= A. -1. B. 1. C. –2. D. 2. 11. Letabethenthtermofanarithmetic sequence.Ifa1=10anda=13， then a21 +a22 +·+a30= A. 765. B. 835. C. 865. D. 1605. 2004-CE-MATH 2-6 -5-
-12. The marked price of a book is 20% above the cost. If the book is sold at a 10% discount on the marked price, then the percentage profit is A. 2%. B. 8%. C. 10%. D. 18% . 13. If（a-b）:(b-2a）=2:3，thena:b= A. 3:5. B. 5:3. C. 5:7. D. 7:5. 14. A box contains two kinds of coins: $5 and $2.The ratio of the number of $5 coins to the number of $2 coins is 4:5.If the total value of the coins is $90,then the total number of coins in the box is A. 9. B. 18. C. 27. D. 36. 2004-CE-MATH 2-7 -6- Go on to the next page
-15. The scale of a map is1:20 000.If two buildings are 3.8 cm apart on the map,then the actual distance between the two buildings is A. 0.076 km. B. 0.76 km. C. 7.6km. D. 76 km. 16. Itisknown thaty varies partly as xand partly as√x.Whenx=1,y=4 andwhen x=4，y=10.Findywhenx=16. A. 28 B. 52 C. 80 D. 256 17.In the figure,ABCD is a parallelogram and E is a point on AD such that AE:ED=1:3.Ifthe areaof ΔABEis3cm²，then the area of the shaded region is A. 9 cm^{ E D B. $15 cm^{2 C. $21 cm^{ D. 24 cm{ B 2004-CE-MATH 2-8 -7-
-18. In the figure,AD andBC meet at E.If CE:EB=3:1,then area of △ABD :area of ΔCDE= A. 1:1. A B B. 1:3. C. 2:3. E D. 4:9. C D 19. If the area of a regular10-sided polygon is123 cm²,find the lengthofthe side of the 10-sided polygon. Give the answer correct to the nearest 0.1cm. A. 3.9 cm B. 4.0 cm C. 6.8 cm D. 8.0 cm 20. For0°≤x≤90°，the least value of 4 2-cosx is A. 0. B. 1. C. 2. D. 4. 2004-CE-MATH 2-9 -8- Go on to the next page
-21. In the figure,find AC correct to 2 decimal places. A. 5.04 B. 9.17 C. 11.14 8 D. 15.62 $60° B 10 C 22. In the figure, sin x = A. 4 3 B. 3 4 10 10 C. 3 x 5 12 D. 4 5 23. Inthe figure,Ois the centreof the circle ABCD.If EABand EDOC are straight lines and EA=AO,find∠AEO. B A. 18° B. 24° A C. 27° E 36° D 0 C D. 36° 2004-CE-MATH 2-10 -9-
-24. Inthe figure,O is the centre of the circle ABC.Findx A. 17.5° A B B. 27.5° 35° C. 35° x 55° 0 D. 25. In the figure, ABCD is a circle. ACand BD meet at E.If AD=4 AE=2，EC=5and BE=4，thenBC= A. 6. A 2 B B. 7. 4 4 C. 8. E D. 10. D 5 C 2004-CE-MATH 2–11 -10- Go on to the next page
-26. In the figure，ABC is a circle.If∠ABC=30°andAC=4，then the circumference of the circle is A. 24. A B. 48. 4 30° B C. 8π. C D. 16π. 27. Inthe figure,ABC is a straight line.If BD/CE,then∠DCE= A. 56°. B. $68° D C. 112°. E D. 124°. A 28° B 28. In the figure, ABCD and AGFE are straight lines. IfBC=2cm, CD=3cm，BG=6cmandCF=10cm，thenDE= A. 12 cm. B. 14 cm. B 6 cm G C. 15 cm. 2 cm 10 cm C F D. 16 cm. 3 cm D V E 2004-CE-MATH2-12 -11-
-29. If a>0,b>0 andc<0,whichof the following may represent the graph ofthe straight line ax+by+c=0? A. A B. \ 0 11 7 0 C. 9 D. % 0 2 0 14 30. In the figure,L andL2 are two straight lines intersecting at a point on the y-axis.IftheequationofL₁isx+2y-2=0，thentheequationofLis A. 2x-y+1=0. y↑ B. $2x-y-2=0. L _{} C. 2x+y+1=0. D. 2x+y-2=0. 7 0 2004-CE-MATH 2-13 -12- Go on to the next page
-31. If(2,3）is the mid-pointof (a,-1）and（4，b)，thenbm A. -7. B. 7. C. -8. D. 8. 32. The mean weight of 36 boys and32 girls is 46kg.If the mean weight of the boys is 52 kg，then the mean weight of the girls is A. 39.25 kg. B. 40kg. C. 40.67kg. D. 49kg. 33. Abag contains3red ballsand4greenballs.Iftwoballsare drawnrandomly from the bag one by one without replacementthen the probability that thetwo balls are of different colours is A. 27 B. 4 7 C. 12 49 D. 24 49 2004-CE-MATH 2–14 -13-
-34. Peter and May each throws a dart. The probability of Peter’shitting the target is0.2.Theprobability of May'shitting the target is 0.3.Findthe probability of at least one dart hitting the target. A. 0.38 B. 0.44 C. 0.5 D. 0.56 35. The pie chartbelow shows the expenditureofa student in March 200.Ifthe student spent $ 520 on meals, then the student’s total expenditure on entertainment and clothing was A. $780. Books B. $1092. C. $1352. 50° Entertainment Meals 100° D. $1872. 60° Transportation Clothing 36. David got 70 marks in a test and his standard score was -0.625. If the standard deviation of the test marks was 8 marks,then the mean mark of the test was A. 62 marks. B. 65 marks. C. 75 marks. D. 78 marks. 2004-CE-MATH 2–15 -14- Go on to the next page
-Section B 3 2 37. x y 4x$ 9y y x A. 1 $2x-3y B. 1 $2x+$ C. -1 $2x-3 D. −1 $2x+3 38. The L.CM.of2-b.4-b²and 8-bis A. (2-b)(2+b)(4-4b+b). B. (2-b)(2+b)(4+4b+b^{2) C. (2-b)(2+b)(4-2b+b^²2) D. (2-b)(2+b)(4+2b+b{2). 2004-CE-MATH 2-16 -15-
-39. If 5=10a and 7=10{,then log 7 50 A. b-a-1. B. b-a+1. C. b a D. b $a+1$ 40. Iff(x)=x²-7x+6isdivisible byx²-3x+k，thenk= A. -2. B. 2. C. –3. D. 3. 41. Itisknown that the equation 2x=12x-9has only one root in the interval –3≤x≤–2.Themethodof bisection is used to find therootstartingwith the interval -3x≤ -2.After the first approximation，the interval which contains the root becomes -3≤x≤-2.5.Find the interval which contains the root after the third approximation. A. −2.625≤x≤-2.5 B. −2.75≤x≤-2.625 C. -2.875≤x≤-2.75 D. -3≤x≤-2.875 2004-CE-MATH 2–17 -16- Go on to the next page
-42. If a≠β and $a2=4+3 2=4β+3 then (+ 1)(+1)= A. -6. B. 0. C. 2. D. 8. 43. Whichof thefollowingshadedregionsmayrepresentthesolutionof x≤y-2？ A. \r B. 2 7 0 →x C. y D. x 7x 2004-CE-MATH 2-18 -17-
-44. If 81,a,b,3 is a geometric sequence, then b-a= A. -18. B. 18. C. -26. D. 26. 45. In the figure, OAB is a sector. The perimeter and the area of the sector are xcmandycm²respectively.Ifx=y，thenAB= A A. 5 cm. B. 10 cm. 10 cm C. 5π 3 cm. 10π$ 0 D. B 3 cm. 2004-CE-MATH 2–19 -18- Go on to the next page
-cos- 1 46. cosθ sinθ = A. -tanθ. B. tanθ. C. $-sin^{$ cosθ D. cosθ-1 sinθcosθ 47. IfA+B=π，whichof the following must be true? I.sin A=s\in B II. cosA=sin B II. cos A=cos B A. I only B. II only C. I and III only D. II and III only 2004-CE-MATH 2-20 -19-
-48. The figure shows the cube ABCDEFGH of side 2 cm.XandY are the mid-points of ABand GH respectively. FindXY. A. 3 cm B. 2\sq{cm X B C. $√\stcm D. $\s m$ H Y F G 49. In the figure,ABCDEFGH is a rectangular block. EG and FH meet at X. Mis the mid-pointofEH.Whichof the following makes the greatest angle with the plane ABCD? M H A. AG / B. AH 2 G C. AM 10 cm D. AX C 6cm A4 8 cm B 2004-CE-MATH 2-21 -20- Go on to the next page
-50.InthefigureABCDisacircle.IfCD=2DA=2AB=2BC，thenx= A A. 108°. B. 112° B C. 120° x D D. 144°. 51. In the figure, TS.SQand QP are tangents to the circle at T,RandP respectively.If TS∥PQ.TS=3 and QP=12,then the radius of the circle is T S A. 4.5. R B. 6. C. 7.5. D. 9. P Q 52. Ifthestraightlinex+y-3=0divides thecirclex²+y+2x-ky-4=0 into two equal parts, then k = A. -4. B. 4. C. -8. D. 8. 2004-CE-MATH 2–22 -21-
-53. Theequationofacircleis²+y²-4x+2y+1=0.Whichofthefollowing is/are true? I. The circle touches the y-axis. II.Theorigin lies outside the circle. III. The centre of the circle lies in the second quadrant. A. ⅡI only B. III only C. I and II only D. I and III only 54. The mean deviationof the four numbers x-8，x-2，x+3 and x+7is A. x. B. 0. C. 5. D. 5.6. END OF PAPER 2004-CE-MATH 2-23 -22-
+\documentclass{article}
+\usepackage{amsmath,graphicx,geometry,tabularx}
+\geometry{margin=1in}
+\begin{document}
+
+\noindent There are 36 questions in Section A and 18 questions in Section B. \\
+The diagrams in this paper are not necessarily drawn to scale. \\
+Choose the best answer for each question.
+
+\section*{FORMULAS FOR REFERENCE}
+
+\begin{tabularx}{\textwidth}{|l X l l|}
+\hline
+SPHERE & Surface area & = & $4\pi r^2$ \\
+ & Volume & = & $\frac{4}{3}\pi r^3$ \\
+CYLINDER & Area of curved surface & = & $2\pi rh$ \\
+ & Volume & = & $\pi r^2 h$ \\
+CONE & Area of curved surface & = & $\pi rl$ \\
+ & Volume & = & $\frac{1}{3}\pi r^2 h$ \\
+PRISM & Volume & = & base area $\times$ height \\
+PYRAMID & Volume & = & $\frac{1}{3} \times$ base area $\times$ height \\
+\hline
+\end{tabularx}
+
+\section*{Section A}
+
+1. $\dfrac{2^{2n} \cdot 9^n}{3^n} =$
+
+\begin{itemize}
+    \item[A.] $6^{2n}$
+    \item[B.] $6^{3n}$
+    \item[C.] $12^n$
+    \item[D.] $12^{2n}$
+\end{itemize}
+
+2. If $x = \dfrac{y - 2x}{2y}$, then $y =$
+
+\begin{itemize}
+    \item[A.] $\dfrac{2x}{1 - 2x}$
+    \item[B.] $\dfrac{2x}{2x - 1}$
+    \item[C.] $\dfrac{1 - 2x}{2x}$
+    \item[D.] $\dfrac{2x - 1}{2x}$
+\end{itemize}
+
+\vspace{\fill}
+\noindent 2004-CE-MATH 2--2 \hfill $- 1 -$ \hfill 2004-CE-MATH 2--3 \hfill $- 2 -$ \hfill Go on to the next page $\rightarrow$
+
+3. If $f(x) = x^2 - x + 1$, then $f(x+1) - f(x) =$
+
+\begin{itemize}
+    \item[A.] $0$.
+    \item[B.] $2$.
+    \item[C.] $2x$.
+    \item[D.] $4x$.
+\end{itemize}
+
+4. $\sqrt{25a} - \sqrt{4a} =$
+
+\begin{itemize}
+    \item[A.] $3\sqrt{a}$.
+    \item[B.] $7\sqrt{a}$.
+    \item[C.] $21\sqrt{a}$.
+    \item[D.] $\sqrt{21a}$.
+\end{itemize}
+
+5. In the figure, the graph of $y = 2x^2 - 4x + c$ passes through the point $(1, k)$. Find the value of $k$.
+
+\begin{itemize}
+    \item[A.] $-5$
+    \item[B.] $-4$
+    \item[C.] $-3$
+    \item[D.] $-2$
+\end{itemize}
+
+% TODO: Insert figure here
+% \includegraphics[width=0.3\textwidth]{figure_placeholder}
+
+\vspace{1cm}
+
+\noindent 2004-CE-MATH 2--4 \hfill $-3-$
+
+\newpage
+
+6. If the equation $4x^2 + kx + 9 = 0$ has equal positive roots, then $k =$
+
+\begin{itemize}
+    \item[A.] $-6$.
+    \item[B.] $6$.
+    \item[C.] $-12$.
+    \item[D.] $12$.
+\end{itemize}
+
+7. Solve $x(x-6) = x$.
+
+\begin{itemize}
+    \item[A.] $x = 6$
+    \item[B.] $x = 7$
+    \item[C.] $x = 0$ or $x = 6$
+    \item[D.] $x = 0$ or $x = 7$
+\end{itemize}
+
+8. If $\begin{cases} pq + 2q = 10 \\ 4p + q = 14 \end{cases}$, then $q =$
+
+\begin{itemize}
+    \item[A.] $2$.
+    \item[B.] $3$.
+    \item[C.] $\frac{-3}{2}$ or $3$.
+    \item[D.] $2$ or $20$.
+\end{itemize}
+
+\vspace{1cm}
+
+\noindent 2004-CE-MATH 2--5 \hfill $-4-$ \hfill Go on to the next page $\rightarrow$
+
+\end{document}
+
+9. The solution of $-2x < 3 - x$ or $3x + 3 > 0$ is
+\begin{itemize}
+    \item[A.] $x > -3$.
+    \item[B.] $x > -1$.
+    \item[C.] $-3 < x < -1$.
+    \item[D.] $x < -3$ or $x > -1$.
+\end{itemize}
+
+10. If $a(2x - x^2) + b(2x^2 - x) = -5x^2 + 4x$, then $a =$
+\begin{itemize}
+    \item[A.] $-1$.
+    \item[B.] $1$.
+    \item[C.] $-2$.
+    \item[D.] $2$.
+\end{itemize}
+
+11. Let $a_n$ be the $n$th term of an arithmetic sequence. If $a_1 = 10$ and $a_2 = 13$, then $a_{21} + a_{22} + \dots + a_{30} =$
+\begin{itemize}
+    \item[A.] $765$.
+    \item[B.] $835$.
+    \item[C.] $865$.
+    \item[D.] $1605$.
+\end{itemize}
+
+\vspace{1cm}
+
+2004-CE-MATH 2-6 \hfill $-5-$
+
+\newpage
+
+12. The marked price of a book is $20\%$ above the cost. If the book is sold at a $10\%$ discount on the marked price, then the percentage profit is
+\begin{itemize}
+    \item[A.] $2\%$.
+    \item[B.] $8\%$.
+    \item[C.] $10\%$.
+    \item[D.] $18\%$.
+\end{itemize}
+
+13. If $(a - b) : (b - 2a) = 2 : 3$, then $a : b =$
+\begin{itemize}
+    \item[A.] $3 : 5$.
+    \item[B.] $5 : 3$.
+    \item[C.] $5 : 7$.
+    \item[D.] $7 : 5$.
+\end{itemize}
+
+14. A box contains two kinds of coins: $\$5$ and $\$2$. The ratio of the number of $\$5$ coins to the number of $\$2$ coins is $4 : 5$. If the total value of the coins is $\$90$, then the total number of coins in the box is
+\begin{itemize}
+    \item[A.] $9$.
+    \item[B.] $18$.
+    \item[C.] $27$.
+    \item[D.] $36$.
+\end{itemize}
+
+\vspace{1cm}
+
+2004-CE-MATH 2-7 \hfill $-6-$ \hfill Go on to the next page $\Rightarrow$
+
+\end{document}
+
+15. The scale of a map is $1 : 20\,000$. If two buildings are $3.8\text{ cm}$ apart on the map, then the actual distance between the two buildings is
+\begin{itemize}
+    \item[A.] $0.076\text{ km}$.
+    \item[B.] $0.76\text{ km}$.
+    \item[C.] $7.6\text{ km}$.
+    \item[D.] $76\text{ km}$.
+\end{itemize}
+
+16. It is known that $y$ varies partly as $x$ and partly as $\sqrt{x}$. When $x = 1$, $y = 4$ and when $x = 4$, $y = 10$. Find $y$ when $x = 16$.
+\begin{itemize}
+    \item[A.] $28$
+    \item[B.] $52$
+    \item[C.] $80$
+    \item[D.] $256$
+\end{itemize}
+
+17. In the figure, $ABCD$ is a parallelogram and $E$ is a point on $AD$ such that $AE : ED = 1 : 3$. If the area of $\triangle ABE$ is $3\text{ cm}^2$, then the area of the shaded region is
+\begin{itemize}
+    \item[A.] $9\text{ cm}^2$.
+    \item[B.] $15\text{ cm}^2$.
+    \item[C.] $21\text{ cm}^2$.
+    \item[D.] $24\text{ cm}^2$.
+\end{itemize}
+% TODO: Insert figure for question 17
+\begin{center}
+    % TODO: Placeholder for figure
+\end{center}
+
+18. In the figure, $AD$ and $BC$ meet at $E$. If $CE : EB = 3 : 1$, then area of $\triangle ABD : \text{area of } \triangle CDE =$
+\begin{itemize}
+    \item[A.] $1 : 1$.
+    \item[B.] $1 : 3$.
+    \item[C.] $2 : 3$.
+    \item[D.] $4 : 9$.
+\end{itemize}
+% TODO: Insert figure for question 18
+\begin{center}
+    % TODO: Placeholder for figure
+\end{center}
+
+19. If the area of a regular 10-sided polygon is $123\text{ cm}^2$, find the length of the side of the 10-sided polygon. Give the answer correct to the nearest $0.1\text{ cm}$.
+\begin{itemize}
+    \item[A.] $3.9\text{ cm}$
+    \item[B.] $4.0\text{ cm}$
+    \item[C.] $6.8\text{ cm}$
+    \item[D.] $8.0\text{ cm}$
+\end{itemize}
+
+20. For $0^\circ \le x \le 90^\circ$, the least value of $\dfrac{4}{2 - \cos x}$ is
+\begin{itemize}
+    \item[A.] $0$.
+    \item[B.] $1$.
+    \item[C.] $2$.
+    \item[D.] $4$.
+\end{itemize}
+
+\end{document}
+
+21. In the figure, find $AC$ correct to 2 decimal places.
+
+\begin{minipage}{0.6\textwidth}
+\begin{itemize}
+    \item[A.] 5.04
+    \item[B.] 9.17
+    \item[C.] 11.14
+    \item[D.] 15.62
+\end{itemize}
+\end{minipage}
+\begin{minipage}{0.3\textwidth}
+% TODO: Insert image of triangle with sides 8, 10 and angle 60 degrees
+\end{minipage}
+
+22. In the figure, $\sin x =$
+
+\begin{minipage}{0.6\textwidth}
+\begin{itemize}
+    \item[A.] $\frac{4}{3}$
+    \item[B.] $\frac{3}{4}$
+    \item[C.] $\frac{3}{5}$
+    \item[D.] $\frac{4}{5}$
+\end{itemize}
+\end{minipage}
+\begin{minipage}{0.3\textwidth}
+% TODO: Insert image of triangle with sides 10, 10, 12 and angle x
+\end{minipage}
+
+23. In the figure, $O$ is the centre of the circle $ABCD$. If $EAB$ and $EDOC$ are straight lines and $EA = AO$, find $\angle AEO$.
+
+\begin{minipage}{0.6\textwidth}
+\begin{itemize}
+    \item[A.] $18^\circ$
+    \item[B.] $24^\circ$
+    \item[C.] $27^\circ$
+    \item[D.] $36^\circ$
+\end{itemize}
+\end{minipage}
+\begin{minipage}{0.3\textwidth}
+% TODO: Insert image of circle with lines EAB and EDOC
+\end{minipage}
+
+24. In the figure, $O$ is the centre of the circle $ABC$. Find $x$.
+
+\begin{minipage}{0.6\textwidth}
+\begin{itemize}
+    \item[A.] $17.5^\circ$
+    \item[B.] $27.5^\circ$
+    \item[C.] $35^\circ$
+    \item[D.] $55^\circ$
+\end{itemize}
+\end{minipage}
+\begin{minipage}{0.3\textwidth}
+% TODO: Insert image of circle with center O and angle x
+\end{minipage}
+
+25. In the figure, $ABCD$ is a circle. $AC$ and $BD$ meet at $E$. If $AD=4$, $AE=2$, $EC=5$ and $BE=4$, then $BC=$
+
+\begin{minipage}{0.6\textwidth}
+\begin{itemize}
+    \item[A.] 6
+    \item[B.] 7
+    \item[C.] 8
+    \item[D.] 10
+\end{itemize}
+\end{minipage}
+\begin{minipage}{0.3\textwidth}
+% TODO: Insert image of circle with chords AC and BD intersecting at E
+\end{minipage}
+
+\vfill
+\noindent 2004-CE-MATH 2--10 \hfill $-9-$ \hfill 2004-CE-MATH 2--11 \hfill $-10-$ \hfill Go on to the next page
+
+\end{document}
+
+26. In the figure, $ABC$ is a circle. If $\angle ABC = 30^\circ$ and $\widehat{AC} = 4$, then the circumference of the circle is
+\begin{itemize}
+    \item[A.] 24 .
+    \item[B.] 48 .
+    \item[C.] $8\pi$ .
+    \item[D.] $16\pi$ .
+\end{itemize}
+% TODO: Insert figure for question 26
+\vspace{1cm}
+
+27. In the figure, $ABC$ is a straight line. If $BD \parallel CE$, then $\angle DCE =$
+\begin{itemize}
+    \item[A.] $56^\circ$ .
+    \item[B.] $68^\circ$ .
+    \item[C.] $112^\circ$ .
+    \item[D.] $124^\circ$ .
+\end{itemize}
+% TODO: Insert figure for question 27
+\vspace{1cm}
+
+28. In the figure, $ABCD$ and $AGFE$ are straight lines. If $BC = 2 \text{ cm}$, $CD = 3 \text{ cm}$, $BG = 6 \text{ cm}$ and $CF = 10 \text{ cm}$, then $DE =$
+\begin{itemize}
+    \item[A.] $12 \text{ cm}$ .
+    \item[B.] $14 \text{ cm}$ .
+    \item[C.] $15 \text{ cm}$ .
+    \item[D.] $16 \text{ cm}$ .
+\end{itemize}
+% TODO: Insert figure for question 28
+\vspace{1cm}
+
+29. If $a > 0$, $b > 0$ and $c < 0$, which of the following may represent the graph of the straight line $ax + by + c = 0$ ?
+\begin{itemize}
+    \item[A.] % TODO: Insert figure A
+    \item[B.] % TODO: Insert figure B
+    \item[C.] % TODO: Insert figure C
+    \item[D.] % TODO: Insert figure D
+\end{itemize}
+\vspace{1cm}
+
+30. In the figure, $L_1$ and $L_2$ are two straight lines intersecting at a point on the y-axis. If the equation of $L_1$ is $x + 2y - 2 = 0$, then the equation of $L_2$ is
+\begin{itemize}
+    \item[A.] $2x - y + 1 = 0$ .
+    \item[B.] $2x - y - 2 = 0$ .
+    \item[C.] $2x + y + 1 = 0$ .
+    \item[D.] $2x + y - 2 = 0$ .
+\end{itemize}
+% TODO: Insert figure for question 30
+
+\vfill
+\noindent 2004-CE-MATH 2-13 \hfill $- 12 -$ \hfill Go on to the next page
+
+\end{document}
+
+31. If $(-2, 3)$ is the mid-point of $(a, -1)$ and $(4, b)$, then $b =$
+
+\begin{itemize}
+    \item[A.] $-7$ .
+    \item[B.] $7$ .
+    \item[C.] $-8$ .
+    \item[D.] $8$ .
+\end{itemize}
+
+32. The mean weight of 36 boys and 32 girls is $46 \text{ kg}$. If the mean weight of the boys is $52 \text{ kg}$, then the mean weight of the girls is
+
+\begin{itemize}
+    \item[A.] $39.25 \text{ kg}$ .
+    \item[B.] $40 \text{ kg}$ .
+    \item[C.] $40.67 \text{ kg}$ .
+    \item[D.] $49 \text{ kg}$ .
+\end{itemize}
+
+33. A bag contains 3 red balls and 4 green balls. If two balls are drawn randomly from the bag one by one without replacement, then the probability that the two balls are of different colours is
+
+\begin{itemize}
+    \item[A.] $\frac{2}{7}$ .
+    \item[B.] $\frac{4}{7}$ .
+    \item[C.] $\frac{12}{49}$ .
+    \item[D.] $\frac{24}{49}$ .
+\end{itemize}
+
+\vspace{1cm}
+2004-CE-MATH 2-14 \hfill $- 13 -$
+
+\newpage
+
+34. Peter and May each throws a dart. The probability of Peter's hitting the target is $0.2$. The probability of May's hitting the target is $0.3$. Find the probability of at least one dart hitting the target.
+
+\begin{itemize}
+    \item[A.] $0.38$
+    \item[B.] $0.44$
+    \item[C.] $0.5$
+    \item[D.] $0.56$
+\end{itemize}
+
+35. The pie chart below shows the expenditure of a student in March 2004. If the student spent $\$ 520$ on meals, then the student's total expenditure on entertainment and clothing was
+
+\begin{itemize}
+    \item[A.] $\$ 780$ .
+    \item[B.] $\$ 1092$ .
+    \item[C.] $\$ 1352$ .
+    \item[D.] $\$ 1872$ .
+\end{itemize}
+
+% TODO: Insert pie chart image here
+\begin{center}
+    % Placeholder for pie chart
+    \framebox[5cm][c]{Pie Chart}
+\end{center}
+
+36. David got 70 marks in a test and his standard score was $-0.625$. If the standard deviation of the test marks was 8 marks, then the mean mark of the test was
+
+\begin{itemize}
+    \item[A.] $62 \text{ marks.}$
+    \item[B.] $65 \text{ marks.}$
+    \item[C.] $75 \text{ marks.}$
+    \item[D.] $78 \text{ marks.}$
+\end{itemize}
+
+\vspace{1cm}
+2004-CE-MATH 2-15 \hfill $- 14 -$ \hfill Go on to the next page $\rightarrow$
+
+\end{document}
+
+\section*{Section B}
+
+37. $\dfrac{\dfrac{3}{x} - \dfrac{2}{y}}{\dfrac{4x}{y} - \dfrac{9y}{x}} =$
+
+\begin{itemize}
+    \item[A.] $\dfrac{1}{2x - 3y}$
+    \item[B.] $\dfrac{1}{2x + 3y}$
+    \item[C.] $\dfrac{-1}{2x - 3y}$
+    \item[D.] $\dfrac{-1}{2x + 3y}$
+\end{itemize}
+
+38. The L.C.M. of $2 - b$, $4 - b^2$ and $8 - b^3$ is
+
+\begin{itemize}
+    \item[A.] $(2 - b)(2 + b)(4 - 4b + b^2)$
+    \item[B.] $(2 - b)(2 + b)(4 + 4b + b^2)$
+    \item[C.] $(2 - b)(2 + b)(4 - 2b + b^2)$
+    \item[D.] $(2 - b)(2 + b)(4 + 2b + b^2)$
+\end{itemize}
+
+\vspace{1cm}
+
+39. If $5 = 10^a$ and $7 = 10^b$, then $\log \dfrac{7}{50} =$
+
+\begin{itemize}
+    \item[A.] $b - a - 1$
+    \item[B.] $b - a + 1$
+    \item[C.] $\dfrac{b}{a}$
+    \item[D.] $\dfrac{b}{a + 1}$
+\end{itemize}
+
+40. If $f(x) = x^3 - 7x + 6$ is divisible by $x^2 - 3x + k$, then $k =$
+
+\begin{itemize}
+    \item[A.] $-2$
+    \item[B.] $2$
+    \item[C.] $-3$
+    \item[D.] $3$
+\end{itemize}
+
+41. It is known that the equation $2x^3 = 12x - 9$ has only one root in the interval $-3 \le x \le -2$. The method of bisection is used to find the root starting with the interval $-3 \le x \le -2$. After the first approximation, the interval which contains the root becomes $-3 \le x \le -2.5$. Find the interval which contains the root after the third approximation.
+
+\begin{itemize}
+    \item[A.] $-2.625 \le x \le -2.5$
+    \item[B.] $-2.75 \le x \le -2.625$
+    \item[C.] $-2.875 \le x \le -2.75$
+    \item[D.] $-3 \le x \le -2.875$
+\end{itemize}
+
+\vfill
+\noindent 2004-CE-MATH 2-16 \hfill $- 15 -$ \hfill 2004-CE-MATH 2-17 \hfill $- 16 -$ \hfill Go on to the next page
+
+\end{document}
+
+\newpage
+
+42. If $\alpha \neq \beta$ and $\begin{cases} \alpha^2 = 4\alpha + 3 \\ \beta^2 = 4\beta + 3 \end{cases}$, then $(\alpha + 1)(\beta + 1) =$
+
+\begin{itemize}
+    \item[A.] $-6$.
+    \item[B.] $0$.
+    \item[C.] $2$.
+    \item[D.] $8$.
+\end{itemize}
+
+43. Which of the following shaded regions may represent the solution of $x \leq y - 2$ ?
+
+\begin{itemize}
+    \item[A.] % TODO: Insert image for graph A
+    \item[B.] % TODO: Insert image for graph B
+    \item[C.] % TODO: Insert image for graph C
+    \item[D.] % TODO: Insert image for graph D
+\end{itemize}
+
+\vspace{2cm}
+
+2004-CE-MATH 2-18 \hfill $- 17 -$
+
+\newpage
+
+44. If $81, a, b, 3$ is a geometric sequence, then $b - a =$
+
+\begin{itemize}
+    \item[A.] $-18$.
+    \item[B.] $18$.
+    \item[C.] $-26$.
+    \item[D.] $26$.
+\end{itemize}
+
+45. In the figure, $OAB$ is a sector. The perimeter and the area of the sector are $x$ cm and $y$ cm$^2$ respectively. If $x = y$, then $\widehat{AB} =$
+
+\begin{itemize}
+    \item[A.] $5$ cm.
+    \item[B.] $10$ cm.
+    \item[C.] $\frac{5\pi}{3}$ cm.
+    \item[D.] $\frac{10\pi}{3}$ cm.
+\end{itemize}
+
+% TODO: Insert image for sector OAB
+
+\vspace{2cm}
+
+2004-CE-MATH 2-19 \hfill $- 18 -$ \hfill Go on to the next page
+
+\end{document}
+
+46.
+$\displaystyle \frac{\cos \theta - \frac{1}{\cos \theta}}{\sin \theta} =$
+
+\begin{itemize}
+    \item[A.] $-\tan \theta$
+    \item[B.] $\tan \theta$
+    \item[C.] $\displaystyle \frac{-\sin^3 \theta}{\cos \theta}$
+    \item[D.] $\displaystyle \frac{\cos \theta - 1}{\sin \theta \cos \theta}$
+\end{itemize}
+
+47. If $A + B = \pi$, which of the following must be true?
+
+\begin{itemize}
+    \item[I.] $\sin A = \sin B$
+    \item[II.] $\cos A = \sin B$
+    \item[III.] $\cos A = \cos B$
+\end{itemize}
+
+\begin{itemize}
+    \item[A.] I only
+    \item[B.] II only
+    \item[C.] I and III only
+    \item[D.] II and III only
+\end{itemize}
+
+\vspace{1cm}
+2004-CE-MATH 2-20 \hfill $- 19 -$
+
+\newpage
+
+48. The figure shows the cube $ABCDEFGH$ of side $2 \text{ cm}$. $X$ and $Y$ are the mid-points of $AB$ and $GH$ respectively. Find $XY$.
+
+\begin{itemize}
+    \item[A.] $3 \text{ cm}$
+    \item[B.] $2\sqrt{2} \text{ cm}$
+    \item[C.] $\sqrt{5} \text{ cm}$
+    \item[D.] $\sqrt{6} \text{ cm}$
+\end{itemize}
+
+% TODO: Insert image for question 48
+\begin{center}
+    \includegraphics[width=0.4\linewidth]{cube_diagram.png} % Placeholder
+\end{center}
+
+49. In the figure, $ABCDEFGH$ is a rectangular block. $EG$ and $FH$ meet at $X$. $M$ is the mid-point of $EH$. Which of the following makes the greatest angle with the plane $ABCD$?
+
+\begin{itemize}
+    \item[A.] $AG$
+    \item[B.] $AH$
+    \item[C.] $AM$
+    \item[D.] $AX$
+\end{itemize}
+
+% TODO: Insert image for question 49
+\begin{center}
+    \includegraphics[width=0.4\linewidth]{rectangular_block_diagram.png} % Placeholder
+\end{center}
+
+\vspace{1cm}
+2004-CE-MATH 2-21 \hfill $- 20 -$ \hfill Go on to the next page
+
+\end{document}
+
+50. In the figure, $ABCD$ is a circle. If $\widehat{CD} = 2\widehat{DA} = 2\widehat{AB} = 2\widehat{BC}$ , then $x =$
+
+\begin{itemize}
+    \item[A.] $108^\circ$.
+    \item[B.] $112^\circ$.
+    \item[C.] $120^\circ$.
+    \item[D.] $144^\circ$.
+\end{itemize}
+
+% TODO: Insert image for question 50
+\vspace{2cm}
+
+51. In the figure, $TS$, $SQ$ and $QP$ are tangents to the circle at $T$, $R$ and $P$ respectively. If $TS \parallel PQ$, $TS = 3$ and $QP = 12$, then the radius of the circle is
+
+\begin{itemize}
+    \item[A.] $4.5$.
+    \item[B.] $6$.
+    \item[C.] $7.5$.
+    \item[D.] $9$.
+\end{itemize}
+
+% TODO: Insert image for question 51
+\vspace{2cm}
+
+52. If the straight line $x + y - 3 = 0$ divides the circle $x^2 + y^2 + 2x - ky - 4 = 0$ into two equal parts, then $k =$
+
+\begin{itemize}
+    \item[A.] $-4$.
+    \item[B.] $4$.
+    \item[C.] $-8$.
+    \item[D.] $8$.
+\end{itemize}
+
+\vspace{1cm}
+
+\noindent 2004-CE-MATH 2--22 \hfill $- 21 -$
+
+\newpage
+
+53. The equation of a circle is $x^2 + y^2 - 4x + 2y + 1 = 0$. Which of the following is/are true?
+
+\begin{itemize}
+    \item[I.] The circle touches the $y$-axis.
+    \item[II.] The origin lies outside the circle.
+    \item[III.] The centre of the circle lies in the second quadrant.
+\end{itemize}
+
+\begin{itemize}
+    \item[A.] II only
+    \item[B.] III only
+    \item[C.] I and II only
+    \item[D.] I and III only
+\end{itemize}
+
+\vspace{1cm}
+
+54. The mean deviation of the four numbers $x - 8$, $x - 2$, $x + 3$ and $x + 7$ is
+
+\begin{itemize}
+    \item[A.] $x$.
+    \item[B.] $0$.
+    \item[C.] $5$.
+    \item[D.] $5.6$.
+\end{itemize}
+
+\vspace{3cm}
+
+\begin{center}
+    \textbf{END OF PAPER}
+\end{center}
+
+\vspace{2cm}
+
+\noindent 2004-CE-MATH 2--23 \hfill $- 22 -$
