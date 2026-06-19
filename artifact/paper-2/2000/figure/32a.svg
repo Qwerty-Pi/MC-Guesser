@@ -1,20 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="131.67109489878868pt" height="124.61051562969496pt" viewBox="0 0 131.67109489878868 124.61051562969496">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="157.29853602844415pt" height="130.00724649282603pt" viewBox="0 0 157.29853602844415 130.00724649282603">
   <defs>
     <clipPath id="crop-clip">
-      <rect x="273.979825887536" y="331.2873185847356" width="131.67109489878868" height="124.61051562969496" />
+      <rect x="157.9819344585684" y="328.58895315317005" width="157.29853602844415" height="130.00724649282603" />
     </clipPath>
   </defs>
   <g transform="scale(1.5)">
-  <g clip-path="url(#crop-clip)" transform="translate(-273.979825887536, -331.2873185847356)">
+  <g clip-path="url(#crop-clip)" transform="translate(-157.9819344585684, -328.58895315317005)">
 <defs>
 <clipPath id="clip_1">
-<path transform="matrix(1.00005,0,0,-1.00005,.125,841.963)" d="M0 0H595V842H0Z"/>
+<path transform="matrix(1.00005,0,0,-1.00005,-.013,841.908)" d="M0 0H595.276V841.89H0Z"/>
+</clipPath>
+<clipPath id="clip_2">
+<path transform="matrix(1.0000999,0,0,-1.0000999,-.026000649,841.926)" d="M0 0H595.276V841.89H0Z"/>
+</clipPath>
+<clipPath id="clip_3">
+<path transform="matrix(1.0001499,0,0,-1.0001499,.09901184,841.999)" d="M0 0H595V842H0Z"/>
 </clipPath>
 </defs>
 <g clip-path="url(#clip_1)">
-<g transform="matrix(.500025,0,0,.500025,.125,-.07904053)">
-<image id="image_2" width="1190" height="1684" xlink:href="data:image/png;base64,
+<g clip-path="url(#clip_2)">
+<g clip-path="url(#clip_3)">
+<g transform="matrix(.5000749,0,0,.5000749,.09901184,-.12713623)">
+<image id="image_4" width="1190" height="1684" xlink:href="data:image/png;base64,
 iVBORw0KGgoAAAANSUhEUgAABKYAAAaUCAIAAABFUYM+AAAACXBIWXMAAA7EAAAO
 xAGVKw4bAACqh0lEQVR4nOzdK29rWXg/4LCSVpVRVVCNlMKCoyqgcEikouqg4GEp
 PDBwaNjgoCkoChlQGHC+QKT5BNF8gwwrzf/9552zus7al9iOL9srzwMix5fttbe3
@@ -927,6 +935,8 @@ luQDAACIJfkAAABiST4AAIBYkg8AACCW5AMAAIgl+QAAAGJJPgAAgFiSDwAAIJbk
 AwAAiCX5AAAAYkk+AACAWJIPAAAgluQDAACIJfkAAABiST4AAIBYkg8AACCW5AMA
 AIgl+QAAAGJJPgAAgFiSDwAAIJbkAwAAiCX5AAAAYv0Hash0gxKxHaQAAAAASUVO
 RK5CYII="/>
+</g>
+</g>
 </g>
 </g>
   </g>

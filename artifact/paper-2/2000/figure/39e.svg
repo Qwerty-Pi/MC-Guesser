@@ -9,12 +9,20 @@
   <g clip-path="url(#crop-clip)" transform="translate(-175.9661036723618, -428.4284741210937)">
 <defs>
 <clipPath id="clip_1">
-<path transform="matrix(1.00005,0,0,-1.00005,.125,841.963)" d="M0 0H595V842H0Z"/>
+<path transform="matrix(1.00005,0,0,-1.00005,-.013,841.908)" d="M0 0H595.276V841.89H0Z"/>
+</clipPath>
+<clipPath id="clip_2">
+<path transform="matrix(1.0000999,0,0,-1.0000999,-.026000649,841.926)" d="M0 0H595.276V841.89H0Z"/>
+</clipPath>
+<clipPath id="clip_3">
+<path transform="matrix(1.0001499,0,0,-1.0001499,.09901184,841.999)" d="M0 0H595V842H0Z"/>
 </clipPath>
 </defs>
 <g clip-path="url(#clip_1)">
-<g transform="matrix(.500025,0,0,.500025,.125,-.07904053)">
-<image id="image_2" width="1190" height="1684" xlink:href="data:image/png;base64,
+<g clip-path="url(#clip_2)">
+<g clip-path="url(#clip_3)">
+<g transform="matrix(.5000749,0,0,.5000749,.09901184,-.12713623)">
+<image id="image_4" width="1190" height="1684" xlink:href="data:image/png;base64,
 iVBORw0KGgoAAAANSUhEUgAABKYAAAaUCAIAAABFUYM+AAAACXBIWXMAAA7EAAAO
 xAGVKw4bAAB3bklEQVR4nOzdPVYbyfv4bXbgLyuYc9iAAxYwCflExM5IJySclGxi
 Rc5JvACC2QDneAUc7wCWoH891G/q6WlJjZD6peru6wp8zItFq9VVrg8ttS62AAAA
@@ -654,6 +662,8 @@ AEBYkg8AACAsyQcAABCW5AMAAAhL8gEAAIQl+QAAAMKSfAAAAGFJPgAAgLAkHwAA
 QFiSDwAAICzJBwAAEJbkAwAACEvyAQAAhCX5AAAAwpJ8AAAAYUk+AACAsCQfAABA
 WJIPAAAgLMkHAAAQluQDAAAIS/IBAACEJfkAAADCknwAAABhST4AAICwJB8AAEBY
 kg8AACCs/wOfLukOYe29QAAAAABJRU5ErkJggg=="/>
+</g>
+</g>
 </g>
 </g>
   </g>

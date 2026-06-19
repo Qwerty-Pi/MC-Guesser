@@ -1,1 +1,1039 @@
-2000-CE MATH PAPER 2 HONG KONG EXAMINATIONS AUTHORITY HONG KONG CERTIFICATE OF EDUCATION EXAMINATION 2OOO MATHEMATICS PAPER 2 11.15am-12.45pm(1%hours） Subject Code 180 1. Read carefully the instructions on the Answer Sheet and insert the information required (including the Subject Code) in the spaces provided. 2. When told to open this book, check that all the questions are there. Look for the words 'END OF PAPER' after the last question. 3. ANSWER ALL QUESTIONS. All the answers should be marked on the Answer Sheet. 4. Note that you may only mark ONE answer to each question. Two or more answers will score NO MARKS. 5. All questions carry equal marks. No marks will be deducted for wrong answers. 香港考试局 保留版權 Hong Kong Examninetions Authority All Rights Reserved 2000 2000-CE-MATH 2-1FORMULAS FOR REFERENCE SPHERE Surface area = 4πr^2$ Volume 4 Ⅱ 3 $πr CYLINDER Area of curved surface = 2πrh Volume Ⅱ $πr2hh$ CONE Area of curved surface = πrl Volume Ⅱ m 1 $πr^2h PRISM Volume Ⅱ base area × height PYRAMID Volume = 1 \ ×base area ×height 2000-CE-MATH 2-2 -1- 保留版All Rights Reserved 2000There are 36 questions in Section A and 18 questions in Section B. The diagramns in this paper are not necessarily drawn to seale. Section A 1. IfA= h 2 (a+b)，then = A. 2A-ah. B. 2 (A−). $h$ C. 2A-a h D. 2A a− h E. 2.A a. h 2. Factorize x2 -x−xy+y. A. (x−y)(x-1) B. (x-y)(x+1) C. (x+y)(x-1) D. (1−x)(x+y) E. (1+x)(y−x) 2000-CE-MATH2-3 -2- Go on to the next page 保留版All Rights Reserved 2000Simplify (a3b−1)-2 3. (a^1b2)4$ A. 1 $ab^{3}$ B. 1 $a^2b}$ C. 一 $a^{}$ D. 1 a2b E.  $b^}$ 4. Let f(x)=3x2+ax-7.Iff(-1)=0，findf(–2). A. -27 B. −11 C. -3 D. 1 E. 13 2000-CE-MATH 2–4 -3- ©保留版權 All Rights Reserved 2000If y=x21$ 5. , then y = |y =2x−2 A. -4. B. 0. C. 1. D. 0 or 8. E. -4 or 4. 6. Find the vales of x which satisfy both x+3>0 and-2x<1 A. x>-3 B. x>$ 1 2 C. x> 1 2 D. -3<x<- 1 2 E. -3<x< 一12 2000-CE-MATH2-5 -4- Go on to the next page 保留版 All Rights Reserved 20007. Inthefigureasquareofsidexcm iscutinto 9equal squares.Ifthetotal perimeterofthe9small squaresis72cm morethantheperimeterof the original square, then = x cm x cm A. 6. B. 8. C. 9. D. 12. E. 18. 8. The figure shows a trapezium of area 6 cm2. Find x. A. 2 1 cm B. 3 C. 4 x cm D. $\sqrtt6 }$ E. $√\1}$ x cm 2000-CE-MATH 2–6 -5- ©保留版權 All Rights Reserved 20009. Let f（x）=x3−2x−5x+6.Itisknownthatf(1）=0.f(x）canbe factorized as A. (x-1）²(x+6). B. (x-1)(x+1)(x+6). C. (x−1)(x−2)(x+3). D. (x-1)(x+2)(x-3). E. (x+1)(x-2)(x-3). 10. If3x{2+ax+7=3(x-2)²+b，then A. a=-12，b=-5. B. a=-12，b=7. C. a=-4,b=3. D. a=0，b=-5. E. a=0，b=19. 2000-CF-MATH2-7 -6- Go on to the next page 保留版 All Rights Reserved 200011. Which ofthe following may represent the graph ofy=tanx°for 0≤x≤90？ A. y↑ B. y 1 0 →x 0 90 7s 90 C. y_↑}$ D. y↑ 0 90 7s 0o 90 →x E. y↑ 0 90 7x 2000-CE-MATH 2-8 -7- 保留版All Rights Reserved 200012. Inthefigure,ABCD isa rectangle formed by four squares each ofa 1cm.DB isa diagonal. Findthe areaof the shaded region. A. 9 cm2$ A D $\fv$ B. 7 8 $cm^{2}$ B C C. 55 6 $$_^}$ D. 4 5 $c_^{}$ E. 3 4 $cm_^}$ 13. Inthe figure,the areas of the two triangles are equal. Find. 10 cm 5 cm 0 30° 8 cm 4 em A. 7.2° (correct to the nearest 0.1°) B. 7.5° (correct to the nearest 0.1°) C. 14.5°(correct to the nearest 0.1°) D. $15°}$ E. 30° 2000-CE-MATH2-9 -8- Go on to the next page 保留版 All Rights Reserved 200014. Aman bought two books at $30 and $70respectively. He sold thefirstone ataprofitof 20%andthe secondone at alossof10%.Onthe whole,he A. lost 1%. B. lost 10%. C. gained 1%. D. gained 10%. E. gained 13%. 15. The1st and10th terms of an arithmetic sequence are 2 and29 respectively. The 20th term of the sequence is A. 56. B. 58. C. 59. D. 60. E. 62. 2000-CE-MATH2-10 -9 保留版All Rights Reserved 200016.Whichofthe following could bea geometric sequence/geometric sequences? L.3，33，3，3. ⅡI.9,99,999,9999，.. ⅢⅢ.10,−100,1000,−10000, A. III only B. I and II only C. I and III only D. II and III only E. I. ⅡI and II 17. In the figure, find the area of ΔABC. A. 12 a B. 15 C. 16 D. 20 0 → x E. 25 A B y=-2 2x+y=8 2000-CE-MATH2-11 -10- Go on to the next page 保留版 All Rights Reserved 200018. Consider the three straight lines L1:6x+4y-3=0, L2:y= 3 2 x+4and L3:6x-4y+3=0. Which of the following is/are true? I.$L1// L2 II.L2/} L3 I.L1⊥L3 A. I only B. ⅡI only C. II only D. I and III only E. I and III only 2000-CE-MATH 2–12 -11- ©保留版All Rights Reserved 20019. In the figure, ABCD is a parallelogram. Find ∠BDE. A. 30°}$ D I C B. 35° /40 C. 40° D. 50° E. 55° A E B 20. Inthe figure,O is the centre of the circle.EAOBand EDCarestraight lines. Find x. A. 40° B. 46° D 114° 1x$ 57° E 20° C. A 0 B D. 66° E. 68° 2000-CE-MATH2-13 -12- Go on to the next page 保留版All Rights Reserved 200021. Two fair diceare thrown. Findtheprobability thatat leastone "6”occurs. A. 1 $3 B. 1 6 C. 5 18 D. 7 36 E. 11 36 22. Abagcontainssixballswhicharemarkedwiththenumbers−3，−2,1, 1,2and3respectively.Twoballsaredrawnrandomlyfromthebag.Find the probability that the sum of the numbers drawn is zero A. 1 300 B. 1 $1fv C. 1 5 D. 一Im E. 1 2 2000-CE-MATH 2-14 –13- ©保留版權 All Rights Reserved 200023. {x，x+2，x+4，x+6，x+8}and{x+1，x+3，x+5，x+7，x+9} aretwo groups ofnumbers. Whichof the followingisaretrue? I. The two groups of numbers have the samne range. II. The two groups of mumbers have the same standard deviation IⅢ. The two groups of mumbers have the same mean. A. I only B. II only C. IIonly D. I and ⅡI only E. I and III only 24. Inthe figure，AB=CD，∠CAB=∠ECDand ∠ABC=∠CDE.Whichof the following must be true? L△ABC=△CDE Ⅱ.△ABC~△EAC III.EAC is an isosceles triangle A. I only E B. IIIonly C. I and II only D. I and III only E. I, IⅡI and III B C 2000-CE-MATH2-15 -14- Go on to the next page 保留版All Rights Reserved 200025. Inthefigure,PXQ，QYRand RZPare semicircles with areasAcm A2cm2andA3cm2respectively.IfA1=12andA2=5，findA3. A. 13 Z B. 17 R A3cm2 C. 169 A2cm2 Y D. 13π E. 169 π P 0 8 A_1}cm^2$ X 26. Inthefgurfindtheareaofthtrianglecorrecttothenearest0.1cm2 A. 7.3cm2 B. 10.7 cm2 C. 12.7 cm2 D. 15.0 cm2 50° 60° E. 19.1 cm2 6 cm 2000-CE-MATH2-16 -15- 保留版All Rights Reserved 200027. In the figurefind x correct to 3 sigificant fures. A. 63.8 7 cm B. 78.5 6 cm C. 84.5 66° D. 87.3 $x0$ 7 cm E. 89.1 5 cm 28. Inthe figure,ABCD is a rectangle. Find CF. C b cm D acm B 0 A F A. (+ b)sinθ cm B. (+ b)cosθ cm C. (sinθ+cosθ)cm D. (cosθ+simθ)cm E. √a2+b2sin2θ cmm 2000-CE-MATH2-17 -16- Go on to the next page 保留版 All Rights Reserved 200029. Inthefigure,DABisa straight line.tan= c $20{°$ θ D A 1 B A. 2tan 20° B. 1 2 tan 20°. C. 2 tan 20° D. 1 2tan 20° E. tan40°. 30. According to the figurethebearingofBfromCis A. 050° z← B B. 130° 40 C. 140° A D. 310° E. 320° C 2000-CE-MATH 2–18 -17- ©保留版All Rights Reserved 200031. In the figure,CAB is a semicircle and ABCD is a parallelogram. Find the area of ABCD. A. 65 cm2 A D B. 60cm2 5 cm C. 52cm2 B 13 cm C D. 32.5 cm2 E. 30 cm^{2 32. Thefigureshowsasquare,atriangleandasectorwithareasacm.bcm and c cm2 respectively. 3 cm 3 cm 3 cm 4 cm, b cm2$ 4cm 4 cm a ca2}$ ccm{$ 4cm 3 cm 4 cm 4 cm Which of the following is true? A. a>b>c B. a>c>b$ C. b >a>c D. b>c>a E. c>a>b$ 2000-CE-MATH2-19 -18- Go on to the next page 保留版 All Rights Reserved 200033. Inthefigureasolidwoodensphereofradiusrcmistobecutintoacubeof side 3cm.Find the smallest possible valueofr. 3 cm r cm 3\s}$ A. 2 $3\sq{2}$ B. 2 C. 32 D. $3\sqr{3}$ E. 3\sq{2}$ 34. If9a2−b{2=0 and ab<0，then a- b a+ b$ A. -2. B. 1 2 C. 0. D. 1 2 E. 2. 2000-CE-MATH 2–20 -19- 保留版All Rights Reserved 200035. yvaries directlyas x²andinversely as√z.Ify=1 when x=2and z=9，findy whenx=1andz=4. A. 2m B. ∞|3 C. 116 D. m1∞ E. 9 26 36. Tea A andtea B are mixed in the ratio x:y by weight.A costs $8o/kg and Bcosts $100/kg.If the cost ofA is increased by 10% and that ofBis decreased by 12%，the cost of the mixture per kgremains unchanged. Find x:y. A. 1:1 B. 2:3 C. 3:2 D. 5:6 E. 6:5 2000-CE-MATH2-21 -20- Go on to the next page 保留版 All Rights Reserved 2000Section B 37. Simplify a b 2ab a+ b$ + $boa$ + a2−b2 A. a+b$ $a-bb$ B. $a− b$ $a+b$ -a2+b^²+4ab C. $a2−^}$ $a^{2}+^}$ D. a2−b2 E. 1 38. Iflog(x-a)=3，thenx= A. $10{3*a B. $a^{3}$ C. 1000a. D. 1000+a. E. 30+a. 2000-CE-MATH 2–22 -21- 保留版AllRights Reserved 200039. Whichofthefollowingmayrepresentthegraphofy=x22x3？ A. y{↑}$ B. 71 →x 0 0 C. D. y y →x 0 7x 0 E. y O →x 2000-CE-MATH2-23 -22- Go on to the next page 保留版 All Rights Reserved 200040. If $\sqr{5 }$ +1x=√2，then x== 2 A. 2\0-2$. B. 2\10-4\s2$. C. 2\0+4√s2$. D. $\01$ 2 2\10-4\sq2}$ E. 3 41. Inthefigure,thegraphofy=f(x)intersectsthex-axisat PandQonly Inordertofindarootoffx)=0usingthemethodofbisection,whichofthe following intervals can you start with? 1.-1<x<0 II.-1<x<1 y = f(x) I.1<x<2 A. I only P 0 O 7s B. II only C. I and II only D. I and III only E. I, II and III 2000-CE-MATH 2–24 -23- ©保留版權 All Rights Reserved 200042. According to the figure,which of the following represents the solution of 0≤x≤4 x≥y ? $y}$ 0≤y≤3 4 VI V A. Region I IV 3 B. Region ⅡI 2 I C. Regions I and VI 1 ⅡI ⅢI D. Regions II and III 0 →x 1 2 3 4 E. Regions I, III annd IV 43. Inthe figure，ABCDEF is arighttriangularprism.Itiscut into twopars along the plane PORs,which is parallel to the face BCDF,and AP:PB=2:5.Find volume of the prism APQRES volume of the prism ABCDEF A. 27 E 4 A B. R 25 P C. 4 D 49 B 8 C D. 125 E. 8 343 2000-CE-MATH2-25 -24- Go on to the next page 保留版 All Rights Reserved 200044. πdegrees= A. $π^{2}$ 180 radian . B. 180 radians . 2 C. π 180 radian. D. 180 radians . E. 1 radian . 45. InthefigureABistangenttothecircleatB.Find∠DCE. A. 70° B. 75° F > D C. 90° = D. 95° E E. 105° X 110° A > B 2000-CE-MATH2-26 -25- 保留版All Rights Reserved 200046. In the figure, AB:BC:CD=2:1:3 .Find ∠ADC. D A. 56° B. 60° C. 63° D. 72° A 96\ E. 84° C B 47. Thebar chart below shows thedistributionof scores ofa test. Find the mean deviation of the scores of the test. A. 0 mark 20 B. 8 Kouanborj 15 9 mark 10 $2\sfqr{2}$ 5 C. 3 mark 0 1 2 3 4 5 $2\sqr{3 }$ score (marks) D. marks 3 E. 6 5 marks 2000-CE-MATH2-27 -26- Go on to the next page 保留版 All Rights Reserved 200048. Ifthecentreofthecirclex²+y+kx+(k+1)y3=0lieson x+y+1=0，findk. A. m2 B. 1 2 C. 0 D. −1 E. 3 2 49. Ifthestraightlineymx+1istangenttothcircle2)2+y1 then m = A. 4 $\fra }$ B. 0. C. 4 \r} D. 0 or 4 $\fr3 }$ E. 0 or 4 $\fra3}$ 2000-CE-MATH 2–28 -27- ©保留版權 All Rights Reserved 200050. A(−1,-4)and B(3,4)aretwo points. The line x-y=0cuts ABat P so thatAP:PB=r:1.Findr. A. 3 B. 2 C. 1 D. 1 12 E. 113 51. If cosθ= 1 k and 0°<θ<90°，thentamn(−270°)= A. k $\q}$ B. 1 $\i{−1$ C. 1 $\ir{}}1}$ D. $\{21$. E. $√21. 2000-CE-MATH2-29 -28- Go on to the next page 保留版 All Rights Reserved 200052. The figure shows a right triangular prism. Find its volume 1m a A. 1 sinαcossinβcosβm³ 3 B. 1 sinαcos2sinβcosβm³ 3 C. 一 sinαcosαsimnβcosβm 2 D. 1 sin2cosαsinβcosβm³ 2 E. 一 2 sinαcos2simnβcosβm 2000-CE-MATH 2-30 -29- 保留版All Rights Reserved 200053. In the figure, the area of ΔABC is A. π 3}  C B. 2π y=1-2cos2x 3 C. π. 4π 0 2 π B π D. 3 E. 2π. 54. In the figure,AECand BEDare straight lines.If theareaofΔABE=4cm and the areaofΔBCE=5cm2，find the areaofΔCDE. A. 4.5 cm2 D B. 5cm2$ A C. 6cm2$ E D. 6.25 cm2 E. 9 cm2 B C END OF PAPER 2000-CE-MATH2-31 -30- 保留版All Rights Reserved 20002000 Mathematics (Paper 2) Question No. Key Question No. Key 1. E 31. B 2. A 32. B 3. C 33. A 4. E 34. A 5. B 35. D 6. B 36. C 7. C 37. E 8. B 38. D 9. D 39. E 10. A 40. B 11. E 41. C 12. B 42. D 13. A 43. C 14. A 44. 45. A 15. C E 16. C 46. C 17. E 47. B 18. A 48. B 19. A 49. D 20. E 50. A 21. E 51. B 22. C 52. E 23. D 53. C 24. D 54. D 25. B 26. C 27. D 28. D 29. A 30. D 保留版All Rights Reserved 2000
+\documentclass{article}
+\usepackage{amsmath,graphicx,geometry,tabularx}
+\geometry{margin=1in}
+\begin{document}
+
+\begin{center}
+    \textbf{2000-CE} \\
+    \textbf{MATH} \\
+    \textbf{PAPER 2} \\
+    \vspace{0.5cm}
+    HONG KONG EXAMINATIONS AUTHORITY \\
+    HONG KONG CERTIFICATE OF EDUCATION EXAMINATION 2000 \\
+    \vspace{1cm}
+    \textbf{\Large MATHEMATICS \quad PAPER 2} \\
+    \vspace{0.5cm}
+\end{center}
+
+\noindent 11.15 am -- 12.45 pm \quad (1\frac{1}{2} hours) \hfill \framebox{Subject Code \quad 180}
+
+\vspace{1cm}
+
+\begin{enumerate}
+    \item Read carefully the instructions on the Answer Sheet and insert the information required (including the Subject Code) in the spaces provided.
+    \item When told to open this book, check that all the questions are there. Look for the words \textbf{`END OF PAPER'} after the last question.
+    \item \textbf{ANSWER ALL QUESTIONS.} All the answers should be marked on the Answer Sheet.
+    \item Note that you may only mark \textbf{ONE} answer to each question. Two or more answers will score \textbf{NO MARKS}.
+    \item All questions carry equal marks. No marks will be deducted for wrong answers.
+\end{enumerate}
+
+\vspace{3cm}
+
+\noindent \copyright 香港考試局 \quad 保留版權 \\
+Hong Kong Examinations Authority \\
+All Rights Reserved 2000
+
+\vspace{0.5cm}
+
+\noindent 2000-CE-MATH 2--1
+
+\newpage
+
+\begin{center}
+\textbf{FORMULAS FOR REFERENCE}
+\end{center}
+
+\begin{center}
+\begin{tabular}{lll}
+SPHERE & Surface area & $= 4\pi r^2$ \\
+ & & \\
+ & Volume & $= \frac{4}{3}\pi r^3$ \\
+ & & \\
+CYLINDER & Area of curved surface & $= 2\pi rh$ \\
+ & & \\
+ & Volume & $= \pi r^2 h$ \\
+ & & \\
+CONE & Area of curved surface & $= \pi rl$ \\
+ & & \\
+ & Volume & $= \frac{1}{3}\pi r^2 h$ \\
+ & & \\
+PRISM & Volume & $= \text{base area} \times \text{height}$ \\
+ & & \\
+PYRAMID & Volume & $= \frac{1}{3} \times \text{base area} \times \text{height}$ \\
+\end{tabular}
+\end{center}
+
+\vspace*{\fill}
+\noindent 2000-CE-MATH 2--2 \hfill $- 1 -$ \\
+\copyright\ All Rights Reserved 2000
+
+\end{document}
+
+There are 36 questions in Section A and 18 questions in Section B.
+The diagrams in this paper are not necessarily drawn to scale.
+
+\section*{Section A}
+
+1. If $A = \frac{h}{2}(a+b)$, then $b =$
+
+\begin{itemize}
+    \item[A.] $2A - ah$ .
+    \item[B.] $\frac{2}{h}(A-a)$ .
+    \item[C.] $\frac{2A-a}{h}$ .
+    \item[D.] $a - \frac{2A}{h}$ .
+    \item[E.] $\frac{2A}{h} - a$ .
+\end{itemize}
+
+2. Factorize $x^2 - x - xy + y$ .
+
+\begin{itemize}
+    \item[A.] $(x-y)(x-1)$
+    \item[B.] $(x-y)(x+1)$
+    \item[C.] $(x+y)(x-1)$
+    \item[D.] $(1-x)(x+y)$
+    \item[E.] $(1+x)(y-x)$
+\end{itemize}
+
+\vfill
+\noindent 2000-CE-MATH 2--3 \hfill $-2-$ \hfill Go on to the next page $\blacktriangleright$ \\
+\copyright\ 保留版權 All Rights Reserved 2000
+
+\end{document}
+
+3. Simplify $\displaystyle \frac{(a^3b^{-1})^{-2}}{(a^{-1}b^2)^4}$.
+
+\begin{itemize}
+    \item[A.] $\displaystyle \frac{1}{ab^3}$
+    \item[B.] $\displaystyle \frac{1}{a^2b^3}$
+    \item[C.] $\displaystyle \frac{1}{a^2b^6}$
+    \item[D.] $\displaystyle \frac{1}{a^2b^9}$
+    \item[E.] $\displaystyle \frac{a^4}{b^6}$
+\end{itemize}
+
+4. Let $f(x) = 3x^2 + ax - 7$. If $f(-1) = 0$, find $f(-2)$.
+
+\begin{itemize}
+    \item[A.] $-27$
+    \item[B.] $-11$
+    \item[C.] $-3$
+    \item[D.] $1$
+    \item[E.] $13$
+\end{itemize}
+
+\vfill
+\noindent 2000-CE-MATH 2--4 \hfill $-3-$ \\
+\includegraphics[width=0.1\textwidth]{logo.png} % TODO: Placeholder for logo
+\copyright 保留版權 All Rights Reserved 2000
+
+\end{document}
+
+5. If $\begin{cases} y = x^2 - 1 \\ y = 2x - 2 \end{cases}$, then $y =$
+
+\begin{itemize}
+    \item[A.] $-4$ .
+    \item[B.] $0$ .
+    \item[C.] $1$ .
+    \item[D.] $0$ or $8$ .
+    \item[E.] $-4$ or $4$ .
+\end{itemize}
+
+6. Find the values of $x$ which satisfy both $x + 3 > 0$ and $-2x < 1$ .
+
+\begin{itemize}
+    \item[A.] $x > -3$
+    \item[B.] $x > -\frac{1}{2}$
+    \item[C.] $x > \frac{1}{2}$
+    \item[D.] $-3 < x < -\frac{1}{2}$
+    \item[E.] $-3 < x < \frac{1}{2}$
+\end{itemize}
+
+\vfill
+\noindent 2000-CE-MATH 2--5 \hfill $-4-$ \hfill Go on to the next page \\
+\includegraphics[width=0.05\textwidth]{logo.png} \copyright \ 保留版權 All Rights Reserved 2000
+
+\end{document}
+
+7. In the figure, a square of side $x$ cm is cut into 9 equal squares. If the total perimeter of the 9 small squares is 72 cm more than the perimeter of the original square, then $x =$
+
+% TODO: Insert figure here
+\begin{itemize}
+    \item[A.] 6 .
+    \item[B.] 8 .
+    \item[C.] 9 .
+    \item[D.] 12 .
+    \item[E.] 18 .
+\end{itemize}
+
+8. The figure shows a trapezium of area 6 cm$^2$. Find $x$ .
+
+\begin{itemize}
+    \item[A.] 2
+    \item[B.] 3
+    \item[C.] 4
+    \item[D.] $\sqrt{6}$
+    \item[E.] $\sqrt{11}$
+\end{itemize}
+
+% TODO: Insert figure here
+
+\vfill
+\noindent 2000-CE-MATH 2--6 \hfill $- 5 -$ \\
+\copyright \text{保留版權 All Rights Reserved 2000}
+
+\end{document}
+
+9. Let $f(x) = x^3 - 2x^2 - 5x + 6$. It is known that $f(1) = 0$. $f(x)$ can be factorized as
+
+\begin{itemize}
+    \item[A.] $(x-1)^2(x+6)$ .
+    \item[B.] $(x-1)(x+1)(x+6)$ .
+    \item[C.] $(x-1)(x-2)(x+3)$ .
+    \item[D.] $(x-1)(x+2)(x-3)$ .
+    \item[E.] $(x+1)(x-2)(x-3)$ .
+\end{itemize}
+
+10. If $3x^2 + ax + 7 \equiv 3(x-2)^2 + b$, then
+
+\begin{itemize}
+    \item[A.] $a = -12$, $b = -5$ .
+    \item[B.] $a = -12$, $b = 7$ .
+    \item[C.] $a = -4$, $b = 3$ .
+    \item[D.] $a = 0$, $b = -5$ .
+    \item[E.] $a = 0$, $b = 19$ .
+\end{itemize}
+
+\vfill
+\noindent 2000-CE-MATH 2--7 \hfill $-6-$ \hfill Go on to the next page \\
+\copyright\ 保留版權 All Rights Reserved 2000
+
+\end{document}
+
+11. Which of the following may represent the graph of $y = \tan x^\circ$ for $0 \le x \le 90$ ?
+
+\begin{minipage}[t]{0.45\textwidth}
+A. \\
+% TODO: Insert image for graph A
+\includegraphics[width=0.8\textwidth]{graph_A.png}
+\end{minipage}
+\begin{minipage}[t]{0.45\textwidth}
+B. \\
+% TODO: Insert image for graph B
+\includegraphics[width=0.8\textwidth]{graph_B.png}
+\end{minipage}
+
+\vspace{1em}
+
+\begin{minipage}[t]{0.45\textwidth}
+C. \\
+% TODO: Insert image for graph C
+\includegraphics[width=0.8\textwidth]{graph_C.png}
+\end{minipage}
+\begin{minipage}[t]{0.45\textwidth}
+D. \\
+% TODO: Insert image for graph D
+\includegraphics[width=0.8\textwidth]{graph_D.png}
+\end{minipage}
+
+\vspace{1em}
+
+\begin{minipage}[t]{0.45\textwidth}
+E. \\
+% TODO: Insert image for graph E
+\includegraphics[width=0.8\textwidth]{graph_E.png}
+\end{minipage}
+
+\vfill
+\noindent 2000-CE-MATH 2--8 \hfill $- 7 -$ \\
+\includegraphics[width=0.05\textwidth]{logo.png} \copyright 保留版權 All Rights Reserved 2000
+
+\end{document}
+
+12. In the figure, $ABCD$ is a rectangle formed by four squares each of area $1 \text{ cm}^2$. $DB$ is a diagonal. Find the area of the shaded region.
+
+\begin{itemize}
+    \item[A.] $\dfrac{9}{10} \text{ cm}^2$
+    \item[B.] $\dfrac{7}{8} \text{ cm}^2$
+    \item[C.] $\dfrac{5}{6} \text{ cm}^2$
+    \item[D.] $\dfrac{4}{5} \text{ cm}^2$
+    \item[E.] $\dfrac{3}{4} \text{ cm}^2$
+\end{itemize}
+
+% TODO: Insert image of rectangle ABCD with diagonal DB and shaded region
+\vspace{1em}
+
+13. In the figure, the areas of the two triangles are equal. Find $\theta$.
+
+% TODO: Insert image of two triangles with given side lengths and angles
+
+\begin{itemize}
+    \item[A.] $7.2^\circ$ (correct to the nearest $0.1^\circ$)
+    \item[B.] $7.5^\circ$ (correct to the nearest $0.1^\circ$)
+    \item[C.] $14.5^\circ$ (correct to the nearest $0.1^\circ$)
+    \item[D.] $15^\circ$
+    \item[E.] $30^\circ$
+\end{itemize}
+
+\vfill
+\noindent 2000-CE-MATH 2--9 \hfill $- 8 -$ \hfill Go on to the next page \\
+\textcopyright \ 保留版權 All Rights Reserved 2000
+
+\end{document}
+
+14. A man bought two books at \$30 and \$70 respectively. He sold the first one at a profit of 20\% and the second one at a loss of 10\% . On the whole, he
+
+\begin{itemize}
+    \item[A.] lost 1\% .
+    \item[B.] lost 10\% .
+    \item[C.] gained 1\% .
+    \item[D.] gained 10\% .
+    \item[E.] gained 13\% .
+\end{itemize}
+
+15. The 1st and 10th terms of an arithmetic sequence are 2 and 29 respectively. The 20th term of the sequence is
+
+\begin{itemize}
+    \item[A.] 56 .
+    \item[B.] 58 .
+    \item[C.] 59 .
+    \item[D.] 60 .
+    \item[E.] 62 .
+\end{itemize}
+
+\vfill
+\noindent 2000-CE-MATH 2--10 \hfill $-9-$ \\
+\includegraphics[width=0.05\textwidth]{logo.png} \copyright 保留版權 All Rights Reserved 2000
+
+\end{document}
+
+16. Which of the following could be a geometric sequence/geometric sequences?
+
+I. $3, 3^3, 3^5, 3^7, \dots$
+II. $9, 99, 999, 9999, \dots$
+III. $10, -100, 1000, -10000, \dots$
+
+\begin{itemize}
+    \item[A.] III only
+    \item[B.] I and II only
+    \item[C.] I and III only
+    \item[D.] II and III only
+    \item[E.] I, II and III
+\end{itemize}
+
+17. In the figure, find the area of $\Delta ABC$.
+
+\begin{itemize}
+    \item[A.] 12
+    \item[B.] 15
+    \item[C.] 16
+    \item[D.] 20
+    \item[E.] 25
+\end{itemize}
+
+% TODO: Insert figure here
+\begin{center}
+    \includegraphics[width=0.4\linewidth]{figure_placeholder.png}
+\end{center}
+
+\vfill
+2000-CE-MATH 2-11 \hfill $- 10 -$ \hfill Go on to the next page $\blacktriangleright$
+\copyright\ 保留版權 All Rights Reserved 2000
+
+\end{document}
+
+18. Consider the three straight lines
+\begin{align*}
+L_1 &: 6x + 4y - 3 = 0 \text{ ,} \\
+L_2 &: y = -\frac{3}{2}x + 4 \text{ and} \\
+L_3 &: 6x - 4y + 3 = 0 \text{ .}
+\end{align*}
+
+Which of the following is/are true?
+\begin{itemize}
+    \item[I.] $L_1 \parallel L_2$
+    \item[II.] $L_2 \parallel L_3$
+    \item[III.] $L_1 \perp L_3$
+\end{itemize}
+
+\begin{itemize}
+    \item[A.] I only
+    \item[B.] II only
+    \item[C.] III only
+    \item[D.] I and III only
+    \item[E.] II and III only
+\end{itemize}
+
+\vfill
+\noindent 2000-CE-MATH 2--12 \hfill $- 11 -$ \\
+\includegraphics[width=0.05\linewidth]{logo.png} \copyright 保留版權 All Rights Reserved 2000
+
+\end{document}
+
+19. In the figure, $ABCD$ is a parallelogram. Find $\angle BDE$.
+
+\begin{minipage}{0.5\textwidth}
+\begin{itemize}
+    \item[A.] $30^\circ$
+    \item[B.] $35^\circ$
+    \item[C.] $40^\circ$
+    \item[D.] $50^\circ$
+    \item[E.] $55^\circ$
+\end{itemize}
+\end{minipage}
+\begin{minipage}{0.5\textwidth}
+% TODO: Insert figure for question 19
+\end{minipage}
+
+20. In the figure, $O$ is the centre of the circle. $EAOB$ and $EDC$ are straight lines. Find $x$.
+
+\begin{minipage}{0.5\textwidth}
+\begin{itemize}
+    \item[A.] $40^\circ$
+    \item[B.] $46^\circ$
+    \item[C.] $57^\circ$
+    \item[D.] $66^\circ$
+    \item[E.] $68^\circ$
+\end{itemize}
+\end{minipage}
+\begin{minipage}{0.5\textwidth}
+% TODO: Insert figure for question 20
+\end{minipage}
+
+\vfill
+\noindent 2000-CE-MATH 2--13 \hfill $- 12 -$ \hfill Go on to the next page $\blacktriangleright$
+
+\noindent \copyright \ 保留版權 All Rights Reserved 2000
+
+\end{document}
+
+21. Two fair dice are thrown. Find the probability that at least one ``6'' occurs.
+
+\begin{itemize}
+    \item[A.] $\dfrac{1}{3}$
+    \item[B.] $\dfrac{1}{6}$
+    \item[C.] $\dfrac{5}{18}$
+    \item[D.] $\dfrac{7}{36}$
+    \item[E.] $\dfrac{11}{36}$
+\end{itemize}
+
+22. A bag contains six balls which are marked with the numbers $-3$, $-2$, $-1$, $1$, $2$ and $3$ respectively. Two balls are drawn randomly from the bag. Find the probability that the sum of the numbers drawn is zero.
+
+\begin{itemize}
+    \item[A.] $\dfrac{1}{30}$
+    \item[B.] $\dfrac{1}{10}$
+    \item[C.] $\dfrac{1}{5}$
+    \item[D.] $\dfrac{1}{3}$
+    \item[E.] $\dfrac{1}{2}$
+\end{itemize}
+
+\vfill
+\noindent 2000-CE-MATH 2--14 \hfill $- 13 -$ \\
+\includegraphics[width=0.05\linewidth]{logo.png} \copyright 保留版權 All Rights Reserved 2000
+
+\end{document}
+
+23. $\{x, x+2, x+4, x+6, x+8\}$ and $\{x+1, x+3, x+5, x+7, x+9\}$ are two groups of numbers. Which of the following is/are true?
+
+\begin{itemize}
+    \item[I.] The two groups of numbers have the same range.
+    \item[II.] The two groups of numbers have the same standard deviation.
+    \item[III.] The two groups of numbers have the same mean.
+\end{itemize}
+
+\begin{itemize}
+    \item[A.] I only
+    \item[B.] II only
+    \item[C.] III only
+    \item[D.] I and II only
+    \item[E.] I and III only
+\end{itemize}
+
+24. In the figure, $AB = CD$, $\angle CAB = \angle ECD$ and $\angle ABC = \angle CDE$. Which of the following must be true?
+
+\begin{itemize}
+    \item[I.] $\Delta ABC \cong \Delta CDE$
+    \item[II.] $\Delta ABC \sim \Delta EAC$
+    \item[III.] $\Delta EAC$ is an isosceles triangle
+\end{itemize}
+
+\begin{itemize}
+    \item[A.] I only
+    \item[B.] III only
+    \item[C.] I and II only
+    \item[D.] I and III only
+    \item[E.] I, II and III
+\end{itemize}
+
+% TODO: Insert figure here
+% \includegraphics[width=0.5\textwidth]{figure_placeholder}
+
+\vspace{1cm}
+
+\noindent 2000-CE-MATH 2--15 \hfill $- 14 -$ \hfill Go on to the next page $\blacktriangleright$
+
+\noindent \copyright \ 保留版權 All Rights Reserved 2000
+
+\end{document}
+
+25. In the figure, $PXQ$, $QYR$ and $RZP$ are semicircles with areas $A_1 \text{ cm}^2$, $A_2 \text{ cm}^2$ and $A_3 \text{ cm}^2$ respectively. If $A_1 = 12$ and $A_2 = 5$, find $A_3$.
+
+\begin{minipage}{0.4\textwidth}
+\begin{itemize}
+    \item[A.] 13
+    \item[B.] 17
+    \item[C.] 169
+    \item[D.] $13\pi$
+    \item[E.] $\dfrac{169}{8}\pi$
+\end{itemize}
+\end{minipage}
+\begin{minipage}{0.5\textwidth}
+% TODO: Insert figure for problem 25
+\end{minipage}
+
+26. In the figure, find the area of the triangle correct to the nearest $0.1 \text{ cm}^2$.
+
+\begin{minipage}{0.4\textwidth}
+\begin{itemize}
+    \item[A.] $7.3 \text{ cm}^2$
+    \item[B.] $10.7 \text{ cm}^2$
+    \item[C.] $12.7 \text{ cm}^2$
+    \item[D.] $15.0 \text{ cm}^2$
+    \item[E.] $19.1 \text{ cm}^2$
+\end{itemize}
+\end{minipage}
+\begin{minipage}{0.5\textwidth}
+% TODO: Insert figure for problem 26
+\end{minipage}
+
+\vfill
+\noindent 2000-CE-MATH 2--16 \hfill $- 15 -$ \\
+\includegraphics[width=0.2\textwidth]{logo.png} \copyright \text{保留版權 All Rights Reserved 2000}
+
+\end{document}
+
+27. In the figure, find $x$ correct to 3 significant figures.
+
+\begin{itemize}
+    \item[A.] 63.8
+    \item[B.] 78.5
+    \item[C.] 84.5
+    \item[D.] 87.3
+    \item[E.] 89.1
+\end{itemize}
+
+% TODO: Insert figure for question 27
+\begin{center}
+    \includegraphics[width=0.4\textwidth]{figure27.png}
+\end{center}
+
+28. In the figure, $ABCD$ is a rectangle. Find $CF$.
+
+% TODO: Insert figure for question 28
+\begin{center}
+    \includegraphics[width=0.4\textwidth]{figure28.png}
+\end{center}
+
+\begin{itemize}
+    \item[A.] $(a+b)\sin\theta \text{ cm}$
+    \item[B.] $(a+b)\cos\theta \text{ cm}$
+    \item[C.] $(a\sin\theta + b\cos\theta) \text{ cm}$
+    \item[D.] $(a\cos\theta + b\sin\theta) \text{ cm}$
+    \item[E.] $\sqrt{a^2+b^2} \sin 2\theta \text{ cm}$
+\end{itemize}
+
+\vfill
+\noindent 2000-CE-MATH 2--17 \hfill $- 16 -$ \hfill Go on to the next page $\blacktriangleright$ \\
+\textcopyright \ 保留版權 All Rights Reserved 2000
+
+\end{document}
+
+29. In the figure, $DAB$ is a straight line. $\tan \theta =$
+
+% TODO: Insert figure for question 29
+\begin{itemize}
+    \item[A.] $2 \tan 20^\circ$ .
+    \item[B.] $\dfrac{1}{2} \tan 20^\circ$ .
+    \item[C.] $\dfrac{2}{\tan 20^\circ}$ .
+    \item[D.] $\dfrac{1}{2 \tan 20^\circ}$ .
+    \item[E.] $\tan 40^\circ$ .
+\end{itemize}
+
+30. According to the figure, the bearing of $B$ from $C$ is
+
+\begin{itemize}
+    \item[A.] $050^\circ$ .
+    \item[B.] $130^\circ$ .
+    \item[C.] $140^\circ$ .
+    \item[D.] $310^\circ$ .
+    \item[E.] $320^\circ$ .
+\end{itemize}
+
+% TODO: Insert figure for question 30
+
+\vfill
+\noindent 2000-CE-MATH 2--18 \hfill $- 17 -$ \\
+\includegraphics[width=0.1\textwidth]{logo.png} \copyright 保留版權 All Rights Reserved 2000
+
+\end{document}
+
+31. In the figure, $CAB$ is a semicircle and $ABCD$ is a parallelogram. Find the area of $ABCD$.
+
+\begin{itemize}
+    \item[A.] $65 \text{ cm}^2$
+    \item[B.] $60 \text{ cm}^2$
+    \item[C.] $52 \text{ cm}^2$
+    \item[D.] $32.5 \text{ cm}^2$
+    \item[E.] $30 \text{ cm}^2$
+\end{itemize}
+
+% TODO: Insert figure for question 31
+\vspace{1em}
+
+32. The figure shows a square, a triangle and a sector with areas $a \text{ cm}^2$, $b \text{ cm}^2$ and $c \text{ cm}^2$ respectively.
+
+% TODO: Insert figure for question 32
+
+Which of the following is true?
+
+\begin{itemize}
+    \item[A.] $a > b > c$
+    \item[B.] $a > c > b$
+    \item[C.] $b > a > c$
+    \item[D.] $b > c > a$
+    \item[E.] $c > a > b$
+\end{itemize}
+
+\vfill
+
+\noindent 2000-CE-MATH 2--19 \hfill $- 18 -$ \hfill Go on to the next page $\blacktriangleright$
+
+\noindent \copyright \ All Rights Reserved 2000
+
+\end{document}
+
+33. In the figure, a solid wooden sphere of radius $r$ cm is to be cut into a cube of side 3 cm. Find the smallest possible value of $r$.
+
+% TODO: Insert figure here
+\begin{itemize}
+    \item[A.] $\dfrac{3\sqrt{3}}{2}$
+    \item[B.] $\dfrac{3\sqrt{2}}{2}$
+    \item[C.] $\dfrac{3}{2}$
+    \item[D.] $3\sqrt{3}$
+    \item[E.] $3\sqrt{2}$
+\end{itemize}
+
+34. If $9a^2 - b^2 = 0$ and $ab < 0$, then $\dfrac{a-b}{a+b} =$
+
+\begin{itemize}
+    \item[A.] $-2$.
+    \item[B.] $-\dfrac{1}{2}$.
+    \item[C.] $0$.
+    \item[D.] $\dfrac{1}{2}$.
+    \item[E.] $2$.
+\end{itemize}
+
+\vfill
+2000-CE-MATH 2--20 \hfill -- 19 --
+
+\end{document}
+
+35. $y$ varies directly as $x^2$ and inversely as $\sqrt{z}$. If $y=1$ when $x=2$ and $z=9$, find $y$ when $x=1$ and $z=4$.
+
+\begin{itemize}
+    \item[A.] $\frac{2}{3}$
+    \item[B.] $\frac{8}{3}$
+    \item[C.] $\frac{1}{6}$
+    \item[D.] $\frac{3}{8}$
+    \item[E.] $\frac{9}{26}$
+\end{itemize}
+
+36. Tea $A$ and tea $B$ are mixed in the ratio $x:y$ by weight. $A$ costs $\$80/\text{kg}$ and $B$ costs $\$100/\text{kg}$. If the cost of $A$ is increased by $10\%$ and that of $B$ is decreased by $12\%$, the cost of the mixture per kg remains unchanged. Find $x:y$.
+
+\begin{itemize}
+    \item[A.] $1:1$
+    \item[B.] $2:3$
+    \item[C.] $3:2$
+    \item[D.] $5:6$
+    \item[E.] $6:5$
+\end{itemize}
+
+\vfill
+\noindent 2000-CE-MATH 2–21 \hfill $- 20 -$ \hfill Go on to the next page \\
+\copyright \ 保留版權 All Rights Reserved 2000
+
+\end{document}
+
+\newpage
+
+\textbf{Section B}
+
+37. Simplify $\dfrac{a}{a+b} + \dfrac{b}{b-a} + \dfrac{2ab}{a^2-b^2}$ .
+
+\begin{itemize}
+    \item[A.] $\dfrac{a+b}{a-b}$
+    \item[B.] $-\dfrac{a-b}{a+b}$
+    \item[C.] $\dfrac{-a^2+b^2+4ab}{a^2-b^2}$
+    \item[D.] $\dfrac{a^2+b^2}{a^2-b^2}$
+    \item[E.] $1$
+\end{itemize}
+
+38. If $\log(x-a) = 3$ , then $x=$
+
+\begin{itemize}
+    \item[A.] $10^{3+a}$ .
+    \item[B.] $a^3$ .
+    \item[C.] $1000a$ .
+    \item[D.] $1000+a$ .
+    \item[E.] $30+a$ .
+\end{itemize}
+
+\vspace{\fill}
+2000-CE-MATH 2--22 \hfill $- 21 -$ \\
+\includegraphics[width=0.05\linewidth]{logo.png} \copyright 保留版權 All Rights Reserved 2000
+
+\end{document}
+
+39. Which of the following may represent the graph of $y = -x^2 + 2x - 3$ ?
+
+\begin{minipage}{0.5\textwidth}
+A.
+% TODO: Insert image for graph A
+\end{minipage}
+\begin{minipage}{0.5\textwidth}
+B.
+% TODO: Insert image for graph B
+\end{minipage}
+
+\vspace{1cm}
+
+\begin{minipage}{0.5\textwidth}
+C.
+% TODO: Insert image for graph C
+\end{minipage}
+\begin{minipage}{0.5\textwidth}
+D.
+% TODO: Insert image for graph D
+\end{minipage}
+
+\vspace{1cm}
+
+\begin{minipage}{0.5\textwidth}
+E.
+% TODO: Insert image for graph E
+\end{minipage}
+
+\vfill
+
+\noindent 2000-CE-MATH 2--23 \hfill $- 22 -$ \hfill Go on to the next page $\blacktriangleright$ \\
+\copyright\ 保留版權 All Rights Reserved 2000
+
+\end{document}
+
+40. If $\left(\frac{\sqrt{5}}{2}+1\right)x = \sqrt{2}$ , then $x =$
+
+\begin{itemize}
+    \item[A.] $2\sqrt{10}-2$ .
+    \item[B.] $2\sqrt{10}-4\sqrt{2}$ .
+    \item[C.] $2\sqrt{10}+4\sqrt{2}$ .
+    \item[D.] $\frac{\sqrt{10}-1}{2}$ .
+    \item[E.] $\frac{2\sqrt{10}-4\sqrt{2}}{3}$ .
+\end{itemize}
+
+41. In the figure, the graph of $y = \text{f}(x)$ intersects the $x$-axis at $P$ and $Q$ only.
+In order to find a root of $\text{f}(x) = 0$ using the method of bisection, which of the following intervals can you start with?
+
+\begin{minipage}{0.4\textwidth}
+\begin{itemize}
+    \item[I.] $-1 < x < 0$
+    \item[II.] $-1 < x < 1$
+    \item[III.] $1 < x < 2$
+\end{itemize}
+
+\begin{itemize}
+    \item[A.] I only
+    \item[B.] III only
+    \item[C.] I and II only
+    \item[D.] I and III only
+    \item[E.] I, II and III
+\end{itemize}
+\end{minipage}
+\begin{minipage}{0.5\textwidth}
+% TODO: Insert image of graph here
+\includegraphics[width=\linewidth]{graph_placeholder.png}
+\end{minipage}
+
+\vspace{1cm}
+\noindent 2000-CE-MATH 2--24 \hfill $- 23 -$ \\
+\copyright \ 保留版權 All Rights Reserved 2000
+
+\end{document}
+
+42. According to the figure, which of the following represents the solution of
+$\begin{cases} 0 \le x \le 4 \\ x \ge y \\ 0 \le y \le 3 \end{cases}$ ?
+
+\begin{itemize}
+    \item[A.] Region I
+    \item[B.] Region II
+    \item[C.] Regions I and VI
+    \item[D.] Regions II and III
+    \item[E.] Regions II, III and IV
+\end{itemize}
+
+% TODO: Insert figure for question 42
+% \includegraphics[width=0.4\textwidth]{figure42.png}
+
+43. In the figure, $ABCDEF$ is a right triangular prism. It is cut into two parts along the plane $PQRS$, which is parallel to the face $BCDF$, and $AP : PB = 2 : 5$. Find $\frac{\text{volume of the prism } APQRES}{\text{volume of the prism } ABCDEF}$.
+
+\begin{itemize}
+    \item[A.] $\frac{2}{7}$
+    \item[B.] $\frac{4}{25}$
+    \item[C.] $\frac{4}{49}$
+    \item[D.] $\frac{8}{125}$
+    \item[E.] $\frac{8}{343}$
+\end{itemize}
+
+% TODO: Insert figure for question 43
+% \includegraphics[width=0.4\textwidth]{figure43.png}
+
+\vfill
+2000-CE-MATH 2–25 \hfill – 24 – \hfill Go on to the next page
+
+\copyright\ 保留版權 All Rights Reserved 2000
+
+\end{document}
+
+44. $\pi$ degrees =
+
+\begin{itemize}
+    \item[A.] $\dfrac{\pi^2}{180}$ radian .
+    \item[B.] $\dfrac{180}{\pi^2}$ radians .
+    \item[C.] $\dfrac{\pi}{180}$ radian .
+    \item[D.] $180$ radians .
+    \item[E.] $1$ radian .
+\end{itemize}
+
+45. In the figure, $AB$ is tangent to the circle at $B$. Find $\angle DCE$.
+
+\begin{minipage}{0.4\textwidth}
+\begin{itemize}
+    \item[A.] $70^\circ$
+    \item[B.] $75^\circ$
+    \item[C.] $90^\circ$
+    \item[D.] $95^\circ$
+    \item[E.] $105^\circ$
+\end{itemize}
+\end{minipage}
+\begin{minipage}{0.5\textwidth}
+% TODO: Insert figure here
+\includegraphics[width=\linewidth]{figure_45.png}
+\end{minipage}
+
+\vspace{2cm}
+
+\noindent 2000-CE-MATH 2--26 \hfill $- 25 -$ \\
+\copyright \text{保留版權 All Rights Reserved 2000}
+
+\end{document}
+
+46. In the figure, $\widehat{AB} : \widehat{BC} : \widehat{CD} = 2 : 1 : 3$. Find $\angle ADC$.
+
+\begin{minipage}{0.5\textwidth}
+\begin{itemize}
+    \item[A.] $56^\circ$
+    \item[B.] $60^\circ$
+    \item[C.] $63^\circ$
+    \item[D.] $72^\circ$
+    \item[E.] $84^\circ$
+\end{itemize}
+\end{minipage}
+\begin{minipage}{0.5\textwidth}
+% TODO: Insert figure for question 46
+\includegraphics[width=0.8\linewidth]{figure46.png}
+\end{minipage}
+
+47. The bar chart below shows the distribution of scores of a test. Find the mean deviation of the scores of the test.
+
+\begin{minipage}{0.5\textwidth}
+\begin{itemize}
+    \item[A.] $0$ mark
+    \item[B.] $\dfrac{8}{9}$ mark
+    \item[C.] $\dfrac{2\sqrt{2}}{3}$ mark
+    \item[D.] $\dfrac{2\sqrt{3}}{3}$ marks
+    \item[E.] $\dfrac{6}{5}$ marks
+\end{itemize}
+\end{minipage}
+\begin{minipage}{0.5\textwidth}
+% TODO: Insert figure for question 47
+\includegraphics[width=0.8\linewidth]{figure47.png}
+\end{minipage}
+
+\vfill
+\noindent 2000-CE-MATH 2--27 \hfill $- 26 -$ \hfill Go on to the next page \\
+\includegraphics[width=0.05\textwidth]{logo.png} \copyright\ 保留版權 All Rights Reserved 2000
+
+\end{document}
+
+48. If the centre of the circle $x^2 + y^2 + kx + (k+1)y - 3 = 0$ lies on $x + y + 1 = 0$ , find $k$ .
+
+\begin{itemize}
+    \item[A.] $\frac{3}{2}$
+    \item[B.] $\frac{1}{2}$
+    \item[C.] $0$
+    \item[D.] $-1$
+    \item[E.] $-\frac{3}{2}$
+\end{itemize}
+
+49. If the straight line $y = mx + 1$ is tangent to the circle $(x-2)^2 + y^2 = 1$ , then $m =$
+
+\begin{itemize}
+    \item[A.] $-\frac{4}{3}$ .
+    \item[B.] $0$ .
+    \item[C.] $\frac{4}{3}$ .
+    \item[D.] $0$ or $-\frac{4}{3}$ .
+    \item[E.] $0$ or $\frac{4}{3}$ .
+\end{itemize}
+
+\vfill
+2000-CE-MATH 2--28 \hfill $- 27 -$ \\
+\copyright 保留版權 All Rights Reserved 2000
+
+\end{document}
+
+50. $A(-1, -4)$ and $B(3, 4)$ are two points. The line $x - y = 0$ cuts $AB$ at $P$ so that $AP : PB = r : 1$. Find $r$.
+
+\begin{itemize}
+    \item[A.] 3
+    \item[B.] 2
+    \item[C.] 1
+    \item[D.] $\dfrac{1}{2}$
+    \item[E.] $\dfrac{1}{3}$
+\end{itemize}
+
+51. If $\cos \theta = \dfrac{1}{k}$ and $0^\circ < \theta < 90^\circ$, then $\tan(\theta - 270^\circ) =$
+
+\begin{itemize}
+    \item[A.] $-\dfrac{k}{\sqrt{1 - k^2}}$
+    \item[B.] $-\dfrac{1}{\sqrt{k^2 - 1}}$
+    \item[C.] $\dfrac{1}{\sqrt{k^2 - 1}}$
+    \item[D.] $-\sqrt{k^2 - 1}$
+    \item[E.] $\sqrt{k^2 - 1}$
+\end{itemize}
+
+\vfill
+\noindent 2000-CE-MATH 2--29 \hfill $- 28 -$ \hfill Go on to the next page \\
+\copyright \ 保留版權 All Rights Reserved 2000
+
+\end{document}
+
+52. The figure shows a right triangular prism. Find its volume.
+
+% TODO: Insert image of the right triangular prism here
+\begin{center}
+    \includegraphics[width=0.5\linewidth]{prism_figure.png} % TODO: Placeholder for the figure
+\end{center}
+
+\begin{itemize}
+    \item[A.] $\frac{1}{3} \sin^2 \alpha \cos \alpha \sin \beta \cos \beta \text{ m}^3$
+    \item[B.] $\frac{1}{3} \sin \alpha \cos^2 \alpha \sin \beta \cos \beta \text{ m}^3$
+    \item[C.] $\frac{1}{2} \sin \alpha \cos \alpha \sin \beta \cos \beta \text{ m}^3$
+    \item[D.] $\frac{1}{2} \sin^2 \alpha \cos \alpha \sin \beta \cos \beta \text{ m}^3$
+    \item[E.] $\frac{1}{2} \sin \alpha \cos^2 \alpha \sin \beta \cos \beta \text{ m}^3$
+\end{itemize}
+
+\vfill
+\noindent 2000-CE-MATH 2--30 \hfill $- 29 -$ \\
+\includegraphics[width=0.1\linewidth]{logo.png} \copyright \ 保留版權 All Rights Reserved 2000
+
+\end{document}
+
+53. In the figure, the area of $\Delta ABC$ is
+
+\begin{itemize}
+    \item[A.] $\dfrac{\pi}{3}$ .
+    \item[B.] $\dfrac{2\pi}{3}$ .
+    \item[C.] $\pi$ .
+    \item[D.] $\dfrac{4\pi}{3}$ .
+    \item[E.] $2\pi$ .
+\end{itemize}
+
+% TODO: Insert image for problem 53
+\begin{center}
+    \includegraphics[width=0.4\textwidth]{problem53_figure.png}
+\end{center}
+
+54. In the figure, $AEC$ and $BED$ are straight lines. If the area of $\Delta ABE = 4 \text{ cm}^2$ and the area of $\Delta BCE = 5 \text{ cm}^2$ , find the area of $\Delta CDE$ .
+
+\begin{itemize}
+    \item[A.] $4.5 \text{ cm}^2$
+    \item[B.] $5 \text{ cm}^2$
+    \item[C.] $6 \text{ cm}^2$
+    \item[D.] $6.25 \text{ cm}^2$
+    \item[E.] $9 \text{ cm}^2$
+\end{itemize}
+
+% TODO: Insert image for problem 54
+\begin{center}
+    \includegraphics[width=0.4\textwidth]{problem54_figure.png}
+\end{center}
+
+\begin{center}
+    \textbf{END OF PAPER}
+\end{center}
+
+\vspace{1cm}
+
+\noindent 2000-CE-MATH 2–31 \hfill – 30 – \\
+\includegraphics[width=0.1\textwidth]{logo.png} \copyright 保留版權 All Rights Reserved 2000
+
+\end{document}
+
+\newpage
+
+\begin{center}
+\textbf{2000 Mathematics (Paper 2)}
+\end{center}
+
+\vspace{0.5cm}
+
+\begin{tabularx}{\textwidth}{XXXX}
+\textbf{Question No.} & \textbf{Key} & \textbf{Question No.} & \textbf{Key} \\
+\\
+1. & E & 31. & B \\
+2. & A & 32. & B \\
+3. & C & 33. & A \\
+4. & E & 34. & A \\
+5. & B & 35. & D \\
+\\
+6. & B & 36. & C \\
+7. & C & 37. & E \\
+8. & B & 38. & D \\
+9. & D & 39. & E \\
+10. & A & 40. & B \\
+\\
+11. & E & 41. & C \\
+12. & B & 42. & D \\
+13. & A & 43. & C \\
+14. & A & 44. & A \\
+15. & C & 45. & E \\
+\\
+16. & C & 46. & C \\
+17. & E & 47. & B \\
+18. & A & 48. & B \\
+19. & A & 49. & D \\
+20. & E & 50. & A \\
+\\
+21. & E & 51. & B \\
+22. & C & 52. & E \\
+23. & D & 53. & C \\
+24. & D & 54. & D \\
+25. & B & & \\
+\\
+26. & C & & \\
+27. & D & & \\
+28. & D & & \\
+29. & A & & \\
+30. & D & & \\
+\end{tabularx}
+
+\vspace{1cm}
+
+\noindent \includegraphics[width=0.05\linewidth]{logo.png} \copyright \text{保留版權 All Rights Reserved 2000}
