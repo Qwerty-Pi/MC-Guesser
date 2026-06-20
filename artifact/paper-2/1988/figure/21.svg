@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="49.3935207456837pt" height="125.95969834547788pt" viewBox="0 0 49.3935207456837 125.95969834547788">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="130.32228220775423pt" height="212.30739215557395pt" viewBox="0 0 130.32228220775423 212.30739215557395">
   <defs>
     <clipPath id="crop-clip">
-      <rect x="356.70700427098575" y="620.0124197622446" width="49.3935207456837" height="125.95969834547788" />
+      <rect x="384.58246655236553" y="412.23828153170075" width="130.32228220775423" height="212.30739215557395" />
     </clipPath>
   </defs>
   <g transform="scale(1.5)">
-  <g clip-path="url(#crop-clip)" transform="translate(-356.70700427098575, -620.0124197622446)">
+  <g clip-path="url(#crop-clip)" transform="translate(-384.58246655236553, -412.23828153170075)">
 <defs>
 <clipPath id="clip_1">
 <path transform="matrix(1.00005,0,0,-1.00005,-.013,841.908)" d="M0 0H595.276V841.89H0Z"/>
