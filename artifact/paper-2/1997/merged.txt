@@ -1,26 +1,793 @@
-FORMULAS FOR REFERENCE SPHERE Surface area = 4πr^{2$ Volume = 4 3 πr3 CYLINDER Area of curved surface = 2πrh Volume =$πr^{2h CONE Area of curved surface πrl Volume 一 = 3 $πr^{$ PRISM Volume =base area × height PYRAMID Volume 1 = ×base area × height 3 97-CE-MATHS II-2
-There are 54 questions in this paper. The diagrams in this paper are not necessarily drawn to scale 1. Express π{2 as a decimal correct to 3 significant figures. A. 9.86 B. 9.87 C. 9.88 D. 9.860 E. 9.870 2. If2^.8^=64，thenx= A. 3 2 B. m14 C. 6 5 D. 2. E. 4. 97-CE-MATHS II-3 -2- Ge on to the next page
-3. If $a+x$ c $b+x$ d (c≠d),then x= A. c a d b B. a-b c-d C. b- a c-d D. ad-bc c-d E. bc-ad c-d 4 9-a^{²2-b{2+2ab= A. （3-a-b)(3-a+b)）. B. (3-a-b)(3+a-b). C. (3-a-b)(3+a+b). D. （3-a+b）(3+a-b）. E. (3-a+b)(3+a+b). 97-CE-MATHS II-4 -3-
-5.Iflog(x+a）=2，thenx= A. 2-a. B. 100-a. C. 100 a D. 2-loga. E. 100-loga. 6. If2x²+x+misdivisiblebyx2，thenitisalsodivisibleby A. $x + 3. B. 2x-3. C. $2x+3. D. 2x-5. E. $2x+5. 97-CE-MATHS II-5 -4- Go on to the next page
-7. Whichof the following is/areanidentityidentities I. $x^{2}=4$ II. (2x+3^²2=4x²2+12x+ $（(x+1^{2=x^²2+ A. I only B. II only C. IIl only D. I and II only E. I and III nl m|x -y=1 8. Solve 2y 1 =1 2x A. x=$ 5 y=$ 714 B. x= 11 1 4 y= 11 C. $x=$ 11 y= 13 4 22 D. 1 x=$ 7 6 11 E. 6 y=$ 7 x= $\n}$ 11 97-CE-MATHS II-6 -5-
-9. Which ofthefollowingsystemsofinequalitieshasitssolutionrepresentedb the shaded region in the figure? $x+y≥ x≥y y A. x≤6 6 (6,6) x+y≥6 B. x≥y y≤6 0 6 1 x+y≥6 C. xsy $x≤6 $x+y6$ D. x≤y y≤6 x+y≤6 E. x≥y $x≤6 10. There are1200 students in a school,of which 640 are boys and 560 are girls. If 55% of the boys and 40% of the girls wear glasses, what percentage of students in the school wear glasses? A. 47% B. 47.5% C. 48% D. 52% E. 53% 97-CE-MATHS II-7 -6- Go on to the next page
-11. In a map of scale1:50o,the length and breadth ofa rectangular fild are 2 cm and 3 cm respectively. Find the actual area of this field A. 30 $m{$ B. 150$m{2$ C. 1500m2 D. 3000m2 E. 15000$m2 12. Inthe figure，sinθ+tanθ= A. a + a c b B. a b + a c a θ C. b + a c b D. b b c a E. c + a a b 97-CE-MATHS II-8
-13. In the figure, find θ correct to the nearest degree. A. 78° B. 91°} 5 0 4 C. 102°}$ D. 114° 7 E. 125°} 14. Inthefigure,the squaresandwich ABCD iscutintotwoequal halvesalong EF so that AE:ED=2:1.Find θ correct to the nearest degrec. A. 56° A E D B. 63° C. 64° D. 71° θ E. 72° B F c 15. In the figure, the area of ΔABC is 18. Find ∠ABC correct to the nearest degrce. A. 30° c B. 44° C. 46° D. 60° A 10 B E. 69° 97-CE-MATHSII-9 -8- Go on to the next page
-16. In the figure, BEA is a semicircle.ABCD is a roctangle and DC touches the semicircle at E. Find the area of the shaded region. A. 9π D 8 C B. 18π C. 36π D. 36-9π A 12 B E. 36+9π 17. In the figure, find x. A. 52° A =→ D B. 58° 122° 70° C. 61° D. 70° B x E. 81° 18. In the figure，BCA is a semicircle.If AC=6 and CB=4,find the area of the semicircle. A. nin π c B. 13 2 π C. $10$ A B D. 13π E. 26π 97-CE-MATHSII-10 -9-
-19. Inthe figure,ABCDE is a regular pentagon and ABF is an cquilateral triangle. Find . D A. $66{ B. 84° E F C C. 90° θ D. 96° E. 108o A B 20. Inthe figure,EC isthe tangent to the circle at C.Find ∠CBD. A. 40° B. 50° A C. 65° 65° D. 70° B E. 75° C E 21. In the figure, find the area of ΔABC. A. 6 y_{}$ A(3,5) B. 7.5 C. 14 D. 17.5 B(-2,1) C(5,1) 0 7 E. 28 97-CE-MATHS I-11 -10- Go on to the next age
-22. Which of the following lines is perpendicular to the line x + y =1？ 2 3 A. 3x+2y=1 B. 3x-2y=1 C. $2x+3y=1 D. $2x-3y=1$ E. x y =1 2 3 23. In the pic chart,if x:y:z=75:106:119,findx A. 25 Total Government Revenue by Sources in a certain year B. 45 Oher Revmue C. 75 Direct D. 90 T Taxes E. 120 Indirect Taxes 24. Thehistogram below shows the distribution ofthe weights of 30 students Find the mean weight of these students. A. 36.5 kg 12 38.5 kg 10 B. Kouanband 8 C. 39kg 6 A D. 39.5 kg 2 41.5 kg 0 E. 30 35 40 45 50 Weight (kg) 97-CE-MATHSII-12 -11-
-25. Two fair dice are thrown. Find the probability that the sum of the two numbers shownis 8. A. -14 B. -16 C. 1 1 D. 1 12 E. 5 36 26. In atest,therearequestions. ForeachquestiontheprobabilitythaJo correctly answers it is 215 Find the probability that he gects exactly 2 questions correct. A. 21m B. 4 25 C. 12 25 D. 12 \f25 E. 36 1f5 97-CE-MATHSI-13 -12- Ge on to the next page
-27. Iff（x）=3x²+bx+1andf（x）=f（-x），thenf（-3）= A. -26. B. 0. C. 3. D. 25. E. 28. 28. Simplify 4 3 $x^{2-4$ $x^{}$ -x-22$ A. $($x +1)(x}+22)$ 一 B. $(x+1)(x-2) C. $(x-1)(x-2) 0 D. $x+10 $(x+1)(x-2)(x+2) E. $x-10 (x-1)(x-2)(x+2) 97-CE-MATHSII-14
-29. 一 1 √s2q1\q{}$ A. $-1+\sq3}$. B. $1-\sq3}$. C. -1+2\{qs3$. D. 1-2\{\s3}$. E. 1+2\ss3}$. 30.Thedifference oftherootsof theequation2x²-5x+k=0is 71 2 Find k. A. -6 B. −3 C. 3 2 D. 3 E. 51-16 97-CE-MATHSII-15 -14- Go on to the next page
-31. In the figure,find the coordinates of the mid-point of AB. A. (- 7 $3ra}5}) $\}}$ 2 B. (- 25 4 C. (- 5 $\f}{2) m2 $\frac{}{}$ 0 7 D. y=-5x+6 E. 32 32. Find the valuesofxwhich satisfy both-2x<3and(+3)(x-2)<0. A. $x<-3 B. $x>2 C. -3<x< 3 2 D. 3 <x<2 2 E. x<-3 or x> 3 2 97-CE-MATHSII-16 -15-
-33. If a<b<0,then which ofthe following must be true? I. $a^{2^{}$ II. $ab < a^{}$ III. 1 < 11 a $\ }$ A. Ionly B. Il only C. Il only D. I and Il only E. I and III only Thefigure shows the graph of aquadraticfunction f(x).Ifthe vertexofthe graph is (1, 3), then f(x)= A. -3(x-1)^²+3 y↑}$ (1, 3) B. -3(x+1)^²2+3. C..$-(x-D^{}+3. 7s D. -(x+1^{2}+3}$. E. $3(x-1)^{2}-33$. 97-CE-MATHSII-17 -16- G on to the next yage 1
-35. Then-thterm of an arithmctic sequence is3+2n.Find the sum of the firt 50 terms of the sequence. A. 103 B. 2575 C. 2700 D. 2750 E. 5400 36. The first termofageometric sequence isa.Ifthe sum to infinityof the sequence is a,then its common ratio is A. 1 3 B. 1 4 C. -14 D. 一|m E. 3 4 97-CE-MATHS II-18 -17-
-37. a.b.c,d are 4 consecutive terms ofa geometric sequence. Which of the following must be true? I. $b^{2}$ =ac II. b d a  c III. $d$ 1 a = A. II only B. I and II only C. I and III only D. II and II Onl E. I,Ⅱ and IⅢII 38. Find the interest on $ 100o0 at 16% per annum for 2 years,compounded half-yearly. Give the answer correct to the nearest dollar A. $1664 B. $3456 C. $3605 D. $7424 E. $8106 97-CE-MATHSI-19 -18- Go on to the next page
-39. Suppose x varies directly asyandinverselyasz.Wheny2 and z=3，x=7.Wheny=6and z=7，x= A. 1. B. 49 9 C. 9. D. 49 4 E. 49. 40. cos(90°-A)sin(180°-A) tan(360°-A) A. -sinAcosA B. sinA cosA. C. -co_s{}A D. cos²A. E. $sin^{2 A 97-CE-MATHSII-20 -19-
-41.In the figure,ABCD isarectangle inclined at an angle of 45to the horizontal plane BCEF.Find the inclination of AC to the horizontal plane correct to the ncarest degree. A 1m D A. 27° B. 30° 1m C. 35° D. 45° E E. 55° 59 B C 42. In the figure, CD = A. rsinβ sin a siny D C B. rsinβ cos ar siny F rsina sinβ β C. siny a A B D. rcosa sinβ siny E. rsin sin α 97-CE-MATHSII-21 -20- Go on to the nert page
-43. For0≤θ≤2，howmanyrootsdocsthecquationtanθ(tanθ-2)=0 have? A. 1 B. 2 C. 3 D. 4 E. 5 44. In the figure,f(x) = y↑ $y=f(x$ 0 x y=sinx A. sin- x|2 -12 + B. sin2x+ 1 2 C. --2 1 × 2 D. -2 sinx+ 1 2 E. -12 sin2x+ 1 2 97-CE-MATHSII-22 -21-
-45.Theequationofacircleisgiven by²+y²-4x+6y-3=0.Whichof the following statements is/are true? I. The centre of the circle is (-2,3). II. The radius of the circle is 4. IⅢ. The origin is inside the circle. A. I only B. I and I only C. I and IIl only D. II and III only E. I,ⅡI and III 46. A circle has (a.0)and(O,b) as the end points of a diameter. Which of the following points lie(s)on this circle? I. (-a,-b) II. (0,0) III. (a,b) A. I only B. IIl only C. I and II only D. I and III only E. I. II and III 97-CEMATHSII-23 -22- Go on to the next page
-47. In the figure,AEB and ADC are straight lincs. ED//BC and ED:BC=2:3.Ifthe coordinates of Aand Bare (4,7)and(0,1) respectively,find the coordinates of E. A. $(\fra{}{3}) B. $\fra{}{5}) C. $\frac{}{}$ $\frac{}{}$ E D. $\frac{} {}$ $\frac{}{}$ B E. $\fra{}{}$ $f{{) 48. In thefigure, OXY is a sector with centre O.If Z is the mid-point of YO,find area of ΔOXZ: area of sector OXY. A. 1:2 X B. 2:\sq}$ C. 2:3π D. 3:2π 30° E. 3\s:2 $ Y z 0 97-CE-MATHS II-24 -23-
-49.Inthe figure,the rocket model consists of three parts. Parts I andII can be joined together to form arightcircular cone. PartIisarightcylinder. Find the volume of the rocket model. A. $260πcm³}$ 5 cm B. 360πcm³}$ C. 620πcm{³}$ 20 cm ⅡI 720πcm³ Ⅲ D. E. $900πcm³}$ 10 cm ⅢI 12 cm 50. Inthe figure,AC is the angle bisector of ∠BAD .Which of the following statements must be true? L △BCE~MDE I. AABC~AED Ⅲ.△ABC-△BDA A. I only I and II only E B. D B C. I and III only C D. II and III only E. I,II and ⅢII 97-CE-MATHS II-25 -24- Go on to the next page
-51. In thefigure，AB=2，BC=3，CD=4and DA=6.Find ∠BCD A. 72° B. 84° C. 90° B D. 96° E. $144° C 4 52. In the figure, ABCD is a parallelogram. PDC,PORS and ABS are straight lincs.If AQ=4.QD=2 and BR=RC=3，then PO:QR:RS= A. 1:1:1. B. 1:2:6. A 0 4 1 C. 2:1:3. D. 2:3:4. B R 3 F E. 8:12:9. S 97-CE-MATHSII-26 -25-
-53. In the figure,ABCD is arectangle.CDE is a straight line and AE//BD Ifthe area of ABCD is 24 and F is a point on BC such that BF:FC=3:1.find the area of ΔDEF 8 A. 2 B. 3 C. 4 A 1 D. 6 E. 8 B F C 54. In the figure,AB//DC.IF the areas of ΔABE and ΔCDE are 4 and9 respectively,find the area of ΔBCE. A. 4 D B. 5 A E C. 6 D. 6.5 B E. 9 END OF PAPER 97-CE-MATHSI-27 -26-
+\documentclass{article}
+\usepackage{amsmath,graphicx,geometry,tabularx}
+\geometry{margin=1in}
+\begin{document}
+
+\noindent
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\textbf{FORMULAS FOR REFERENCE}
+
+\vspace{0.5cm}
+
+\begin{tabularx}{\textwidth}{|l X r|}
+\hline
+SPHERE & Surface area & $= 4\pi r^2$ \\
+& Volume & $= \frac{4}{3}\pi r^3$ \\
+CYLINDER & Area of curved surface & $= 2\pi rh$ \\
+& Volume & $= \pi r^2 h$ \\
+CONE & Area of curved surface & $= \pi r l$ \\
+& Volume & $= \frac{1}{3}\pi r^2 h$ \\
+PRISM & Volume & $= \text{base area} \times \text{height}$ \\
+PYRAMID & Volume & $= \frac{1}{3} \times \text{base area} \times \text{height}$ \\
+\hline
+\end{tabularx}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.48\textwidth}
+There are 54 questions in this paper.
+The diagrams in this paper are not necessarily drawn to scale.
+
+\vspace{0.5cm}
+
+1. Express $\pi^2$ as a decimal correct to 3 significant figures.
+\begin{itemize}
+    \item[A.] 9.86
+    \item[B.] 9.87
+    \item[C.] 9.88
+    \item[D.] 9.860
+    \item[E.] 9.870
+\end{itemize}
+
+\vspace{0.5cm}
+
+2. If $2^x \cdot 8^x = 64$, then $x =$
+\begin{itemize}
+    \item[A.] $\frac{3}{2}$
+    \item[B.] $\frac{3}{4}$
+    \item[C.] $\frac{6}{5}$
+    \item[D.] 2
+    \item[E.] 4
+\end{itemize}
+\end{minipage}
+
+\vspace{2cm}
+\noindent
+\makebox[0pt][l]{97-CE-MATHS II-2} \hfill $-1-$ \hfill \makebox[0pt][r]{97-CE-MATHS II-3 \quad $-2-$ \quad \fbox{Go on to the next page}}
+
+3. If $\frac{a+x}{b+x} = \frac{c}{d}$ ($c \neq d$), then $x =$
+
+\begin{itemize}
+    \item[A.] $\frac{c}{d} - \frac{a}{b}$
+    \item[B.] $\frac{a-b}{c-d}$
+    \item[C.] $\frac{b-a}{c-d}$
+    \item[D.] $\frac{ad-bc}{c-d}$
+    \item[E.] $\frac{bc-ad}{c-d}$
+\end{itemize}
+
+4. $9 - a^2 - b^2 + 2ab =$
+
+\begin{itemize}
+    \item[A.] $(3-a-b)(3-a+b)$
+    \item[B.] $(3-a-b)(3+a-b)$
+    \item[C.] $(3-a-b)(3+a+b)$
+    \item[D.] $(3-a+b)(3+a-b)$
+    \item[E.] $(3-a+b)(3+a+b)$
+\end{itemize}
+
+\vspace{1cm}
+
+97-CE-MATHS II-4 \hfill $-3-$
+
+\newpage
+
+5. If $\log(x+a) = 2$, then $x =$
+
+\begin{itemize}
+    \item[A.] $2-a$
+    \item[B.] $100-a$
+    \item[C.] $\frac{100}{a}$
+    \item[D.] $2-\log a$
+    \item[E.] $100-\log a$
+\end{itemize}
+
+6. If $2x^2 + x + m$ is divisible by $x-2$, then it is also divisible by
+
+\begin{itemize}
+    \item[A.] $x+3$
+    \item[B.] $2x-3$
+    \item[C.] $2x+3$
+    \item[D.] $2x-5$
+    \item[E.] $2x+5$
+\end{itemize}
+
+\vspace{1cm}
+
+97-CE-MATHS II-5 \hfill $-4-$ \hfill Go on to the next page
+
+\end{document}
+
+7. Which of the following is/are an identity/identities?
+
+I. $x^2 = 4$
+II. $(2x+3)^2 = 4x^2 + 12x + 9$
+III. $(x+1)^2 = x^2 + 1$
+
+\begin{itemize}
+    \item[A.] I only
+    \item[B.] II only
+    \item[C.] III only
+    \item[D.] I and II only
+    \item[E.] II and III only
+\end{itemize}
+
+8. Solve $\begin{cases} \frac{3}{x} - y = 1 \\ 2y - \frac{1}{2x} = 1 \end{cases}$
+
+\begin{itemize}
+    \item[A.] $x = \frac{5}{4}, \quad y = \frac{7}{4}$
+    \item[B.] $x = \frac{11}{4}, \quad y = \frac{1}{11}$
+    \item[C.] $x = \frac{11}{4}, \quad y = \frac{13}{22}$
+    \item[D.] $x = \frac{11}{6}, \quad y = \frac{7}{11}$
+    \item[E.] $x = \frac{6}{11}, \quad y = \frac{7}{11}$
+\end{itemize}
+
+\vspace{1cm}
+\noindent 97-CE-MATHS II-6 \hfill $- 5 -$
+
+\newpage
+
+9. Which of the following systems of inequalities has its solution represented by the shaded region in the figure?
+
+\begin{itemize}
+    \item[A.] $\begin{cases} x+y \ge 6 \\ x \ge y \\ x \le 6 \end{cases}$
+    \item[B.] $\begin{cases} x+y \ge 6 \\ x \ge y \\ y \le 6 \end{cases}$
+    \item[C.] $\begin{cases} x+y \ge 6 \\ x \le y \\ x \le 6 \end{cases}$
+    \item[D.] $\begin{cases} x+y \ge 6 \\ x \le y \\ y \le 6 \end{cases}$
+    \item[E.] $\begin{cases} x+y \le 6 \\ x \ge y \\ x \le 6 \end{cases}$
+\end{itemize}
+
+% TODO: Insert figure of graph here
+\begin{figure}[h]
+    \centering
+    % TODO: Placeholder for graph image
+    \caption*{Figure}
+\end{figure}
+
+10. There are 1 200 students in a school, of which 640 are boys and 560 are girls. If 55\% of the boys and 40\% of the girls wear glasses, what percentage of students in the school wear glasses?
+
+\begin{itemize}
+    \item[A.] 47\%
+    \item[B.] 47.5\%
+    \item[C.] 48\%
+    \item[D.] 52\%
+    \item[E.] 53\%
+\end{itemize}
+
+\vspace{1cm}
+\noindent 97-CE-MATHS II-7 \hfill $- 6 -$ \hfill Go on to the next page
+
+\end{document}
+
+11. In a map of scale $1:500$, the length and breadth of a rectangular field are $2\text{ cm}$ and $3\text{ cm}$ respectively. Find the actual area of this field.
+\begin{itemize}
+    \item[A.] $30\text{ m}^2$
+    \item[B.] $150\text{ m}^2$
+    \item[C.] $1\,500\text{ m}^2$
+    \item[D.] $3\,000\text{ m}^2$
+    \item[E.] $15\,000\text{ m}^2$
+\end{itemize}
+
+12. In the figure, $\sin\theta + \tan\theta =$
+\begin{itemize}
+    \item[A.] $\frac{a}{c} + \frac{a}{b}$
+    \item[B.] $\frac{a}{c} + \frac{b}{a}$
+    \item[C.] $\frac{b}{c} + \frac{a}{b}$
+    \item[D.] $\frac{b}{c} + \frac{b}{a}$
+    \item[E.] $\frac{c}{a} + \frac{a}{b}$
+\end{itemize}
+% TODO: Insert figure for Q12
+\begin{center}
+    % TODO: Placeholder for triangle figure
+\end{center}
+
+13. In the figure, find $\theta$ correct to the nearest degree.
+\begin{itemize}
+    \item[A.] $78^\circ$
+    \item[B.] $91^\circ$
+    \item[C.] $102^\circ$
+    \item[D.] $114^\circ$
+    \item[E.] $125^\circ$
+\end{itemize}
+% TODO: Insert figure for Q13
+
+14. In the figure, the square sandwich $ABCD$ is cut into two equal halves along $EF$ so that $AE:ED = 2:1$. Find $\theta$ correct to the nearest degree.
+\begin{itemize}
+    \item[A.] $56^\circ$
+    \item[B.] $63^\circ$
+    \item[C.] $64^\circ$
+    \item[D.] $71^\circ$
+    \item[E.] $72^\circ$
+\end{itemize}
+% TODO: Insert figure for Q14
+
+15. In the figure, the area of $\Delta ABC$ is $18$. Find $\angle ABC$ correct to the nearest degree.
+\begin{itemize}
+    \item[A.] $30^\circ$
+    \item[B.] $44^\circ$
+    \item[C.] $46^\circ$
+    \item[D.] $60^\circ$
+    \item[E.] $69^\circ$
+\end{itemize}
+% TODO: Insert figure for Q15
+
+\vspace{1cm}
+\noindent 97-CE-MATHS II-8 \hfill $-7-$ \hfill 97-CE-MATHS II-9 \hfill $-8-$ \hfill Go on to the next page
+
+\end{document}
+
+16. In the figure, $BEA$ is a semicircle. $ABCD$ is a rectangle and $DC$ touches the semicircle at $E$. Find the area of the shaded region.
+
+\begin{itemize}
+    \item[A.] $9\pi$
+    \item[B.] $18\pi$
+    \item[C.] $36\pi$
+    \item[D.] $36 - 9\pi$
+    \item[E.] $36 + 9\pi$
+\end{itemize}
+
+% TODO: Insert figure for question 16
+
+17. In the figure, find $x$.
+
+\begin{itemize}
+    \item[A.] $52^\circ$
+    \item[B.] $58^\circ$
+    \item[C.] $61^\circ$
+    \item[D.] $70^\circ$
+    \item[E.] $81^\circ$
+\end{itemize}
+
+% TODO: Insert figure for question 17
+
+18. In the figure, $BCA$ is a semicircle. If $AC = 6$ and $CB = 4$, find the area of the semicircle.
+
+\begin{itemize}
+    \item[A.] $\frac{5}{2}\pi$
+    \item[B.] $\frac{13}{2}\pi$
+    \item[C.] $10\pi$
+    \item[D.] $13\pi$
+    \item[E.] $26\pi$
+\end{itemize}
+
+% TODO: Insert figure for question 18
+
+\vspace{1cm}
+97-CE-MATHS II-10 \hfill $-9-$
+
+\newpage
+
+19. In the figure, $ABCDE$ is a regular pentagon and $ABF$ is an equilateral triangle. Find $\theta$.
+
+\begin{itemize}
+    \item[A.] $66^\circ$
+    \item[B.] $84^\circ$
+    \item[C.] $90^\circ$
+    \item[D.] $96^\circ$
+    \item[E.] $108^\circ$
+\end{itemize}
+
+% TODO: Insert figure for question 19
+
+20. In the figure, $EC$ is the tangent to the circle at $C$. Find $\angle CBD$.
+
+\begin{itemize}
+    \item[A.] $40^\circ$
+    \item[B.] $50^\circ$
+    \item[C.] $65^\circ$
+    \item[D.] $70^\circ$
+    \item[E.] $75^\circ$
+\end{itemize}
+
+% TODO: Insert figure for question 20
+
+21. In the figure, find the area of $\Delta ABC$.
+
+\begin{itemize}
+    \item[A.] $6$
+    \item[B.] $7.5$
+    \item[C.] $14$
+    \item[D.] $17.5$
+    \item[E.] $28$
+\end{itemize}
+
+% TODO: Insert figure for question 21
+
+\vspace{1cm}
+97-CE-MATHS II-11 \hfill $-10-$ \hfill Go on to the next page
+
+\end{document}
+
+22. Which of the following lines is perpendicular to the line $\frac{x}{2} + \frac{y}{3} = 1$ ?
+
+\begin{itemize}
+    \item[A.] $3x + 2y = 1$
+    \item[B.] $3x - 2y = 1$
+    \item[C.] $2x + 3y = 1$
+    \item[D.] $2x - 3y = 1$
+    \item[E.] $\frac{x}{2} - \frac{y}{3} = 1$
+\end{itemize}
+
+23. In the pie chart, if $x : y : z = 75 : 106 : 119$, find $x$.
+
+\begin{itemize}
+    \item[A.] 25
+    \item[B.] 45
+    \item[C.] 75
+    \item[D.] 90
+    \item[E.] 120
+\end{itemize}
+
+\begin{center}
+    \textbf{Total Government Revenue by Sources in a certain year} \\
+    % TODO: Insert pie chart image here
+\end{center}
+
+24. The histogram below shows the distribution of the weights of 30 students. Find the mean weight of these students.
+
+\begin{itemize}
+    \item[A.] 36.5 kg
+    \item[B.] 38.5 kg
+    \item[C.] 39 kg
+    \item[D.] 39.5 kg
+    \item[E.] 41.5 kg
+\end{itemize}
+
+% TODO: Insert histogram image here
+
+\vspace{1cm}
+97-CE-MATHS II-12 \hfill - 11 -
+
+\newpage
+
+25. Two fair dice are thrown. Find the probability that the sum of the two numbers shown is 8.
+
+\begin{itemize}
+    \item[A.] $\frac{1}{4}$
+    \item[B.] $\frac{1}{6}$
+    \item[C.] $\frac{1}{11}$
+    \item[D.] $\frac{1}{12}$
+    \item[E.] $\frac{5}{36}$
+\end{itemize}
+
+26. In a test, there are 3 questions. For each question, the probability that John correctly answers it is $\frac{2}{5}$. Find the probability that he gets exactly 2 questions correct.
+
+\begin{itemize}
+    \item[A.] $\frac{2}{3}$
+    \item[B.] $\frac{4}{25}$
+    \item[C.] $\frac{12}{25}$
+    \item[D.] $\frac{12}{125}$
+    \item[E.] $\frac{36}{125}$
+\end{itemize}
+
+\vspace{2cm}
+97-CE-MATHS II-13 \hfill - 12 - \hfill Go on to the next page
+
+\end{document}
+
+27. If $f(x) = 3x^2 + bx + 1$ and $f(x) = f(-x)$, then $f(-3) =$
+\begin{itemize}
+    \item[A.] $-26$.
+    \item[B.] $0$.
+    \item[C.] $3$.
+    \item[D.] $25$.
+    \item[E.] $28$.
+\end{itemize}
+
+28. Simplify $\frac{4}{x^2-4} - \frac{3}{x^2-x-2}$
+\begin{itemize}
+    \item[A.] $\frac{1}{(x+1)(x+2)}$
+    \item[B.] $\frac{1}{(x+1)(x-2)}$
+    \item[C.] $\frac{1}{(x-1)(x-2)}$
+    \item[D.] $\frac{x+10}{(x+1)(x-2)(x+2)}$
+    \item[E.] $\frac{x-10}{(x-1)(x-2)(x+2)}$
+\end{itemize}
+
+29. $\frac{1}{\sqrt{2}-1} - \frac{1}{\sqrt{3}-\sqrt{2}} =$
+\begin{itemize}
+    \item[A.] $-1+\sqrt{3}$.
+    \item[B.] $1-\sqrt{3}$.
+    \item[C.] $-1+2\sqrt{2}-\sqrt{3}$.
+    \item[D.] $1-2\sqrt{2}+\sqrt{3}$.
+    \item[E.] $1+2\sqrt{2}-\sqrt{3}$.
+\end{itemize}
+
+30. The difference of the roots of the equation $2x^2 - 5x + k = 0$ is $\frac{7}{2}$.
+Find $k$.
+\begin{itemize}
+    \item[A.] $-6$
+    \item[B.] $-3$
+    \item[C.] $-\frac{3}{2}$
+    \item[D.] $3$
+    \item[E.] $\frac{51}{16}$
+\end{itemize}
+
+\vspace{1cm}
+\noindent 97-CE-MATHS II-14 \hfill $- 13 -$ \hfill 97-CE-MATHS II-15 \hfill $- 14 -$ \hfill Go on to the next page
+
+\end{document}
+
+31. In the figure, find the coordinates of the mid-point of $AB$.
+
+\begin{itemize}
+    \item[A.] $\left(-\frac{7}{2}, \frac{35}{2}\right)$
+    \item[B.] $\left(-\frac{5}{2}, \frac{25}{4}\right)$
+    \item[C.] $\left(-\frac{5}{2}, \frac{37}{2}\right)$
+    \item[D.] $\left(\frac{5}{2}, \frac{13}{2}\right)$
+    \item[E.] $\left(\frac{7}{2}, \frac{35}{2}\right)$
+\end{itemize}
+
+% TODO: Insert figure showing parabola y=x^2 and line y=-5x+6 intersecting at A and B.
+
+32. Find the values of $x$ which satisfy both $-2x < 3$ and $(x+3)(x-2) < 0$.
+
+\begin{itemize}
+    \item[A.] $x < -3$
+    \item[B.] $x > 2$
+    \item[C.] $-3 < x < -\frac{3}{2}$
+    \item[D.] $-\frac{3}{2} < x < 2$
+    \item[E.] $x < -3$ or $x > -\frac{3}{2}$
+\end{itemize}
+
+\vspace{1cm}
+97-CE-MATHS II-16 \hfill $-15-$
+
+\newpage
+
+33. If $a < b < 0$, then which of the following must be true?
+
+\begin{itemize}
+    \item[I.] $a^2 < b^2$
+    \item[II.] $ab < a^2$
+    \item[III.] $\frac{1}{a} < \frac{1}{b}$
+\end{itemize}
+
+\begin{itemize}
+    \item[A.] I only
+    \item[B.] II only
+    \item[C.] III only
+    \item[D.] I and II only
+    \item[E.] I and III only
+\end{itemize}
+
+34. The figure shows the graph of a quadratic function $f(x)$. If the vertex of the graph is $(1, 3)$, then $f(x)=$
+
+\begin{itemize}
+    \item[A.] $-3(x-1)^2 + 3$
+    \item[B.] $-3(x+1)^2 + 3$
+    \item[C.] $-(x-1)^2 + 3$
+    \item[D.] $-(x+1)^2 + 3$
+    \item[E.] $3(x-1)^2 - 3$
+\end{itemize}
+
+% TODO: Insert figure showing parabola with vertex (1,3)
+
+\vspace{1cm}
+97-CE-MATHS II-17 \hfill $-16-$ \hfill Go on to the next page
+
+\end{document}
+
+35. The $n$-th term of an arithmetic sequence is $3 + 2n$. Find the sum of the first 50 terms of the sequence.
+
+\begin{itemize}
+    \item[A.] 103
+    \item[B.] 2575
+    \item[C.] 2700
+    \item[D.] 2750
+    \item[E.] 5400
+\end{itemize}
+
+36. The first term of a geometric sequence is $a$. If the sum to infinity of the sequence is $\frac{3}{4}a$, then its common ratio is
+
+\begin{itemize}
+    \item[A.] $-\frac{1}{3}$
+    \item[B.] $-\frac{1}{4}$
+    \item[C.] $\frac{1}{4}$
+    \item[D.] $\frac{1}{3}$
+    \item[E.] $\frac{3}{4}$
+\end{itemize}
+
+\vspace{1cm}
+
+\noindent 97-CE-MATHS II-18 \hfill $- 17 -$
+
+\newpage
+
+37. $a, b, c, d$ are 4 consecutive terms of a geometric sequence. Which of the following must be true?
+
+\begin{itemize}
+    \item[I.] $b^2 = ac$
+    \item[II.] $\frac{b}{a} = \frac{d}{c}$
+    \item[III.] $\frac{d}{a} = \left(\frac{c}{b}\right)^3$
+\end{itemize}
+
+\begin{itemize}
+    \item[A.] II only
+    \item[B.] I and II only
+    \item[C.] I and III only
+    \item[D.] II and III only
+    \item[E.] I, II and III
+\end{itemize}
+
+38. Find the interest on $\$10\,000$ at $16\%$ per annum for 2 years, compounded half-yearly. Give the answer correct to the nearest dollar.
+
+\begin{itemize}
+    \item[A.] $\$1664$
+    \item[B.] $\$3456$
+    \item[C.] $\$3605$
+    \item[D.] $\$7424$
+    \item[E.] $\$8106$
+\end{itemize}
+
+\vspace{1cm}
+
+\noindent 97-CE-MATHS II-19 \hfill $- 18 -$ \hfill Go on to the next page
+
+\end{document}
+
+39. Suppose $x$ varies directly as $y$ and inversely as $z$. When $y=2$ and $z=3$, $x=7$. When $y=6$ and $z=7$, $x=$
+\begin{itemize}
+    \item[A.] 1.
+    \item[B.] $\frac{49}{9}$.
+    \item[C.] 9.
+    \item[D.] $\frac{49}{4}$.
+    \item[E.] 49.
+\end{itemize}
+
+40. $\frac{\cos(90^\circ-A)\sin(180^\circ-A)}{\tan(360^\circ-A)}=$
+\begin{itemize}
+    \item[A.] $-\sin A \cos A$.
+    \item[B.] $\sin A \cos A$.
+    \item[C.] $-\cos^2 A$.
+    \item[D.] $\cos^2 A$.
+    \item[E.] $\sin^2 A$.
+\end{itemize}
+
+\vspace{2cm}
+97-CE-MATHS II-20 \hfill $- 19 -$
+
+\newpage
+
+41. In the figure, $ABCD$ is a rectangle inclined at an angle of $45^\circ$ to the horizontal plane $BCEF$. Find the inclination of $AC$ to the horizontal plane correct to the nearest degree.
+\begin{itemize}
+    \item[A.] $27^\circ$
+    \item[B.] $30^\circ$
+    \item[C.] $35^\circ$
+    \item[D.] $45^\circ$
+    \item[E.] $55^\circ$
+\end{itemize}
+% TODO: Insert figure for question 41
+\vspace{2cm}
+
+42. In the figure, $CD=$
+\begin{itemize}
+    \item[A.] $\frac{r \sin \beta}{\sin \alpha \sin \gamma}$
+    \item[B.] $\frac{r \sin \beta}{\cos \alpha \sin \gamma}$
+    \item[C.] $\frac{r \sin \alpha \sin \beta}{\sin \gamma}$
+    \item[D.] $\frac{r \cos \alpha \sin \beta}{\sin \gamma}$
+    \item[E.] $\frac{r \sin \beta}{\sin \alpha}$
+\end{itemize}
+% TODO: Insert figure for question 42
+
+\vspace{2cm}
+97-CE-MATHS II-21 \hfill $- 20 -$ \hfill Go on to the next page
+
+\end{document}
+
+43. For $0 \le \theta \le 2\pi$, how many roots does the equation $\tan \theta (\tan \theta - 2) = 0$ have?
+
+\begin{itemize}
+    \item[A.] 1
+    \item[B.] 2
+    \item[C.] 3
+    \item[D.] 4
+    \item[E.] 5
+\end{itemize}
+
+44. In the figure, $f(x) =$
+
+% TODO: Insert figure here
+\begin{itemize}
+    \item[A.] $\sin \frac{x}{2} + \frac{1}{2}$
+    \item[B.] $\sin 2x + \frac{1}{2}$
+    \item[C.] $\frac{1}{2} \sin \frac{x}{2} + \frac{1}{2}$
+    \item[D.] $\frac{1}{2} \sin x + \frac{1}{2}$
+    \item[E.] $\frac{1}{2} \sin 2x + \frac{1}{2}$
+\end{itemize}
+
+\vspace{1cm}
+
+97-CE-MATHS II-22 \hfill $- 21 -$
+
+\newpage
+
+45. The equation of a circle is given by $x^2 + y^2 - 4x + 6y - 3 = 0$. Which of the following statements is/are true?
+
+\begin{itemize}
+    \item[I.] The centre of the circle is $(-2, 3)$.
+    \item[II.] The radius of the circle is 4.
+    \item[III.] The origin is inside the circle.
+\end{itemize}
+
+\begin{itemize}
+    \item[A.] I only
+    \item[B.] I and II only
+    \item[C.] I and III only
+    \item[D.] II and III only
+    \item[E.] I, II and III
+\end{itemize}
+
+46. A circle has $(a, 0)$ and $(0, b)$ as the end points of a diameter. Which of the following points lie(s) on this circle?
+
+\begin{itemize}
+    \item[I.] $(-a, -b)$
+    \item[II.] $(0, 0)$
+    \item[III.] $(a, b)$
+\end{itemize}
+
+\begin{itemize}
+    \item[A.] II only
+    \item[B.] III only
+    \item[C.] I and II only
+    \item[D.] II and III only
+    \item[E.] I, II and III
+\end{itemize}
+
+\vspace{1cm}
+
+97-CE-MATHS II-23 \hfill $- 22 -$ \hfill Go on to the next page
+
+\end{document}
+
+47. In the figure, $AEB$ and $ADC$ are straight lines. $ED // BC$ and $ED : BC = 2 : 3$. If the coordinates of $A$ and $B$ are $(4, 7)$ and $(0, 1)$ respectively, find the coordinates of $E$.
+
+\begin{itemize}
+    \item[A.] $\left(\frac{4}{3}, 3\right)$
+    \item[B.] $\left(\frac{8}{3}, 5\right)$
+    \item[C.] $\left(\frac{8}{5}, \frac{5}{17}\right)$
+    \item[D.] $\left(\frac{12}{5}, \frac{23}{5}\right)$
+    \item[E.] $\left(\frac{8}{7}, \frac{19}{7}\right)$
+\end{itemize}
+
+% TODO: Insert figure for question 47
+\vspace{2cm}
+
+48. In the figure, $OXY$ is a sector with centre $O$. If $Z$ is the mid-point of $YO$, find area of $\Delta OXZ :$ area of sector $OXY$.
+
+\begin{itemize}
+    \item[A.] $1 : 2$
+    \item[B.] $2 : \sqrt{3}\pi$
+    \item[C.] $2 : 3\pi$
+    \item[D.] $3 : 2\pi$
+    \item[E.] $3\sqrt{3} : 2\pi$
+\end{itemize}
+
+% TODO: Insert figure for question 48
+\vspace{2cm}
+
+\noindent 97-CE-MATHS II-24 \hfill $- 23 -$
+
+\newpage
+
+49. In the figure, the rocket model consists of three parts. Parts I and III can be joined together to form a right circular cone. Part II is a right cylinder. Find the volume of the rocket model.
+
+\begin{itemize}
+    \item[A.] $260\pi \text{ cm}^3$
+    \item[B.] $360\pi \text{ cm}^3$
+    \item[C.] $620\pi \text{ cm}^3$
+    \item[D.] $720\pi \text{ cm}^3$
+    \item[E.] $900\pi \text{ cm}^3$
+\end{itemize}
+
+% TODO: Insert figure for question 49
+\vspace{2cm}
+
+50. In the figure, $AC$ is the angle bisector of $\angle BAD$. Which of the following statements must be true?
+
+\begin{itemize}
+    \item[I.] $\Delta BCE \sim \Delta ADE$
+    \item[II.] $\Delta ABC \sim \Delta AED$
+    \item[III.] $\Delta ABC \sim \Delta BDA$
+\end{itemize}
+
+\begin{itemize}
+    \item[A.] I only
+    \item[B.] I and II only
+    \item[C.] I and III only
+    \item[D.] II and III only
+    \item[E.] I, II and III
+\end{itemize}
+
+% TODO: Insert figure for question 50
+\vspace{2cm}
+
+\noindent 97-CE-MATHS II-25 \hfill $- 24 -$ \hfill Go on to the next page
+
+\end{document}
+
+\newpage
+
+51. In the figure, $\widehat{AB} = 2$, $\widehat{BC} = 3$, $\widehat{CD} = 4$ and $\widehat{DA} = 6$. Find $\angle BCD$.
+
+\begin{itemize}
+    \item[A.] $72^\circ$
+    \item[B.] $84^\circ$
+    \item[C.] $90^\circ$
+    \item[D.] $96^\circ$
+    \item[E.] $144^\circ$
+\end{itemize}
+
+% TODO: Insert figure for 51
+\begin{center}
+    \includegraphics[width=0.3\linewidth]{figure_51.png}
+\end{center}
+
+52. In the figure, $ABCD$ is a parallelogram. $PDC$, $PQRS$ and $ABS$ are straight lines. If $AQ = 4$, $QD = 2$ and $BR = RC = 3$, then $PQ : QR : RS =$
+
+\begin{itemize}
+    \item[A.] $1 : 1 : 1$.
+    \item[B.] $1 : 2 : 6$.
+    \item[C.] $2 : 1 : 3$.
+    \item[D.] $2 : 3 : 4$.
+    \item[E.] $8 : 12 : 9$.
+\end{itemize}
+
+% TODO: Insert figure for 52
+\begin{center}
+    \includegraphics[width=0.3\linewidth]{figure_52.png}
+\end{center}
+
+\vspace{2em}
+
+\noindent 97-CE-MATHS II-26 \hfill $- 25 -$
+
+\newpage
+
+53. In the figure, $ABCD$ is a rectangle. $CDE$ is a straight line and $AE // BD$. If the area of $ABCD$ is 24 and $F$ is a point on $BC$ such that $BF : FC = 3 : 1$, find the area of $\Delta DEF$.
+
+\begin{itemize}
+    \item[A.] 2
+    \item[B.] 3
+    \item[C.] 4
+    \item[D.] 6
+    \item[E.] 8
+\end{itemize}
+
+% TODO: Insert figure for 53
+\begin{center}
+    \includegraphics[width=0.3\linewidth]{figure_53.png}
+\end{center}
+
+54. In the figure, $AB // DC$. If the areas of $\Delta ABE$ and $\Delta CDE$ are 4 and 9 respectively, find the area of $\Delta BCE$.
+
+\begin{itemize}
+    \item[A.] 4
+    \item[B.] 5
+    \item[C.] 6
+    \item[D.] 6.5
+    \item[E.] 9
+\end{itemize}
+
+% TODO: Insert figure for 54
+\begin{center}
+    \includegraphics[width=0.3\linewidth]{figure_54.png}
+\end{center}
+
+\vspace{2em}
+
+\begin{center}
+    \textbf{END OF PAPER}
+\end{center}
+
+\vspace{2em}
+
+\noindent 97-CE-MATHS II-27 \hfill $- 26 -$

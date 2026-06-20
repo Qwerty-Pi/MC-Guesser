@@ -1,1 +1,984 @@
-99-CE MATHS Paper2 HONG KONG EXAMINATIONS AUTHORITY ONGCERTIFICATEOFEDUCATIONEXAMINATION1999 MATHEMATICS PAPER 2 11.15 am–12.45 pm (1/hours) Subject Code 180 1. Read carefully the instructions on the Answer Sheet and insert the information required (including the Subject Code) in the spaces provided. 2. When told to open this book, check that all the questions are there. Look for the words 'END OF PAPER' after the last question. 3. ANSWER ALL QUESTIONS. All the answers should be markedon the Answer Sheet. 4. Note that you may only mark ONE answer to each question. Two or more answers will score NO MARKS. 5. All questions carry equal marks. No marks will be deducted for wrong answers. 香港考試局 保留版 Hong Kong Examinations Authority All Rights Reserved 1999 99-CE-MATHS 2–1FORMULAS FOR REFERENCE SPHERE Surface area = 4πr{$ Volume 4 Ⅱ |m πr3 CYLINDER Area of curved surface = 2πrh Volume = $πr2h CONE Area of curved surface = πrl Volume Ⅱ 1 $^2h 3 PRISM Volume = base area × height PYRAMID Volume Ⅱ 1 13 ×base area×height 99-CE-MATHS 2–2 -1- ©保留版All Rights Reserved1999There are 36 questions in Section A and 18 questions in Section B. Thediagramsin this paper arenotnecessarilydrawnto scale Section A 1. Iff(x)=x2-1，then f(a−1)= A. $a^{2}-2a$. B. $a^²-3a. C. a^{-3a-2. D. a^{2-1. E. $a^{2}-2. 2. x{-y2-x+y=$ A. (x-y)(x−y−1). B. (x−y)(x+y−1). C. (x−y)(x+y+1). D. (x+y)(x−y−1). E. (x+y)(x−y+1). 99-CE-MATHS 2–3 -2- Go on to the next page ©保留版All Rights Reserved 19993. If a= 1+b $\r{{b}$ ,then b= A. a- 1 2 B. a− 1 2a C. a+1 $a-$ D. a- 1 a+1 E. 1-a a+1 4. If 4{=a，then 16= A. 4a. B. 0 C. $a^{4}$. D. 2^ E. 4 99-CE-MATHS 2–4 -3- 保留All Rights Reserved 1995. In the figure,the graphofy=x²-6x+ktouchesthex-axis.Findk. A A. k≥0 B. k≥9 C. k=-9 D. k=0 E. k=9 0 7x 6. If（3x−1)(x−a)=3x2+bx-2，then A. a=2，b=-1. B. a= 2,b=-7. C. a=-2，b=5. D. a=-2，b=-5. E. a=-2,b=-7. 99-CE-MATHS 2–5 -4- Go on to the next page 保留版All Rights Reserved 19997.Solve x²2+10x-24>0. A. x<-12or x>2 B. x<-6or x>-4 C. x<-2orx>12 D. -12<x<2 E. -2<x<12 ${y =x2}+3x-22 8. If , then y=−x+3 A. x=- 1. B. x=-1 or5. C. x=-2 or 1. D. x=-5 or 1. E. x=-5 or 8. 99-CE-MATHS 2–6 -5- ©保留版All Rights Reserved19999. Whichofthefollowingmayrepresentthe graphofy=x²3–18 A.  B. y 0 →x 0 7 C. y D. S 0 0 →x E. y 0 7x 99-CE-MATHS 2-7 -6- Go on to the next page 保留版AlRights Reserved 199910. Then-thtermofan arithmetic sequenceis2+5n.Find the sumof thefirst 100 terms of the sequence. A. 502 B. 12450 C. 25200 D. 25450 E. 25700 11. In aclass,studentsstudyeitherHistoryor Geography,but not both.Ifthe numberofstudents studying Geographyis50%more than those studying History, what is the percentage of students studying History? A. 25% B. C. 40% D. 60% E. % 99-CE-MATHS 2–8 -7- ©保留版AlRights Reserved199912. Ifx:y=3:4and2x+5y=598，findx. A. 23 B. 26 C. 69 D. 78 E 104 13. If1 Australiandollarisequivalentto 4.69H.K.dollars and100Japanese yen are equivalent to 5.35 H.K.dollars, how many Japanese yen are equivalent to1 Australian dollar? Give your answer correct to the neares Japanese yen. A. 4 B. 25 C. 88 D. 114 E. 2509 99-CE-MATHS 2-9 -8- Go on to the next page ©保留版AlRights Reserved199914.Letmbe a positive integer. Whichof the following must betrue? 1.$m^2} is even. II.m(m+1) is even. III.m(m+2)iseven. A. I only B. II only C. II only D. I and III only E. II and III only 15. In the figure, the bearing of B from C is A A. N5°E. B. N65°E. N N C. N85°E. ↑ ↑ 20 S5°W. 30° D. E. S85°W. C B 99-CE-MATHS 2-10 -9- 保留版AlRights Reserved 199916.Whichofthefollowingmayrepresntthegraphofycosfor 0≤x≤90？ A. $y}$ B. y 1 o →x o 90 7x 90 C. y↑ D. y↑ 1 o 90 →x o 90 7s E. y↑ 1 o 90 →x 99-CE-MATHS 2-11 -10- Go on to the next page ©保留版All Rights Reserved199917. Inthefigurefindxcorrecttosignificantfgres. A. 1.28 80 B. 1.29 C. 1.35 1 cm X D. 1.53 E. 1.65 x cm 18. In the figure, AC ABB$ A. 4 3 C B. 5 4 $\sqr2 }$ C. 2 $\sfqr6}$ 75° $60^{f$ D. A B 2 $\sfqr6}$ E. 3 99-CE-MATHS 2-12 –11– 保留版AlRights Reserved 199919. Inthe figure,find x correct to 1 decimal place. A. 15.0 B. 18.4 1 cm C. 22.5 D. 24.1 1 cm E. 26.6 2 cm 20. Inthe figure,ABCD is a parallelogram. Find ∠ABC correct to the nearest degree. A. 83° D C B. 97° 6 cm C. 104°} 4 cm D. 124° E. 139° A 5 cm B 99-CE-MATHS 2–13 -12- Go on to the next page ©保留版All Rights Reserved199921. Inthe figurea square is inscribedin acircle withradius1 cm.Find thearea of the shaded region. A. (π-2)cm2 B. (π-2}$ C. (π−1)cm{2 D. (2π−2)cm2 1 cm E. (2π−1)cm2 22. The figure shows a right prism. Find its total surface area. A. 104 cm2 B. 108cm2 5 cm C. 114cm2 4 cm D. 120 cm2 口 4cm E. 140 cm2 8 cm 99-CE-MATHS 2-14 -13- 保留板All Rights Reserved199923. In thefigureacylindrical vesselofinternal diameter6cm contains some water. Asteel ball ofradius 2cm iscompletely submergedinthe water. Find the rise in the water level. ←6cm → ←6cm→ A. 32 \7$ cm B. 8 $\ra $ cm C. 16 9 cm D. 4 9 cm E. 8 3 cm 99-CE-MATHS 2-15 -14- Go on to the next page ©保留版AlRights Reserved199924. Inthe figurethesolidconsistsofarightcircularcone andahemispherewitha common base. Find the volume of the solid. A. 30πcm{$ B. 33πcm{3$ 4cm C. 48πcm3 口 54πcm3 3cm D. E. 72πcm3 25. Inthe figure,ABCD is a semicircle. Find the areaof the shaded region correct to the nearest 0.01 cm2. A. 5.33 cm2 D C B. 2.87 cm2 C. 2.67 cm2 A 25° 10 cm B D. 1.33 cm2 E. 0.17 cm2 26. In the figure,O is the centre of the circle. Find x. A. 12° B. 20° C. 24° o D. 40° E. 60° x+60°$ 99-CE-MATHS 2–16 -15- 保留All Rights Reserved199927. In the figure,AB is a diameterof the circle. Findx. A. 26° D B. 32° * C. 38° A $26° B D. 52° E. 64° 28. Inthe figure,ACDandECB are straight lines.If∠EAC=∠CABand EA=EB，findx. A. 22° E → x D B. 34° /44° C. 44° C D. 46° E. 68° A B 99-CE-MATHS 2–17 -16- Go on to the next page 保留版AllRights Reserved199929. In the figure,ABCDE is aregular pentagon and ABFG is a square. Findx. D A. 18° B. 27° G F 今 C C. 30° D. 36° E. 45° A B 30. Inthe figure,AEB and ADC are straight lines. FindED. 10 A A. 3 cm B. 40 cm 8 cm 13 C. 3 cm D D. √40cm E 5cm E. \80 cm$ B □ 5 cm C 99-CE-MATHS 2-18 -17- ©保留版AlRights Reserved199931. A(-4.2）andB(1-3）aretwo points.Cisapointonthey-axis such that AC=CB.Find the coordinates of C. A. (- 3 -12  B. (−1, 0) C. (1, 0) D. (0, −1) E. (0, 1) 32. In the figure, OABC is a parallelogram. If the equation of OC is 2x–y=0and the lengthof CBis 3，findtheequationofAB. A. x-2y-3=0 y B. 2x-y-3=0 C B C. 2x-y+3=0 D. 2x-y-6=0 0 A →x E. 2x-y+6=0 99-CE-MATHS 2-19 -18- Go on to the next page 保留版AlRights Reserved199933. Find the median and mode of the ten numbers 6,8,3,3,5,5,5,7,7,11. A. median=5，mode=5 B. median=5，mode=5.5 C. median=5.5.mode=5 D. median=5.5，mode=6 E. median=6，mode=5 34. A student scored 50 marks in a test and the corresponding standard score is −0.5.Ifthe mean ofthe test scores is 60 marks,find the standard deviation of the scores. A. √20 marksk B. 5 marks C. 9.5 marks D. 10 marks E. 20 marks 99-CE-MATHS 2–20 -19- ©保留版AlRights Reserved199935.Twocards are drawn randomly fromfour cards numbered1,2,3 and4 respectively.Findtheprobabilitythatthesumofthenumbersdrawnisodd. A. 1 6 B. -14 C. 1 3 D. 1 2 E. 23 36. TomandMaryeach throws adart.TheprobabilityofTom’sdarthiting the target is 1 while that of Mary's is 2 13 Find theprobabilityofonly one 5 dart hitting the target. A. 2 $1r$ B. 3 15 C. 7 15 D. 11 15 E. 13 15 99-CE-MATHS 2–21 -20- Go on to the next page ©保留版 All Rights Reserved 1999Section B 37.Inthefigure,arightcircularconeisdividedintotwopartsXandYbya planeparalleltothebasesuchthatthe lengthsoftheirslantedgesare4cm and3cm respectively. Find theratioofthecurvedsurface areasof Xand Y. 4 cm X 3 cm Y A. 16:9 B. 16:33 C. 16:49 D. 64:27 E. 64:279 38. Itis giventhatF(x)=x3−4x2+ax+b.F(x)isdivisibleby−1.When it is divided by x+1，theremainderis 12.Find a andb. A. a=5，b=10 B. a=1，b=2 C. a=-3，b=6 D. a=-4,b=7 E. a=-7，=10 99-CE-MATHS 2–22 -21- ©保留All Rights Reserved 19939. If -2 logy=1+logx，then A. y=\0x$. B. y=100+x2. C. y=(10+x)2 D. y=10x{2. E. y=100x2. 40. 2 $x-1 x2-1 $x2-2x-3 -x2+2x+5 A. (x−1)(x+1)(x+3) -x^2}+2x+7$ B. (x−1)(x+1)(x+3) −x2-5 C. (x−3)(x−1)(x+1) $x^{2 5$ D. (x−3)(x−1)(x+1) -x2+4x-7 E. (x−3)(x−1)(+1) 99-CE-MATHS 2–23 -22- Go on to the next page 保留版AlRights Reserved 199941. Themethodof bisectionis usedtofind therootof sinx+x−1=0starting withtheinterval[02]Afterthefrstapproximation,theintervalwhich contains the root becomes [0, 1]. Find the interval which contains the root after the third approximation. A. [0, 0.25] B. [0.25, 0.75] C. [0.5, 0.75] D. [0.5, 1] E. [0.75, 1] 42. John goes to school andreturns home at speeds xkm/hand(x +1)km/h respectively. The school is 2km from John’s home andthe total time for the two journeys is54minutes. Whichof thefollowing equations can beused to find x? A. x12 x+1 54 + 2 60 B. 2 2 54 x + x+1$ 60 1 C. 54 4 60 D. 4 54 [x+(x+1)] 60 2 E. 2x+2(x+1)= 54 60 99-CE-MATHS 2–24 -23- ©保留版 All Rights Reserved 199943. In thefigurefindthepoint(x,y)in the shadedregion(includingthe boundary)at which bx–ay+3attainsits greatest value. A. (0,0) y (−a, b) (a, ) B. (−a, b) (,) C. (a, b) D. (, −a) 7 0 E. (b, a) (,−) 44. The sum of the first two terms of a geometric sequence is 3 and the sum to infinity of the sequence is 4.Find the common ratioof the sequence. A. 1 \ B. 1 7 C. -14 D. 1 2 E. 1 or 112 2 99-CE-MATHS 2-25 -24- Go on to the next page ©保留版 All Rights Reserved 199945.ItisgiventhavaiesinverelyaIfxisincreasedb0%， then y is A. increased by 800%. B. increased by 700%. C. decreased by 300%. D. decreased by 87.5%. E. decreased by 12.5%. 46. cos(90°−A)cos(−A) sin(360° −A) A. −cos A. B. cos A. C. sin A. D. $cos{2}AA sin A E. cos{2}A sin A 47. If0≤θ≤2π，solve(cosθ−3)(3sinθ−2)=0correctto3significant figures. A. 0.730 or 1.23 B. 0.730 or 2.41 C. 0.730or3.87 D. 0.730 or 6.21 E. 0.734 or 2.41 99-CE-MATHS 2–26 -25- 保留版All Rights Reserved 199948.Thefigureshowsfivesctor.Whicofthemarkedanglesmeasures2 radians? 2 2 a 2 b 2 2 2 1 d 2 A. a B. b C. C D. d E. e 99-CE-MATHS 2-27 -26- Go on to the next page ©保留版All Rights Reserved 199949. In the figure,ABCDEFGH is a rectangular block. Find the inclinationof EM to the plane ABCD correct to the nearest degree. E 24 cm === H A. 23° F G B. 25° C. 65° 36cm D. 71° E. 75° D C 9cm A M " B 50. Inthe figure,ATistangentto thecircle atTand ABC isastraight line. Find AT. A. 9 cm C B. 12 cm 16cm C. 15 cm B D. 16 cm 9cm E. 20 cm T A 99-CE-MATHS 2-28 -27- ©保留版All Rights Reserved 199951. Inthefigurefind the equation of the circle with ABas a diameter. A. x²+y²-2x+2y-23=0 x²+y²-2x+2y-3=0 A(−2, 3) B. C. x2+y²+2x-2y-23=0 0 → x D. x²+y²+2x-2y-3=0 B(4,−5) E. x2+y²-25=0 52. Thefigureshowsacircle centredatCand passing through O(0,0), A(6,0)and B(0,8). Whichof the following must be true? I. C lies on the line x$ + y =1. 6 8 y II. The radius of the circle is 10. 个 III.OC is perpendicular to AB . B A. I only B. IⅡI only ×c C. I and II only D. I and III only 0 A →x E. I, II and III 99-CE-MATHS2-29 -28- Go on to the next page ©保留版All Rights Reserved 199953.Twocircles withequations(x+1)2+(y+1)2=25and (x−11)2+(8)2=100toucheachotherexternallyatapointP.Find the coordinates of P. A. (−3,−2) 7n 4Tn B. C. (3,2) D. (5, 72 E. (7,5) 54. In thefigure,ABCD is arectangle.Misthemidpointof BC and AC intersects MDatN. Areaof ΔNCD: areaof ABMN= A. 1:2. A D B. 1:3. C. 2:3. N D. 2:5. E. 4:7. B M C END OF PAPER 99-CE-MATHS2-30 -29- 保留版All Rights Resered19991999 Mathematics (Paper 2) Question No. Key Question No. Key 1. A 31. E 2. B 32. D 3. D 33. C 4. B 34. E 5. E 35. E 6. C 36. C 7. A 37. B 8. D 38. E 9. A 39. E 10. D 40. E 11. C 41. C 12. C 42. B 13. C 43. D 14. B 44. E 15. E 45. D 16. A 46. A 17. B 47. B 18. D 48. E 19. B 49. C 20. B 50. C 21. A 51. A 22. E 52. A 23. A 53. C 24. A 54. D 25. D 26. D 27. C 28. B 230 B A 保留版 AlRights Reserved 1999
+\documentclass{article}
+\usepackage{amsmath,graphicx,geometry,tabularx}
+\geometry{margin=1in}
+\begin{document}
+
+\begin{flushright}
+99-CE \\
+MATHS \\
+Paper2
+\end{flushright}
+
+\begin{center}
+HONG KONG EXAMINATIONS AUTHORITY \\
+HONG KONG CERTIFICATE OF EDUCATION EXAMINATION 1999 \\
+\vspace{1cm}
+\textbf{\Large MATHEMATICS PAPER 2} \\
+\vspace{0.5cm}
+11.15 am -- 12.45 pm (1\frac{1}{2} hours) \hfill \fbox{Subject Code 180}
+\end{center}
+
+\vspace{1cm}
+
+\begin{enumerate}
+    \item Read carefully the instructions on the Answer Sheet and insert the information required (including the Subject Code) in the spaces provided.
+    \item When told to open this book, check that all the questions are there. Look for the words \textbf{'END OF PAPER'} after the last question.
+    \item \textbf{ANSWER ALL QUESTIONS}. All the answers should be marked on the Answer Sheet.
+    \item Note that you may only mark \textbf{ONE} answer to each question. Two or more answers will score \textbf{NO MARKS}.
+    \item All questions carry equal marks. No marks will be deducted for wrong answers.
+\end{enumerate}
+
+\vfill
+
+\noindent \copyright 香港考試局 \quad 保留版權 \\
+Hong Kong Examinations Authority \\
+All Rights Reserved 1999 \\
+\vspace{0.5cm}
+99-CE-MATHS 2--1
+
+\begin{center}
+\textbf{FORMULAS FOR REFERENCE}
+\end{center}
+
+\vspace{0.5cm}
+
+\begin{center}
+\begin{tabular}{lll}
+SPHERE & Surface area & $= 4\pi r^2$ \\
+ & & \\
+ & Volume & $= \frac{4}{3}\pi r^3$ \\
+ & & \\
+CYLINDER & Area of curved surface & $= 2\pi rh$ \\
+ & & \\
+ & Volume & $= \pi r^2 h$ \\
+ & & \\
+CONE & Area of curved surface & $= \pi rl$ \\
+ & & \\
+ & Volume & $= \frac{1}{3}\pi r^2 h$ \\
+ & & \\
+PRISM & Volume & $= \text{base area} \times \text{height}$ \\
+ & & \\
+PYRAMID & Volume & $= \frac{1}{3} \times \text{base area} \times \text{height}$ \\
+\end{tabular}
+\end{center}
+
+\vspace{2cm}
+
+\noindent 99-CE-MATHS 2--2 \hfill $- 1 -$ \\
+\copyright\ \text{保留版權 All Rights Reserved 1999}
+
+\end{document}
+
+There are \textbf{36} questions in Section A and \textbf{18} questions in Section B.
+The diagrams in this paper are not necessarily drawn to scale.
+
+\section*{Section A}
+
+1. If $f(x) = x^2 - 1$, then $f(a-1) =$
+
+\begin{itemize}
+    \item[A.] $a^2 - 2a$ .
+    \item[B.] $a^2 - 3a$ .
+    \item[C.] $a^2 - 3a - 2$ .
+    \item[D.] $a^2 - 1$ .
+    \item[E.] $a^2 - 2$ .
+\end{itemize}
+
+2. $x^2 - y^2 - x + y =$
+
+\begin{itemize}
+    \item[A.] $(x - y)(x - y - 1)$ .
+    \item[B.] $(x - y)(x + y - 1)$ .
+    \item[C.] $(x - y)(x + y + 1)$ .
+    \item[D.] $(x + y)(x - y - 1)$ .
+    \item[E.] $(x + y)(x - y + 1)$ .
+\end{itemize}
+
+\vfill
+\noindent 99-CE-MATHS 2--3 \hfill $- 2 -$ \hfill Go on to the next page
+
+\end{document}
+
+3. If $a = \frac{1+b}{1-b}$, then $b =$
+
+\begin{itemize}
+    \item[A.] $\frac{a-1}{2}$ .
+    \item[B.] $\frac{a-1}{2a}$ .
+    \item[C.] $\frac{a+1}{a-1}$ .
+    \item[D.] $\frac{a-1}{a+1}$ .
+    \item[E.] $\frac{1-a}{a+1}$ .
+\end{itemize}
+
+4. If $4^x = a$, then $16^x =$
+
+\begin{itemize}
+    \item[A.] $4a$ .
+    \item[B.] $a^2$ .
+    \item[C.] $a^4$ .
+    \item[D.] $2^a$ .
+    \item[E.] $4^a$ .
+\end{itemize}
+
+\vfill
+\noindent 99-CE-MATHS 2--4 \hfill $-3-$ \\
+\textcopyright\ 保留版權 All Rights Reserved 1999
+
+\end{document}
+
+5. In the figure, the graph of $y = x^2 - 6x + k$ touches the x-axis. Find $k$.
+
+\begin{minipage}{0.5\textwidth}
+\begin{itemize}
+    \item[A.] $k \ge 0$
+    \item[B.] $k \ge 9$
+    \item[C.] $k = -9$
+    \item[D.] $k = 0$
+    \item[E.] $k = 9$
+\end{itemize}
+\end{minipage}
+\begin{minipage}{0.4\textwidth}
+% TODO: Insert figure here
+\end{minipage}
+
+6. If $(3x-1)(x-a) = 3x^2 + bx - 2$, then
+
+\begin{itemize}
+    \item[A.] $a = 2$, $b = -1$.
+    \item[B.] $a = 2$, $b = -7$.
+    \item[C.] $a = -2$, $b = 5$.
+    \item[D.] $a = -2$, $b = -5$.
+    \item[E.] $a = -2$, $b = -7$.
+\end{itemize}
+
+\vfill
+\noindent 99-CE-MATHS 2--5 \hfill $- 4 -$ \hfill Go on to the next page \\
+\copyright\ All Rights Reserved 1999
+
+\end{document}
+
+\newpage
+
+7. Solve $x^2 + 10x - 24 > 0$ .
+
+\begin{itemize}
+    \item[A.] $x < -12$ or $x > 2$
+    \item[B.] $x < -6$ or $x > -4$
+    \item[C.] $x < -2$ or $x > 12$
+    \item[D.] $-12 < x < 2$
+    \item[E.] $-2 < x < 12$
+\end{itemize}
+
+8. If $\begin{cases} y = x^2 + 3x - 2 \\ y = -x + 3 \end{cases}$, then
+
+\begin{itemize}
+    \item[A.] $x = -1$ .
+    \item[B.] $x = -1$ or $5$ .
+    \item[C.] $x = -2$ or $1$ .
+    \item[D.] $x = -5$ or $1$ .
+    \item[E.] $x = -5$ or $8$ .
+\end{itemize}
+
+\vspace{\fill}
+\noindent 99-CE-MATHS 2-6 \hfill $- 5 -$ \\
+\textcopyright\ \text{保留版權 All Rights Reserved 1999}
+
+\end{document}
+
+9. Which of the following may represent the graph of $y = x^2 - 3x - 18$ ?
+
+\begin{tabular}{p{0.5\textwidth} p{0.5\textwidth}}
+A. & B. \\
+% TODO: Insert image for A
+& % TODO: Insert image for B
+\\
+C. & D. \\
+% TODO: Insert image for C
+& % TODO: Insert image for D
+\\
+E. & \\
+% TODO: Insert image for E
+& \\
+\end{tabular}
+
+\vfill
+
+\noindent 99-CE-MATHS 2--7 \hfill $-6-$ \hfill Go on to the next page $\blacktriangleright$
+
+\noindent \copyright\ 保留版權 All Rights Reserved 1999
+
+\end{document}
+
+10. The $n$-th term of an arithmetic sequence is $2+5n$. Find the sum of the first 100 terms of the sequence.
+
+\begin{itemize}
+    \item[A.] 502
+    \item[B.] 12450
+    \item[C.] 25200
+    \item[D.] 25450
+    \item[E.] 25700
+\end{itemize}
+
+11. In a class, students study either History or Geography, but not both. If the number of students studying Geography is 50\% more than those studying History, what is the percentage of students studying History?
+
+\begin{itemize}
+    \item[A.] 25\%
+    \item[B.] $33\frac{1}{3}\%$
+    \item[C.] 40\%
+    \item[D.] 60\%
+    \item[E.] $66\frac{2}{3}\%$
+\end{itemize}
+
+\vfill
+\noindent 99-CE-MATHS 2--8 \hfill $-7-$ \\
+\textcopyright\ 保留版權 All Rights Reserved 1999
+
+\end{document}
+
+12. If $x:y=3:4$ and $2x+5y=598$, find $x$.
+
+\begin{itemize}
+    \item[A.] 23
+    \item[B.] 26
+    \item[C.] 69
+    \item[D.] 78
+    \item[E.] 104
+\end{itemize}
+
+13. If 1 Australian dollar is equivalent to 4.69 H.K. dollars and 100 Japanese yen are equivalent to 5.35 H.K. dollars, how many Japanese yen are equivalent to 1 Australian dollar? Give your answer correct to the nearest Japanese yen.
+
+\begin{itemize}
+    \item[A.] 4
+    \item[B.] 25
+    \item[C.] 88
+    \item[D.] 114
+    \item[E.] 2509
+\end{itemize}
+
+\vfill
+\noindent 99-CE-MATHS 2--9 \hfill $-8-$ \hfill Go on to the next page \\
+\copyright\ 保留版權 All Rights Reserved 1999
+
+\end{document}
+
+14. Let $m$ be a positive integer. Which of the following must be true?
+
+\begin{itemize}
+    \item[I.] $m^2$ is even.
+    \item[II.] $m(m+1)$ is even.
+    \item[III.] $m(m+2)$ is even.
+\end{itemize}
+
+\begin{itemize}
+    \item[A.] I only
+    \item[B.] II only
+    \item[C.] III only
+    \item[D.] I and III only
+    \item[E.] II and III only
+\end{itemize}
+
+15. In the figure, the bearing of $B$ from $C$ is
+
+\begin{itemize}
+    \item[A.] N$5^\circ$E .
+    \item[B.] N$65^\circ$E .
+    \item[C.] N$85^\circ$E .
+    \item[D.] S$5^\circ$W .
+    \item[E.] S$85^\circ$W .
+\end{itemize}
+
+% TODO: Insert figure here
+\begin{center}
+    \includegraphics[width=0.4\textwidth]{figure_15.png}
+\end{center}
+
+\vfill
+99-CE-MATHS 2–10 \hfill – 9 – \\
+\copyright\ 保留版權 All Rights Reserved 1999
+
+\end{document}
+
+16. Which of the following may represent the graph of $y = \cos x^\circ$ for $0 \le x \le 90$ ?
+
+\begin{minipage}[t]{0.45\textwidth}
+A.
+% TODO: Insert image for graph A
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.45\textwidth}
+B.
+% TODO: Insert image for graph B
+\end{minipage}
+
+\vspace{1cm}
+
+\begin{minipage}[t]{0.45\textwidth}
+C.
+% TODO: Insert image for graph C
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.45\textwidth}
+D.
+% TODO: Insert image for graph D
+\end{minipage}
+
+\vspace{1cm}
+
+\begin{minipage}[t]{0.45\textwidth}
+E.
+% TODO: Insert image for graph E
+\end{minipage}
+
+\vfill
+
+\noindent 99-CE-MATHS 2--11 \hfill $- 10 -$ \hfill Go on to the next page $\blacktriangleright$ \\
+\copyright \ 保留版權 All Rights Reserved 1999
+
+\end{document}
+
+17. In the figure, find $x$ correct to 3 significant figures.
+
+\begin{minipage}{0.5\textwidth}
+\begin{itemize}
+    \item[A.] 1.28
+    \item[B.] 1.29
+    \item[C.] 1.35
+    \item[D.] 1.53
+    \item[E.] 1.65
+\end{itemize}
+\end{minipage}
+\begin{minipage}{0.4\textwidth}
+% TODO: Insert image of triangle with 80 degrees, 1 cm sides, and x cm base
+\end{minipage}
+
+\vspace{1cm}
+
+18. In the figure, $\dfrac{AC}{AB} =$
+
+\begin{minipage}{0.5\textwidth}
+\begin{itemize}
+    \item[A.] $\dfrac{4}{3}$
+    \item[B.] $\dfrac{5}{4}$
+    \item[C.] $\dfrac{\sqrt{2}}{2}$
+    \item[D.] $\dfrac{\sqrt{6}}{2}$
+    \item[E.] $\dfrac{\sqrt{6}}{3}$
+\end{itemize}
+\end{minipage}
+\begin{minipage}{0.4\textwidth}
+% TODO: Insert image of triangle ABC with 75 degrees at A and 60 degrees at B
+\end{minipage}
+
+\vfill
+\noindent 99-CE-MATHS 2--12 \hfill -- 11 -- \\
+\textcopyright \ 保留版權 All Rights Reserved 1999
+
+\end{document}
+
+19. In the figure, find $x$ correct to 1 decimal place.
+
+\begin{minipage}{0.5\textwidth}
+\begin{itemize}
+    \item[A.] 15.0
+    \item[B.] 18.4
+    \item[C.] 22.5
+    \item[D.] 24.1
+    \item[E.] 26.6
+\end{itemize}
+\end{minipage}
+\begin{minipage}{0.5\textwidth}
+% TODO: Insert image of triangle with x degrees
+\end{minipage}
+
+20. In the figure, $ABCD$ is a parallelogram. Find $\angle ABC$ correct to the nearest degree.
+
+\begin{minipage}{0.5\textwidth}
+\begin{itemize}
+    \item[A.] $83^\circ$
+    \item[B.] $97^\circ$
+    \item[C.] $104^\circ$
+    \item[D.] $124^\circ$
+    \item[E.] $139^\circ$
+\end{itemize}
+\end{minipage}
+\begin{minipage}{0.5\textwidth}
+% TODO: Insert image of parallelogram ABCD
+\end{minipage}
+
+\vfill
+\noindent 99-CE-MATHS 2--13 \hfill $- 12 -$ \hfill Go on to the next page $\blacktriangleright$
+
+\end{document}
+
+21. In the figure, a square is inscribed in a circle with radius $1\text{ cm}$. Find the area of the shaded region.
+
+\begin{minipage}{0.6\textwidth}
+\begin{itemize}
+    \item[A.] $(\pi - 2)\text{ cm}^2$
+    \item[B.] $(\pi - \sqrt{2})\text{ cm}^2$
+    \item[C.] $(\pi - 1)\text{ cm}^2$
+    \item[D.] $(2\pi - 2)\text{ cm}^2$
+    \item[E.] $(2\pi - 1)\text{ cm}^2$
+\end{itemize}
+\end{minipage}
+\begin{minipage}{0.35\textwidth}
+% TODO: Insert image of circle with inscribed square
+\end{minipage}
+
+22. The figure shows a right prism. Find its total surface area.
+
+\begin{minipage}{0.6\textwidth}
+\begin{itemize}
+    \item[A.] $104\text{ cm}^2$
+    \item[B.] $108\text{ cm}^2$
+    \item[C.] $114\text{ cm}^2$
+    \item[D.] $120\text{ cm}^2$
+    \item[E.] $140\text{ cm}^2$
+\end{itemize}
+\end{minipage}
+\begin{minipage}{0.35\textwidth}
+% TODO: Insert image of right prism
+\end{minipage}
+
+\vspace{2cm}
+\noindent 99-CE-MATHS 2--14 \hfill $- 13 -$ \\
+\copyright\ 保留版權 All Rights Reserved 1999
+
+\end{document}
+
+23. In the figure, a cylindrical vessel of internal diameter $6\text{ cm}$ contains some water. A steel ball of radius $2\text{ cm}$ is completely submerged in the water. Find the rise in the water level.
+
+% TODO: Insert figure here
+\begin{center}
+    % Placeholder for the cylindrical vessel diagram
+    \includegraphics[width=0.5\linewidth]{figure_placeholder.png}
+\end{center}
+
+\begin{itemize}
+    \item[A.] $\dfrac{32}{27}\text{ cm}$
+    \item[B.] $\dfrac{8}{27}\text{ cm}$
+    \item[C.] $\dfrac{16}{9}\text{ cm}$
+    \item[D.] $\dfrac{4}{9}\text{ cm}$
+    \item[E.] $\dfrac{8}{3}\text{ cm}$
+\end{itemize}
+
+\vfill
+\noindent 99-CE-MATHS 2--15 \hfill $- 14 -$ \hfill Go on to the next page $\blacktriangleright$ \\
+\textcopyright\ \ 保留版權 All Rights Reserved 1999
+
+\end{document}
+
+24. In the figure, the solid consists of a right circular cone and a hemisphere with a common base. Find the volume of the solid.
+
+\begin{itemize}
+    \item[A.] $30\pi \text{ cm}^3$
+    \item[B.] $33\pi \text{ cm}^3$
+    \item[C.] $48\pi \text{ cm}^3$
+    \item[D.] $54\pi \text{ cm}^3$
+    \item[E.] $72\pi \text{ cm}^3$
+\end{itemize}
+
+% TODO: Insert image for question 24
+\vspace{1cm}
+
+25. In the figure, $ABCD$ is a semicircle. Find the area of the shaded region correct to the nearest $0.01 \text{ cm}^2$.
+
+\begin{itemize}
+    \item[A.] $5.33 \text{ cm}^2$
+    \item[B.] $2.87 \text{ cm}^2$
+    \item[C.] $2.67 \text{ cm}^2$
+    \item[D.] $1.33 \text{ cm}^2$
+    \item[E.] $0.17 \text{ cm}^2$
+\end{itemize}
+
+% TODO: Insert image for question 25
+\vspace{1cm}
+
+26. In the figure, $O$ is the centre of the circle. Find $x$.
+
+\begin{itemize}
+    \item[A.] $12^\circ$
+    \item[B.] $20^\circ$
+    \item[C.] $24^\circ$
+    \item[D.] $40^\circ$
+    \item[E.] $60^\circ$
+\end{itemize}
+
+% TODO: Insert image for question 26
+\vspace{1cm}
+
+\noindent 99-CE-MATHS 2--16 \hfill $- 15 -$ \\
+\copyright \ 保留版權 All Rights Reserved 1999
+
+\end{document}
+
+27. In the figure, $AB$ is a diameter of the circle. Find $x$.
+
+\begin{itemize}
+    \item[A.] $26^\circ$
+    \item[B.] $32^\circ$
+    \item[C.] $38^\circ$
+    \item[D.] $52^\circ$
+    \item[E.] $64^\circ$
+\end{itemize}
+
+% TODO: Insert image for question 27
+\begin{center}
+    \includegraphics[width=0.4\textwidth]{question27_figure.png}
+\end{center}
+
+28. In the figure, $ACD$ and $ECB$ are straight lines. If $\angle EAC = \angle CAB$ and $EA = EB$, find $x$.
+
+\begin{itemize}
+    \item[A.] $22^\circ$
+    \item[B.] $34^\circ$
+    \item[C.] $44^\circ$
+    \item[D.] $46^\circ$
+    \item[E.] $68^\circ$
+\end{itemize}
+
+% TODO: Insert image for question 28
+\begin{center}
+    \includegraphics[width=0.4\textwidth]{question28_figure.png}
+\end{center}
+
+\vfill
+\noindent 99-CE-MATHS 2--17 \hfill $-16-$ \hfill Go on to the next page $\blacktriangleright$
+
+\end{document}
+
+29. In the figure, $ABCDE$ is a regular pentagon and $ABFG$ is a square. Find $x$.
+
+\begin{minipage}{0.5\textwidth}
+\begin{itemize}
+    \item[A.] $18^\circ$
+    \item[B.] $27^\circ$
+    \item[C.] $30^\circ$
+    \item[D.] $36^\circ$
+    \item[E.] $45^\circ$
+\end{itemize}
+\end{minipage}
+\begin{minipage}{0.5\textwidth}
+% TODO: Insert figure for question 29
+\end{minipage}
+
+30. In the figure, $AEB$ and $ADC$ are straight lines. Find $ED$.
+
+\begin{minipage}{0.5\textwidth}
+\begin{itemize}
+    \item[A.] $\dfrac{10}{3}$ cm
+    \item[B.] $\dfrac{40}{13}$ cm
+    \item[C.] $3$ cm
+    \item[D.] $\sqrt{40}$ cm
+    \item[E.] $\sqrt{80}$ cm
+\end{itemize}
+\end{minipage}
+\begin{minipage}{0.5\textwidth}
+% TODO: Insert figure for question 30
+\end{minipage}
+
+\vfill
+\noindent 99-CE-MATHS 2--18 \hfill $-17-$ \\
+\textcopyright\ All Rights Reserved 1999
+
+\end{document}
+
+31. $A(-4, 2)$ and $B(1, -3)$ are two points. $C$ is a point on the y-axis such that $AC = CB$. Find the coordinates of $C$.
+
+\begin{itemize}
+    \item[A.] $\left(-\frac{3}{2}, -\frac{1}{2}\right)$
+    \item[B.] $(-1, 0)$
+    \item[C.] $(1, 0)$
+    \item[D.] $(0, -1)$
+    \item[E.] $(0, 1)$
+\end{itemize}
+
+32. In the figure, $OABC$ is a parallelogram. If the equation of $OC$ is $2x - y = 0$ and the length of $CB$ is 3, find the equation of $AB$.
+
+\begin{minipage}{0.5\textwidth}
+\begin{itemize}
+    \item[A.] $x - 2y - 3 = 0$
+    \item[B.] $2x - y - 3 = 0$
+    \item[C.] $2x - y + 3 = 0$
+    \item[D.] $2x - y - 6 = 0$
+    \item[E.] $2x - y + 6 = 0$
+\end{itemize}
+\end{minipage}
+\begin{minipage}{0.4\textwidth}
+% TODO: Insert figure of parallelogram OABC
+\includegraphics[width=\linewidth]{figure_parallelogram.png}
+\end{minipage}
+
+\vspace{2cm}
+
+\noindent 99-CE-MATHS 2--19 \hfill $- 18 -$ \hfill Go on to the next page $\blacktriangleright$ \\
+\copyright\ 保留版權 All Rights Reserved 1999
+
+\end{document}
+
+33. Find the median and mode of the ten numbers
+6 , 8 , 3 , 3 , 5 , 5 , 5 , 7 , 7 , 11 .
+
+\begin{itemize}
+    \item[A.] median = 5 , mode = 5
+    \item[B.] median = 5 , mode = 5.5
+    \item[C.] median = 5.5 , mode = 5
+    \item[D.] median = 5.5 , mode = 6
+    \item[E.] median = 6 , mode = 5
+\end{itemize}
+
+34. A student scored 50 marks in a test and the corresponding standard
+score is $-0.5$ . If the mean of the test scores is 60 marks, find the
+standard deviation of the scores.
+
+\begin{itemize}
+    \item[A.] $\sqrt{20}$ marks
+    \item[B.] 5 marks
+    \item[C.] 9.5 marks
+    \item[D.] 10 marks
+    \item[E.] 20 marks
+\end{itemize}
+
+\vfill
+99-CE-MATHS 2–20 \hfill – 19 – \\
+\copyright\ 保留版權 All Rights Reserved 1999
+
+\end{document}
+
+35. Two cards are drawn randomly from four cards numbered 1, 2, 3 and 4 respectively. Find the probability that the sum of the numbers drawn is odd.
+
+\begin{itemize}
+    \item[A.] $\frac{1}{6}$
+    \item[B.] $\frac{1}{4}$
+    \item[C.] $\frac{1}{3}$
+    \item[D.] $\frac{1}{2}$
+    \item[E.] $\frac{2}{3}$
+\end{itemize}
+
+36. Tom and Mary each throws a dart. The probability of Tom's dart hitting the target is $\frac{1}{3}$ while that of Mary's is $\frac{2}{5}$. Find the probability of only one dart hitting the target.
+
+\begin{itemize}
+    \item[A.] $\frac{2}{15}$
+    \item[B.] $\frac{3}{15}$
+    \item[C.] $\frac{7}{15}$
+    \item[D.] $\frac{11}{15}$
+    \item[E.] $\frac{13}{15}$
+\end{itemize}
+
+\vfill
+\noindent 99-CE-MATHS 2--21 \hfill $- 20 -$ \hfill Go on to the next page \\
+\copyright\ 保留版權 All Rights Reserved 1999
+
+\end{document}
+
+\section*{Section B}
+
+37. In the figure, a right circular cone is divided into two parts $X$ and $Y$ by a plane parallel to the base such that the lengths of their slant edges are $4\text{ cm}$ and $3\text{ cm}$ respectively. Find the ratio of the curved surface areas of $X$ and $Y$.
+
+% TODO: Insert figure here
+\begin{center}
+    % Placeholder for the cone diagram
+\end{center}
+
+\begin{itemize}
+    \item[A.] $16 : 9$
+    \item[B.] $16 : 33$
+    \item[C.] $16 : 49$
+    \item[D.] $64 : 27$
+    \item[E.] $64 : 279$
+\end{itemize}
+
+38. It is given that $F(x) = x^3 - 4x^2 + ax + b$. $F(x)$ is divisible by $x - 1$. When it is divided by $x + 1$, the remainder is $12$. Find $a$ and $b$.
+
+\begin{itemize}
+    \item[A.] $a = 5 \text{ , } b = 10$
+    \item[B.] $a = 1 \text{ , } b = 2$
+    \item[C.] $a = -3 \text{ , } b = 6$
+    \item[D.] $a = -4 \text{ , } b = 7$
+    \item[E.] $a = -7 \text{ , } b = 10$
+\end{itemize}
+
+\vfill
+\noindent 99-CE-MATHS 2--22 \hfill $- 21 -$ \\
+\copyright\ All Rights Reserved 1999
+
+\end{document}
+
+39. If $\displaystyle \frac{1}{2}\log y = 1 + \log x$ , then
+
+\begin{itemize}
+    \item[A.] $y = \sqrt{10x}$ .
+    \item[B.] $y = 100 + x^2$ .
+    \item[C.] $y = (10 + x)^2$ .
+    \item[D.] $y = 10x^2$ .
+    \item[E.] $y = 100x^2$ .
+\end{itemize}
+
+40. $\displaystyle \frac{2}{x^2 - 1} - \frac{x - 1}{x^2 - 2x - 3} =$
+
+\begin{itemize}
+    \item[A.] $\displaystyle \frac{-x^2 + 2x + 5}{(x - 1)(x + 1)(x + 3)}$ .
+    \item[B.] $\displaystyle \frac{-x^2 + 2x + 7}{(x - 1)(x + 1)(x + 3)}$ .
+    \item[C.] $\displaystyle \frac{-x^2 - 5}{(x - 3)(x - 1)(x + 1)}$ .
+    \item[D.] $\displaystyle \frac{x^2 - 5}{(x - 3)(x - 1)(x + 1)}$ .
+    \item[E.] $\displaystyle \frac{-x^2 + 4x - 7}{(x - 3)(x - 1)(x + 1)}$ .
+\end{itemize}
+
+\vfill
+\noindent 99-CE-MATHS 2--23 \hfill $- 22 -$ \hfill Go on to the next page $\blacktriangleright$
+
+\end{document}
+
+
+
+43. In the figure, find the point $(x, y)$ in the shaded region (including the boundary) at which $bx - ay + 3$ attains its greatest value.
+
+\begin{minipage}{0.5\textwidth}
+\begin{itemize}
+    \item[A.] $(0, 0)$
+    \item[B.] $(-a, b)$
+    \item[C.] $(a, b)$
+    \item[D.] $(b, -a)$
+    \item[E.] $(b, a)$
+\end{itemize}
+\end{minipage}
+\begin{minipage}{0.4\textwidth}
+% TODO: Insert figure here
+\includegraphics[width=\linewidth]{figure_43.png}
+\end{minipage}
+
+44. The sum of the first two terms of a geometric sequence is $3$ and the sum to infinity of the sequence is $4$. Find the common ratio of the sequence.
+
+\begin{itemize}
+    \item[A.] $-\frac{1}{7}$
+    \item[B.] $\frac{1}{7}$
+    \item[C.] $\frac{1}{4}$
+    \item[D.] $-\frac{1}{2}$
+    \item[E.] $-\frac{1}{2}$ or $\frac{1}{2}$
+\end{itemize}
+
+\vfill
+\noindent 99-CE-MATHS 2--25 \hfill $- 24 -$ \hfill Go on to the next page $\blacktriangleright$
+
+\end{document}
+
+45. It is given that $y$ varies inversely as $x^3$. If $x$ is increased by $100\%$, then $y$ is
+\begin{itemize}
+    \item[A.] increased by $800\%$.
+    \item[B.] increased by $700\%$.
+    \item[C.] decreased by $300\%$.
+    \item[D.] decreased by $87.5\%$.
+    \item[E.] decreased by $12.5\%$.
+\end{itemize}
+
+46. $\dfrac{\cos(90^\circ - A)\cos(-A)}{\sin(360^\circ - A)} =$
+\begin{itemize}
+    \item[A.] $-\cos A$.
+    \item[B.] $\cos A$.
+    \item[C.] $\sin A$.
+    \item[D.] $-\dfrac{\cos^2 A}{\sin A}$.
+    \item[E.] $\dfrac{\cos^2 A}{\sin A}$.
+\end{itemize}
+
+47. If $0 \le \theta \le 2\pi$, solve $(\cos \theta - 3)(3 \sin \theta - 2) = 0$ correct to 3 significant figures.
+\begin{itemize}
+    \item[A.] $0.730$ or $1.23$
+    \item[B.] $0.730$ or $2.41$
+    \item[C.] $0.730$ or $3.87$
+    \item[D.] $0.730$ or $6.21$
+    \item[E.] $0.734$ or $2.41$
+\end{itemize}
+
+\vfill
+\noindent 99-CE-MATHS 2--26 \hfill $- 25 -$ \\
+\copyright\ \text{保留版權 All Rights Reserved 1999}
+
+\end{document}
+
+48. The figure shows five sectors. Which of the marked angles measures 2 radians?
+
+% TODO: Insert image of the five sectors here
+\begin{figure}[h]
+    \centering
+    % TODO: Placeholder for the figure showing sectors a, b, c, d, e
+\end{figure}
+
+\begin{itemize}
+    \item[A.] $a$
+    \item[B.] $b$
+    \item[C.] $c$
+    \item[D.] $d$
+    \item[E.] $e$
+\end{itemize}
+
+\vfill
+\noindent 99-CE-MATHS 2--27 \hfill $- 26 -$ \hfill Go on to the next page $\blacktriangleright$ \\
+\copyright\ 保留版權 All Rights Reserved 1999
+
+\end{document}
+
+\newpage
+
+49. In the figure, $ABCDEFGH$ is a rectangular block. Find the inclination of $EM$ to the plane $ABCD$ correct to the nearest degree.
+
+\begin{minipage}{0.5\textwidth}
+\begin{itemize}
+    \item[A.] $23^\circ$
+    \item[B.] $25^\circ$
+    \item[C.] $65^\circ$
+    \item[D.] $71^\circ$
+    \item[E.] $75^\circ$
+\end{itemize}
+\end{minipage}
+\begin{minipage}{0.5\textwidth}
+% TODO: Insert figure for question 49
+\end{minipage}
+
+50. In the figure, $AT$ is tangent to the circle at $T$ and $ABC$ is a straight line. Find $AT$.
+
+\begin{minipage}{0.5\textwidth}
+\begin{itemize}
+    \item[A.] $9\text{ cm}$
+    \item[B.] $12\text{ cm}$
+    \item[C.] $15\text{ cm}$
+    \item[D.] $16\text{ cm}$
+    \item[E.] $20\text{ cm}$
+\end{itemize}
+\end{minipage}
+\begin{minipage}{0.5\textwidth}
+% TODO: Insert figure for question 50
+\end{minipage}
+
+\vspace{2cm}
+
+\noindent 99-CE-MATHS 2--28 \hfill $- 27 -$ \\
+\copyright\ \text{保留版權 All Rights Reserved 1999}
+
+\end{document}
+
+51. In the figure, find the equation of the circle with $AB$ as a diameter.
+
+\begin{minipage}{0.6\textwidth}
+\begin{itemize}
+    \item[A.] $x^2 + y^2 - 2x + 2y - 23 = 0$
+    \item[B.] $x^2 + y^2 - 2x + 2y - 3 = 0$
+    \item[C.] $x^2 + y^2 + 2x - 2y - 23 = 0$
+    \item[D.] $x^2 + y^2 + 2x - 2y - 3 = 0$
+    \item[E.] $x^2 + y^2 - 25 = 0$
+\end{itemize}
+\end{minipage}
+\begin{minipage}{0.35\textwidth}
+% TODO: Insert image of circle with diameter AB
+\end{minipage}
+
+52. The figure shows a circle centred at $C$ and passing through $O(0, 0)$, $A(6, 0)$ and $B(0, 8)$. Which of the following must be true?
+
+\begin{minipage}{0.6\textwidth}
+\begin{itemize}
+    \item[I.] $C$ lies on the line $\frac{x}{6} + \frac{y}{8} = 1$.
+    \item[II.] The radius of the circle is $10$.
+    \item[III.] $OC$ is perpendicular to $AB$.
+\end{itemize}
+
+\begin{itemize}
+    \item[A.] I only
+    \item[B.] II only
+    \item[C.] I and II only
+    \item[D.] I and III only
+    \item[E.] I, II and III
+\end{itemize}
+\end{minipage}
+\begin{minipage}{0.35\textwidth}
+% TODO: Insert image of circle passing through O, A, B
+\end{minipage}
+
+\vfill
+\noindent 99-CE-MATHS 2--29 \hfill $- 28 -$ \hfill Go on to the next page
+
+\end{document}
+
+53. Two circles with equations $(x+1)^2 + (y+1)^2 = 25$ and $(x-11)^2 + (y-8)^2 = 100$ touch each other externally at a point $P$. Find the coordinates of $P$.
+
+\begin{itemize}
+    \item[A.] $(-3, -2)$
+    \item[B.] $\left(\frac{7}{5}, \frac{4}{5}\right)$
+    \item[C.] $(3, 2)$
+    \item[D.] $\left(5, \frac{7}{2}\right)$
+    \item[E.] $(7, 5)$
+\end{itemize}
+
+54. In the figure, $ABCD$ is a rectangle. $M$ is the midpoint of $BC$ and $AC$ intersects $MD$ at $N$.
+Area of $\Delta NCD$ : area of $ABMN =$
+
+\begin{itemize}
+    \item[A.] $1 : 2$.
+    \item[B.] $1 : 3$.
+    \item[C.] $2 : 3$.
+    \item[D.] $2 : 5$.
+    \item[E.] $4 : 7$.
+\end{itemize}
+
+% TODO: Insert figure here
+\begin{center}
+    \includegraphics[width=0.4\textwidth]{figure_placeholder.png}
+\end{center}
+
+\begin{center}
+    \textbf{END OF PAPER}
+\end{center}
+
+\vspace{1cm}
+\noindent 99-CE-MATHS 2--30 \hfill -- 29 -- \\
+\copyright \ 保留版權 All Rights Reserved 1999
+
+\end{document}
+
+\newpage
+
+\begin{center}
+\textbf{1999 Mathematics (Paper 2)}
+\end{center}
+
+\vspace{1em}
+
+\begin{tabularx}{\textwidth}{XXXX}
+\textbf{Question No.} & \textbf{Key} & \textbf{Question No.} & \textbf{Key} \\
+\\
+1. & A & 31. & E \\
+2. & B & 32. & D \\
+3. & D & 33. & C \\
+4. & B & 34. & E \\
+5. & E & 35. & E \\
+\\
+6. & C & 36. & C \\
+7. & A & 37. & B \\
+8. & D & 38. & E \\
+9. & A & 39. & E \\
+10. & D & 40. & E \\
+\\
+11. & C & 41. & C \\
+12. & C & 42. & B \\
+13. & C & 43. & D \\
+14. & B & 44. & E \\
+15. & E & 45. & D \\
+\\
+16. & A & 46. & A \\
+17. & B & 47. & B \\
+18. & D & 48. & E \\
+19. & B & 49. & C \\
+20. & B & 50. & C \\
+\\
+21. & A & 51. & A \\
+22. & E & 52. & A \\
+23. & A & 53. & C \\
+24. & A & 54. & D \\
+25. & D & & \\
+\\
+26. & D & & \\
+27. & C & & \\
+28. & B & & \\
+29. & B & & \\
+30. & A & & \\
+\end{tabularx}
+
+\vspace{2em}
+
+\noindent \includegraphics[width=0.03\textwidth]{logo_placeholder} \copyright\ 保留版權 All Rights Reserved 1999

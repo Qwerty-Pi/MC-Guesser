@@ -1,20 +1,700 @@
-Form 5 HKCE Mathen 81 (a2b−3)2 1. a−2b$ Ⅱ A. $a^{b−7$ B. a2b− C. $a^{2}$ D. $a{bb$ E. abb-7$ 81 $x++$ 1 2. 1 1 + + X x+1 x-1 1 = x X A. 1 x+1 B. 1 x-1 C. $x+$ $x-1$ D. 1 (x+1)(x−1) E. $x^{2+4x+1$ (x+1)(x−1) 81 -bx+ay−c 3. Ifx= a+by ,theny= A. $ax+ bx+c a−bx B. ax+ bx+c a−bx C. ax+bx +c a+bx D. ax+bx+c a+ bx$ E. ax-bx−c a−bx 81 (2{)==$ 4. 81-CE-MATHS II
-E 1981 naticsII A. 2(x) B. $2^}·x^}$ C. 2x$ D. 22t E. 2(2) 81 x y −1 5. + +2 y x x y = y x$ A. x−y $x+y$ B. $x+y$ $x-y C. $x +y$ x-y D. $x^{2+2}$ $x^{2}$ E. $x^{2}$ 2−y2 $x {2+}}$ 81 IfH=K+ M 6. 4(r2+I2)n and r > 0, then r= A. M 7-w −r2 4(H-K) B. M ke | r4 −l 4(H−K) C. 1 M | ~ n 4(H−K) −2
-D. 2n , M 4(H−K) −I E. 2 1 4π n M(H−K) ${$ 81 Iff(x)=x²+x+1,thenf(x+1)−f(x) 7. A. 1 B. 3 C. 2x+1 D. 2x+2 E. $x^{2+x+1$ 81 Iflog10x+log104=log10(x+4),what is 8. the value of x? A. 0 B. 1 C. 4 3 D. 4 E. xmay be any positive number 81 It is given that 9. x(2x+3）=x(3x-4）.x=？ A. 0 only B. 7 only C. 0 or 7 D. 3  43 or only 2 E. 0, 3 4 2 or $\}$ 81 2y-3>4y +2x+5isequivalent to 10. A. $y>x+4$ B.$y<x+4$ C. y>-x-4$ D. y<-x-4 E. y>x+1$ 81-CE-MATHS II
-81 The nth term of the arithmetic 11. progression2,6,10,14,.….is A. 2n2 B. 4n C. 4n−2 D. 4n+2 E. 6-4n 81 If3x-2y=x+3y，thenx²:y2 12. A. 2:5 B. 5:2 C. 4:25 D. 25:4 E. 1:4 81 The marked price of a book is $x. 30% 13. of this price is profit. If the book is sold at a discount of 20%,what will the profit then be? A. $0.04 B. $0.06x C. $0.1x D. $0.24x E. $0.56x 81 A group consists of n boys and n girls. 14. If two of the girls are exceeded by two other boys， then 51%ofthe group members will be boys. What is n? A. 50 B. 51 C. 52 D. 100 E. 102 81 If the surface area of a spherical soap 15. bubble increases by 44%, its volume increases by A. 20% B. 33.1% C. 60% D. 66% E. 72.8%
-81 B 16. A The total area of the six faces of the solid cube in the figure is 96 cm2 What is the length of the diagonal AB? A. $6\sq2} c$ B. $4\s3 c cm C.$4\s2}cm$ D.$2\s6cmm$ E. 4 cm 81 A merchant sold 100 chairs. 80 of 17. them were sold at a profit of 30%on each chair, while 20 of them were sold at a loss of 40% on each chair. What is his percentage gain or loss on the whole stock? A.A loss of 8% B.A loss of10% C. A gain of 8% D. A gain of 16 % E. A gainof 24% 81 If0°<θ<90°and sinθ= k 18. 2 then cos θ = A. 1- k 2 B. 2 $√4+k}$ C. $√+k}$ 2 81-CE-MATHS II
-D. 2 √4−k2 E. √4-k2$ 2 81 tan θ sin θ− 1 19. cosθ A. 0 B. cos θ C. -cos θ D. -1 cosθ E. -tanθsinθ 81 If 0°≤θ≤360,the number ofroots of 20. the equation 2sin θcos θ−cos θ=0is A. 0 B. 1 C. 2 D. 3 E. 4 81 An angle measures x radians. What is 21. its measure in degrees? A. 180 B. (180x) π C. π 0 （180x D. π$ 360 E. 360x π
-81 22. 1 In the figure, cos θ= A. 122-33-4 B. C. D. 323 E. 4 81 c4 23. q D P A θ 厂 B Inthe figure, AD=p, DC=q, ∠B = $90{°. AB= A. p sin θ+q sin B. p cos θ+q cos φ C.p sin θ +qcos φ D. p cos θ+q sin φ E. (p + q)(cos θ+ cos φ) 81-CE-MATHS II
-81 24. C D x0 B 38° E A In the figure,BE is a diameter of the circle. ABC and EDC are straight lines. $x^{$ = A. 21° B. 31° C. 38° D. 52° E. 59° 81 C 25. B A θ T In the figure, AT touches the circle at A. In△ABC,∠A:∠B:∠C=2:3:4.θ Ⅱ A. 40° B. 50° C. 60° D. 70° E. 80°
-81 26. 0 A 240 B C D In the figure, AB is a diameter of the circle with centre at O. The lengthof the minor arc AC in twice the length of the minor arc CD. ∠BOD= A. 72° B. 90 C. 108°} D. 132° E. 144° 81 A 27. P 120° Q In the figure, two circles both with radius 2 cm touch each other externally. AP and AQ are equal tangents to the two circles.AP=? A.$\s{ cm B. $2\s3}}{3 cm$ C. 4 cm D. $4\s3}{3 c$ E. $4\sqr{3}$ 3 cm 81-CE-MATHS II
-81 A D 28. B C In the figure, ABCD is a quadrilateral. The shaded portions are four sectors with centres at A,B,Cand D.Their radii are all equal to a. What is the total area of the four sectors? A.$a{$ B. $2a2 C. 4a2 D.\sa}$ E. It cannot be determined 81 2x²-2≤0isequivalent to 29. A.x≤1 B.≥-1 C. -1≤x≤1 D. − x≥1orx≤-1 E. x≤1orx≥-1 81 y 30. ↑ 10 9 A 8 7 B E 6 5 4 3 C 2 1 D 0 8 9 10 →x 1 2 3 4 5 6 7 In the figure, which point in the shaded region will make the value of x -2ya minimum
-A. A B. B C. C D. D E. E 81 6x²+kx +6=0is a quadraticequation 31. in which k is a constant. Its roots α and βare positive.log1o+log10= A. 0 B. 1 C. log106 D. log10(−k) E. log1o( k 6 81 -3x²-3x=-3（x+a)2+bisanidentity 32. in x. What are the values of the constants a and b? A. a=1and =0 B. 1 and b = 3 a= 2 4 C. 1 and = 3 a= 2 4 D. 1 and b = 3 a= 2 4 E. 1 and b = 3 a= 2 4 81 The H.C.F. and L.C.M. of three 33. expressions are a2b2c and a4b6c4 respectively. Two of the expressions area2b3canda3b²2c2. The third expression is A. a3b3c B. a3bbc4 C. $a^{b2c D. $a^{b6c E. $a^{62}$ 81 The sum of the first five terms of an 34. arithmetic progression is 15. If the fourth term is 7, the first term is 81-CE-MATHS II
-A. −5 B. −3 C. −1 D. 1 E. 10 81 Which of the following can be summed 35. to infinity? I. The arithmetic progression 4,3,2,1, II. The geometric progression 27,9,3,1, III. The geometric progression 16, −8, 4, −2, A. II only B. I and II only C. I and III only D. II and III only E. I, II and III 81 The running speeds of three boys A, B 36. and C are in the ratios a :b :c.The times that A,B and C take to complete a1500 m race are in the ratios A. a:b:c B. c:b:a C. b+c:a+c:a+b D. 111 a b C E. a b C bc a 81 If n is a positive integer, which of the 37. following numbers is/are odd? I. 22n + 1 II. 3(2") III. (2n+1)2 A. II only B. IIIonly C. I and III only D. II and III only E. I, II and III
-81 A factory employs x workers each 38. working n hours a day. The whole factory produces k watches per day. If y workers go on leave, then how many hours a day should the remaining workers work in order to produce the same number of watches per day A. nx y B. ny x C. nx 4y D. nx x-y E. $n(x−y) x 81 The daily wages of a man and a boy are 39. in the ratio 2 :1. In a day a man has to work 8 hours but a boy only 6 hours. The hourly wages of a man and a boy are in the ratio A. 8:3 B. 2:1 C. 3:2 D. 4:3 E. 1:1 81 A 40. 8 5 B x C E D Inthefigure,∠BAC=90°，AB=8 AC=5 and AX⊥BC. BCDEisa rectangle with CD = AX. What is the area of the rectangle BCDE? A. 20 B. 40 C. 80 D. 89 81-CE-MATHS II
-E. 4\88 81 41. h 下 -2 h 1 The height of the cone in the figure is h. It contains water to a depth of 1| h. 2 Volume of water Capacity of the cone I A. 1 |∞ B. 1 4 C. 1 2 D 3 4 E. 7|8 81 4 50m 42. X Y B 口 4 12 m 2m I E C ★ E D ←30m→ The figure above represents a 50m × 20m swimming pool. The pool is in the shape of a prism with a rectangular surface and four vertical walls. The dimensions of the sidewall ABCDEF are as shown in the figure. What is the capacity of the pool in m3? A. 1200 B. 1500
-C. 1800 D. 2000 E. It cannot be determined 81 Given that sin θ-cos θ= 1 43. what is 2 the value of sin θ cos θ? A. 1 2 B. 1 4 C. 3 8 D. 34 E. It cannot be determined 81 If 0°≤θ≤360,the minimum value of 44. 1 + 2cos θ  is 2 A. -2 B. −1 C. 0 D. 1 E. 2 81 y 45. 1 + 90 180 270 x 360 The figure above shows the graph of A.y=sin(x{0+30°) B.y=sin(x{-3(°) C.y=sin(x{°+150(°) D.y=sin(x{0-150°) E.y=sin(x°+60°) 81-CE-MATHS II
-81 The radius of a sector is 3 cm and the 46. perimeter is 10 cm. What is the area of the sector? A. 6cm2 B. 12 cm2 C. 15 cm2 D. 18 cm2 E. 45 cm2 81 47. 12 cm 12 cm 600 Figure (a) Figure (b) The cone in Figure (b) is formed by bending the sector in Figure (a). The angle of the sector is 60° and the radius is 12 cm. The radius of the base of the cone is A. 2 cm B. 4 cm C. 6 cm D. 2πcm E. 360 cm π 81 48. 16 10 θ 10 In the figure, sin θ= A. 0.5 B. 0.6 C. 0.625 D. 0.75 E. 0.8
-81 49. A α β B 口 D In the figure,AD⊥BC.CD= A. h sin tan B. h cos tan β C. h tan sin D. hcosα tan E. hsinα tan β 81 A 50. P Q B C S R In the figure, ABC is an equilateral triangleof side 2a. Pand Qare the mid-points of AB and AC respectively. PQRS is a rectangle. What is the area of PQRS? A. a2 B. 1223 2 C. 2 D. 1 \3 2 E. \s}$ 2 3 81-CE-MATHS II
-81 A 51. P θ C B Inthe figure, AB and AC touch the circle at B and C.If P is any point on the minor arc BC,what is ? A. 112° B. 118° C. 124° D. 146° E. It cannot be determined 81 I A 52. B h D C ∠BAC=90° AD⊥BC. ⅡI A B E D C ACand BC intersect at E.
-III A T C B BC produced meets the tangent AT at T. Which of the above figures contains one or more pairs of similar triangles? A. I only B. I and ⅡI only C. I and III only D. II and III only E. I II and III 81 A 53. F E B C In the figure, P is the mid-point of AB. E is a point on AC such that Area of ΔBFE AE:EC=2:1. Area of ΔBCE Ⅱ A. 1 223 B. C. 1 D. 3 2 E. 2 81-CE-MATHS II
-81 A 54. 12 E C 6 B D F In the figure,AB // CD∥ EF.ACF BCE and BDF are straight lines. AB=12,EF=6.CD=? A. 4.5 B. 4 C. 3.6 D. 3 E. 2
+\documentclass{article}
+\usepackage{amsmath,graphicx,geometry,tabularx}
+\geometry{margin=1in}
+\begin{document}
+
+\noindent Form 5 \hfill \textbf{HKCEE 1981} \\
+\centerline{\textbf{Mathematics II}}
+
+\vspace{1em}
+
+\noindent 81 1. $\dfrac{(a^2b^{-3})^2}{a^{-2}b} =$
+\begin{itemize}
+    \item[A.] $a^2b^{-7}$
+    \item[B.] $a^2b^{-5}$
+    \item[C.] $a^6b^{-2}$
+    \item[D.] $a^6b^{-6}$
+    \item[E.] $a^6b^{-7}$
+\end{itemize}
+
+\noindent 81 2. $\dfrac{1}{x+1} + \dfrac{1}{x-1} + \dfrac{x+\dfrac{1}{x}}{x-\dfrac{1}{x}} =$
+\begin{itemize}
+    \item[A.] $\dfrac{1}{x+1}$
+    \item[B.] $\dfrac{1}{x-1}$
+    \item[C.] $\dfrac{x+1}{x-1}$
+    \item[D.] $\dfrac{1}{(x+1)(x-1)}$
+    \item[E.] $\dfrac{x^2+4x+1}{(x+1)(x-1)}$
+\end{itemize}
+
+\noindent 81 3. If $x = \dfrac{-bx+ay-c}{a+by}$, then $y =$
+\begin{itemize}
+    \item[A.] $\dfrac{ax+bx+c}{a-bx}$
+    \item[B.] $\dfrac{ax+bx+c}{a-bx}$
+    \item[C.] $\dfrac{ax+bx+c}{a+bx}$
+    \item[D.] $-\dfrac{a+bx}{ax+bx+c}$
+    \item[E.] $\dfrac{a+bx}{ax-bx-c}$
+\end{itemize}
+
+\noindent 81 4. $(2^x)^x =$
+\begin{itemize}
+    \item[A.] $2^{(x^x)}$
+    \item[B.] $2^x \cdot x^x$
+    \item[C.] $2^{x^x}$
+    \item[D.] $2^{2x}$
+    \item[E.] $2^{(x^2)}$
+\end{itemize}
+
+\noindent 81 5. $\left( \dfrac{\dfrac{x}{y} + \dfrac{y}{x} + 2}{\dfrac{x}{y} - \dfrac{y}{x}} \right)^{-1} =$
+\begin{itemize}
+    \item[A.] $\dfrac{x-y}{x+y}$
+    \item[B.] $\dfrac{x+y}{x-y}$
+    \item[C.] $-\dfrac{x+y}{x-y}$
+    \item[D.] $\dfrac{x^2+y^2}{x^2-y^2}$
+    \item[E.] $\dfrac{x^2-y^2}{x^2+y^2}$
+\end{itemize}
+
+\noindent 81 6. If $H = K + \dfrac{M}{4\pi(r^2+l^2)^n}$ and $r > 0$, then $r =$
+\begin{itemize}
+    \item[A.] $\left\{ \left[ \dfrac{M}{4\pi(H-K)} \right]^{-n} - r^2 \right\}^{\frac{1}{2}}$
+    \item[B.] $\left[ \dfrac{M}{4\pi(H-K)} \right]^{\frac{n}{2}} - l$
+    \item[C.] $\left\{ \left[ \dfrac{M}{4\pi(H-K)} \right]^{\frac{1}{n}} - l^2 \right\}^{\frac{1}{2}}$
+\end{itemize}
+
+\vspace{2em}
+\noindent 81-CE-MATHS II \hfill 1
+
+D. $\left[ \frac{M}{4\pi(H-K)} \right]^{\frac{1}{2n}} - 1$
+
+E. $\left\{ \left[ \frac{4\pi}{M(H-K)} \right]^{\frac{1}{n}} - 1^2 \right\}^{\frac{1}{2}}$
+
+817. If $f(x) = x^2 + x + 1$, then $f(x+1) - f(x)$
+\begin{itemize}
+    \item[A.] 1
+    \item[B.] 3
+    \item[C.] $2x + 1$
+    \item[D.] $2x + 2$
+    \item[E.] $x^2 + x + 1$
+\end{itemize}
+
+818. If $\log_{10}x + \log_{10}4 = \log_{10}(x + 4)$, what is the value of $x$?
+\begin{itemize}
+    \item[A.] 0
+    \item[B.] 1
+    \item[C.] $\frac{4}{3}$
+    \item[D.] 4
+    \item[E.] $x$ may be any positive number
+\end{itemize}
+
+819. It is given that $x(2x + 3) = x(3x - 4)$. $x = ?$
+\begin{itemize}
+    \item[A.] 0 only
+    \item[B.] 7 only
+    \item[C.] 0 or 7
+    \item[D.] $-\frac{3}{2}$ or $\frac{4}{3}$ only
+    \item[E.] $0, -\frac{3}{2}$ or $\frac{4}{3}$
+\end{itemize}
+
+8110. $2y - 3 > 4y + 2x + 5$ is equivalent to
+\begin{itemize}
+    \item[A.] $y > x + 4$
+    \item[B.] $y < x + 4$
+    \item[C.] $y > -x - 4$
+    \item[D.] $y < -x - 4$
+    \item[E.] $y > x + 1$
+\end{itemize}
+
+8111. The nth term of the arithmetic progression $2, 6, 10, 14, \dots$ is
+\begin{itemize}
+    \item[A.] $2n^2$
+    \item[B.] $4n$
+    \item[C.] $4n - 2$
+    \item[D.] $4n + 2$
+    \item[E.] $6 - 4n$
+\end{itemize}
+
+8112. If $3x - 2y = x + 3y$, then $x^2 : y^2 =$
+\begin{itemize}
+    \item[A.] $2 : 5$
+    \item[B.] $5 : 2$
+    \item[C.] $4 : 25$
+    \item[D.] $25 : 4$
+    \item[E.] $1 : 4$
+\end{itemize}
+
+8113. The marked price of a book is $\$x$. 30\% of this price is profit. If the book is sold at a discount of 20\%, what will the profit then be?
+\begin{itemize}
+    \item[A.] $\$0.04x$
+    \item[B.] $\$0.06x$
+    \item[C.] $\$0.1x$
+    \item[D.] $\$0.24x$
+    \item[E.] $\$0.56x$
+\end{itemize}
+
+8114. A group consists of $n$ boys and $n$ girls. If two of the girls are exceeded by two other boys, then 51\% of the group members will be boys. What is $n$?
+\begin{itemize}
+    \item[A.] 50
+    \item[B.] 51
+    \item[C.] 52
+    \item[D.] 100
+    \item[E.] 102
+\end{itemize}
+
+8115. If the surface area of a spherical soap bubble increases by 44\%, its volume increases by
+\begin{itemize}
+    \item[A.] 20\%
+    \item[B.] 33.1\%
+    \item[C.] 60\%
+    \item[D.] 66\%
+    \item[E.] 72.8\%
+\end{itemize}
+
+\vspace{1cm}
+81-CE-MATHS II \hfill 2
+
+\end{document}
+
+81
+16.
+\begin{minipage}{0.4\textwidth}
+% TODO: Insert figure here
+\end{minipage}
+
+The total area of the six faces of the solid cube in the figure is 96 cm$^2$. What is the length of the diagonal $AB$?
+
+\begin{itemize}
+    \item[A.] $6\sqrt{2}$ cm
+    \item[B.] $4\sqrt{3}$ cm
+    \item[C.] $4\sqrt{2}$ cm
+    \item[D.] $2\sqrt{6}$ cm
+    \item[E.] 4 cm
+\end{itemize}
+
+81
+17. A merchant sold 100 chairs. 80 of them were sold at a profit of 30\% on each chair, while 20 of them were sold at a loss of 40\% on each chair. What is his percentage gain or loss on the whole stock?
+
+\begin{itemize}
+    \item[A.] A loss of 8\%
+    \item[B.] A loss of 10\%
+    \item[C.] A gain of 8\%
+    \item[D.] A gain of 16 \%
+    \item[E.] A gain of 24\%
+\end{itemize}
+
+81
+18. If $0^\circ < \theta < 90^\circ$ and $\sin \theta = \dfrac{k}{2}$,
+
+then $\cos \theta =$
+
+\begin{itemize}
+    \item[A.] $1 - \dfrac{k}{2}$
+    \item[B.] $\dfrac{2}{\sqrt{4+k^2}}$
+    \item[C.] $\dfrac{\sqrt{4+k^2}}{2}$
+    \item[D.] $\dfrac{2}{\sqrt{4-k^2}}$
+    \item[E.] $\dfrac{\sqrt{4-k^2}}{2}$
+\end{itemize}
+
+81
+19. $\tan \theta \sin \theta - \dfrac{1}{\cos \theta} =$
+
+\begin{itemize}
+    \item[A.] 0
+    \item[B.] $\cos \theta$
+    \item[C.] $-\cos \theta$
+    \item[D.] $-\dfrac{1}{\cos \theta}$
+    \item[E.] $-\tan \theta \sin \theta$
+\end{itemize}
+
+81
+20. If $0^\circ \le \theta \le 360^\circ$, the number of roots of the equation $2 \sin \theta \cos \theta - \cos \theta = 0$ is
+
+\begin{itemize}
+    \item[A.] 0
+    \item[B.] 1
+    \item[C.] 2
+    \item[D.] 3
+    \item[E.] 4
+\end{itemize}
+
+81
+21. An angle measures $x$ radians. What is its measure in degrees?
+
+\begin{itemize}
+    \item[A.] $\left(\dfrac{\pi x}{180}\right)^\circ$
+    \item[B.] $\left(\dfrac{180x}{\pi}\right)^\circ$
+    \item[C.] $\left(\dfrac{\pi}{180x}\right)^\circ$
+    \item[D.] $\left(\dfrac{\pi x}{360}\right)^\circ$
+    \item[E.] $\left(\dfrac{360x}{\pi}\right)^\circ$
+\end{itemize}
+
+\vspace{1cm}
+81-CE-MATHS II \hfill 3
+
+\end{document}
+
+81
+22.
+\begin{center}
+% TODO: Insert image for problem 22
+\end{center}
+In the figure, $\cos \theta =$
+\begin{itemize}
+    \item[A.] $\dfrac{1}{2}$
+    \item[B.] $\dfrac{2}{3}$
+    \item[C.] $\dfrac{3}{4}$
+    \item[D.] $\dfrac{\sqrt{3}}{2}$
+    \item[E.] $\dfrac{\sqrt{3}}{4}$
+\end{itemize}
+
+81
+23.
+\begin{center}
+% TODO: Insert image for problem 23
+\end{center}
+In the figure, $AD = p$, $DC = q$, $\angle B = 90^\circ$. $AB =$
+\begin{itemize}
+    \item[A.] $p \sin \theta + q \sin \phi$
+    \item[B.] $p \cos \theta + q \cos \phi$
+    \item[C.] $p \sin \theta + q \cos \phi$
+    \item[D.] $p \cos \theta + q \sin \phi$
+    \item[E.] $(p + q)(\cos \theta + \cos \phi)$
+\end{itemize}
+
+81
+24.
+\begin{center}
+% TODO: Insert image for problem 24
+\end{center}
+In the figure, $BE$ is a diameter of the circle. $ABC$ and $EDC$ are straight lines. $x^\circ =$
+\begin{itemize}
+    \item[A.] $21^\circ$
+    \item[B.] $31^\circ$
+    \item[C.] $38^\circ$
+    \item[D.] $52^\circ$
+    \item[E.] $59^\circ$
+\end{itemize}
+
+81
+25.
+\begin{center}
+% TODO: Insert image for problem 25
+\end{center}
+In the figure, $AT$ touches the circle at $A$. In $\Delta ABC$, $\angle A : \angle B : \angle C = 2 : 3 : 4$. $\theta =$
+\begin{itemize}
+    \item[A.] $40^\circ$
+    \item[B.] $50^\circ$
+    \item[C.] $60^\circ$
+    \item[D.] $70^\circ$
+    \item[E.] $80^\circ$
+\end{itemize}
+
+\vfill
+81-CE-MATHS II \hfill 4
+
+\end{document}
+
+81
+26.
+\begin{minipage}{0.45\textwidth}
+% TODO: Insert image for problem 26
+\end{minipage}
+
+In the figure, $AB$ is a diameter of the circle with centre at $O$. The length of the minor arc $AC$ in twice the length of the minor arc $CD$. $\angle BOD =$
+
+\begin{itemize}
+    \item[A.] $72^\circ$
+    \item[B.] $90^\circ$
+    \item[C.] $108^\circ$
+    \item[D.] $132^\circ$
+    \item[E.] $144^\circ$
+\end{itemize}
+
+81
+27.
+\begin{minipage}{0.45\textwidth}
+% TODO: Insert image for problem 27
+\end{minipage}
+
+In the figure, two circles both with radius 2 cm touch each other externally. $AP$ and $AQ$ are equal tangents to the two circles. $AP =?$
+
+\begin{itemize}
+    \item[A.] $\sqrt{3}$ cm
+    \item[B.] $2\sqrt{3}$ cm
+    \item[C.] 4 cm
+    \item[D.] $4\sqrt{3}$ cm
+    \item[E.] $\frac{4\sqrt{3}}{3}$ cm
+\end{itemize}
+
+81
+28.
+\begin{minipage}{0.45\textwidth}
+% TODO: Insert image for problem 28
+\end{minipage}
+
+In the figure, $ABCD$ is a quadrilateral. The shaded portions are four sectors with centres at $A, B, C$ and $D$. Their radii are all equal to $a$. What is the total area of the four sectors?
+
+\begin{itemize}
+    \item[A.] $\pi a^2$
+    \item[B.] $2\pi a^2$
+    \item[C.] $4\pi a^2$
+    \item[D.] $\sqrt{2} \pi a^2$
+    \item[E.] It cannot be determined
+\end{itemize}
+
+81
+29. $2x^2 - 2 \leq 0$ is equivalent to
+
+\begin{itemize}
+    \item[A.] $x \leq 1$
+    \item[B.] $x \geq -1$
+    \item[C.] $-1 \leq x \leq 1$
+    \item[D.] $x \geq 1$ or $x \leq -1$
+    \item[E.] $x \leq 1$ or $x \geq -1$
+\end{itemize}
+
+81
+30.
+\begin{minipage}{0.45\textwidth}
+% TODO: Insert image for problem 30
+\end{minipage}
+
+In the figure, which point in the shaded region will make the value of $x - 2y$ a minimum
+
+\vfill
+81-CE-MATHS II \hfill 5
+
+\end{document}
+
+\begin{itemize}
+    \item[A.] $-5$
+    \item[B.] $-3$
+    \item[C.] $-1$
+    \item[D.] $1$
+    \item[E.] $10$
+\end{itemize}
+
+\noindent 8131. $6x^2 + kx + 6 = 0$ is a quadratic equation in which $k$ is a constant. Its roots $\alpha$ and $\beta$ are positive. $\log_{10}\alpha + \log_{10}\beta =$
+
+\begin{itemize}
+    \item[A.] $0$
+    \item[B.] $1$
+    \item[C.] $\log_{10}6$
+    \item[D.] $\log_{10}(-k)$
+    \item[E.] $\log_{10}(-\frac{k}{6})$
+\end{itemize}
+
+\noindent 8132. $-3x^2 - 3x = -3(x + a)^2 + b$ is an identity in $x$. What are the values of the constants $a$ and $b$?
+
+\begin{itemize}
+    \item[A.] $a = 1$ and $b = 0$
+    \item[B.] $a = \frac{1}{2}$ and $b = \frac{3}{4}$
+    \item[C.] $a = \frac{1}{2}$ and $b = -\frac{3}{4}$
+    \item[D.] $a = -\frac{1}{2}$ and $b = \frac{3}{4}$
+    \item[E.] $a = -\frac{1}{2}$ and $b = -\frac{3}{4}$
+\end{itemize}
+
+\noindent 8133. The H.C.F. and L.C.M. of three expressions are $a^2b^2c$ and $a^4b^6c^4$ respectively. Two of the expressions are $a^2b^3c^4$ and $a^3b^2c^2$. The third expression is
+
+\begin{itemize}
+    \item[A.] $a^3b^3c$
+    \item[B.] $a^3b^6c^4$
+    \item[C.] $a^4b^2c$
+    \item[D.] $a^4b^6c$
+    \item[E.] $a^4b^6c^2$
+\end{itemize}
+
+\noindent 8134. The sum of the first five terms of an arithmetic progression is $15$. If the fourth term is $7$, the first term is
+
+\noindent 8135. Which of the following can be summed to infinity?
+
+\begin{itemize}
+    \item[I.] The arithmetic progression $4, 3, 2, 1, \dots\dots$
+    \item[II.] The geometric progression $27, 9, 3, 1, \dots\dots$
+    \item[III.] The geometric progression $16, -8, 4, -2, \dots\dots$
+\end{itemize}
+
+\begin{itemize}
+    \item[A.] II only
+    \item[B.] I and II only
+    \item[C.] I and III only
+    \item[D.] II and III only
+    \item[E.] I, II and III
+\end{itemize}
+
+\noindent 8136. The running speeds of three boys $A$, $B$ and $C$ are in the ratios $a : b : c$. The times that $A$, $B$ and $C$ take to complete a $1500\text{ m}$ race are in the ratios
+
+\begin{itemize}
+    \item[A.] $a : b : c$
+    \item[B.] $c : b : a$
+    \item[C.] $b + c : a + c : a + b$
+    \item[D.] $\frac{1}{a} : \frac{1}{b} : \frac{1}{c}$
+    \item[E.] $\frac{a}{b} : \frac{b}{c} : \frac{c}{a}$
+\end{itemize}
+
+\noindent 8137. If $n$ is a positive integer, which of the following numbers is/are odd?
+
+\begin{itemize}
+    \item[I.] $2^{2n+1}$
+    \item[II.] $3(2^n)$
+    \item[III.] $(2n+1)^2$
+\end{itemize}
+
+\begin{itemize}
+    \item[A.] II only
+    \item[B.] III only
+    \item[C.] I and III only
+    \item[D.] II and III only
+    \item[E.] I, II and III
+\end{itemize}
+
+\vspace{1cm}
+\noindent 81-CE-MATHS II \hfill 6
+
+\end{document}
+
+81 38. A factory employs $x$ workers each working $n$ hours a day. The whole factory produces $k$ watches per day. If $y$ workers go on leave, then how many hours a day should the remaining workers work in order to produce the same number of watches per day?
+
+\begin{itemize}
+    \item[A.] $\dfrac{nx}{y}$
+    \item[B.] $\dfrac{ny}{x}$
+    \item[C.] $\dfrac{nx}{4y}$
+    \item[D.] $\dfrac{nx}{x - y}$
+    \item[E.] $\dfrac{n(x - y)}{x}$
+\end{itemize}
+
+81 39. The daily wages of a man and a boy are in the ratio $2 : 1$. In a day a man has to work 8 hours but a boy only 6 hours. The hourly wages of a man and a boy are in the ratio
+
+\begin{itemize}
+    \item[A.] $8 : 3$
+    \item[B.] $2 : 1$
+    \item[C.] $3 : 2$
+    \item[D.] $4 : 3$
+    \item[E.] $1 : 1$
+\end{itemize}
+
+81 40. 
+% TODO: Insert figure for question 40
+In the figure, $\angle BAC = 90^\circ$, $AB = 8$, $AC = 5$ and $AX \perp BC$. $BCDE$ is a rectangle with $CD = AX$. What is the area of the rectangle $BCDE$?
+
+\begin{itemize}
+    \item[A.] 20
+    \item[B.] 40
+    \item[C.] 80
+    \item[D.] 89
+    \item[E.] $4\sqrt{89}$
+\end{itemize}
+
+81 41. 
+% TODO: Insert figure for question 41
+The height of the cone in the figure is $h$. It contains water to a depth of $\dfrac{1}{2}h$.
+\[ \frac{\text{Volume of water}}{\text{Capacity of the cone}} = \]
+
+\begin{itemize}
+    \item[A.] $\dfrac{1}{8}$
+    \item[B.] $\dfrac{1}{4}$
+    \item[C.] $\dfrac{1}{2}$
+    \item[D.] $\dfrac{3}{4}$
+    \item[E.] $\dfrac{7}{8}$
+\end{itemize}
+
+81 42. 
+% TODO: Insert figure for question 42
+The figure above represents a $50\text{m} \times 20\text{m}$ swimming pool. The pool is in the shape of a prism with a rectangular surface and four vertical walls. The dimensions of the sidewall $ABCDEF$ are as shown in the figure. What is the capacity of the pool in $\text{m}^3$?
+
+\begin{itemize}
+    \item[A.] 1200
+    \item[B.] 1500
+\end{itemize}
+
+\vspace{1cm}
+81-CE-MATHS II \hfill 7
+
+\end{document}
+
+\begin{itemize}
+    \item[C.] 1800
+    \item[D.] 2000
+    \item[E.] It cannot be determined
+\end{itemize}
+
+\noindent 8143. Given that $\sin \theta - \cos \theta = \frac{1}{2}$, what is the value of $\sin \theta \cos \theta$?
+\begin{itemize}
+    \item[A.] $\frac{1}{2}$
+    \item[B.] $\frac{1}{4}$
+    \item[C.] $\frac{3}{8}$
+    \item[D.] $\frac{3}{4}$
+    \item[E.] It cannot be determined
+\end{itemize}
+
+\noindent 8144. If $0^\circ \le \theta \le 360^\circ$, the minimum value of $1 + 2\cos \frac{\theta}{2}$ is
+\begin{itemize}
+    \item[A.] $-2$
+    \item[B.] $-1$
+    \item[C.] $0$
+    \item[D.] $1$
+    \item[E.] $2$
+\end{itemize}
+
+\noindent 8145.
+% TODO: Insert figure of sine wave graph
+\begin{itemize}
+    \item The figure above shows the graph of
+    \item[A.] $y = \sin(x^\circ + 30^\circ)$
+    \item[B.] $y = \sin(x^\circ - 30^\circ)$
+    \item[C.] $y = \sin(x^\circ + 150^\circ)$
+    \item[D.] $y = \sin(x^\circ - 150^\circ)$
+    \item[E.] $y = \sin(x^\circ + 60^\circ)$
+\end{itemize}
+
+\noindent 8146. The radius of a sector is 3 cm and the perimeter is 10 cm. What is the area of the sector?
+\begin{itemize}
+    \item[A.] $6 \text{ cm}^2$
+    \item[B.] $12 \text{ cm}^2$
+    \item[C.] $15 \text{ cm}^2$
+    \item[D.] $18 \text{ cm}^2$
+    \item[E.] $45 \text{ cm}^2$
+\end{itemize}
+
+\noindent 8147.
+% TODO: Insert figure of sector and cone
+\begin{itemize}
+    \item The cone in Figure (b) is formed by bending the sector in Figure (a). The angle of the sector is $60^\circ$ and the radius is 12 cm. The radius of the base of the cone is
+    \item[A.] $2 \text{ cm}$
+    \item[B.] $4 \text{ cm}$
+    \item[C.] $6 \text{ cm}$
+    \item[D.] $2\pi \text{ cm}$
+    \item[E.] $\frac{360}{\pi} \text{ cm}$
+\end{itemize}
+
+\noindent 8148.
+% TODO: Insert figure of triangle
+\begin{itemize}
+    \item In the figure, $\sin \theta =$
+    \item[A.] $0.5$
+    \item[B.] $0.6$
+    \item[C.] $0.625$
+    \item[D.] $0.75$
+    \item[E.] $0.8$
+\end{itemize}
+
+\vspace{1cm}
+\noindent 81-CE-MATHS II \hfill 8
+
+\end{document}
+
+81
+49.
+\begin{center}
+% TODO: Insert image for problem 49
+\end{center}
+In the figure, $AD \perp BC$. $CD =$
+
+\begin{itemize}
+    \item[A.] $h \sin \alpha \tan \beta$
+    \item[B.] $h \cos \alpha \tan \beta$
+    \item[C.] $h \tan \alpha \sin \beta$
+    \item[D.] $\dfrac{h \cos \alpha}{\tan \beta}$
+    \item[E.] $\dfrac{h \sin \alpha}{\tan \beta}$
+\end{itemize}
+
+81
+50.
+\begin{center}
+% TODO: Insert image for problem 50
+\end{center}
+In the figure, $ABC$ is an equilateral triangle of side $2a$. $P$ and $Q$ are the mid-points of $AB$ and $AC$ respectively. $PQRS$ is a rectangle. What is the area of $PQRS$?
+
+\begin{itemize}
+    \item[A.] $a^2$
+    \item[B.] $\dfrac{1}{2}a^2$
+    \item[C.] $\dfrac{2}{3}a^2$
+    \item[D.] $\dfrac{1}{\sqrt{3}}a^2$
+    \item[E.] $\dfrac{\sqrt{3}}{2}a^2$
+\end{itemize}
+
+81
+51.
+\begin{center}
+% TODO: Insert image for problem 51
+\end{center}
+In the figure, $AB$ and $AC$ touch the circle at $B$ and $C$. If $P$ is any point on the minor arc $BC$, what is $\theta$?
+
+\begin{itemize}
+    \item[A.] $112^\circ$
+    \item[B.] $118^\circ$
+    \item[C.] $124^\circ$
+    \item[D.] $146^\circ$
+    \item[E.] It cannot be determined
+\end{itemize}
+
+81
+52. I
+\begin{center}
+% TODO: Insert image for problem 52 I
+\end{center}
+$\angle BAC = 90^\circ$
+$AD \perp BC$.
+
+II
+\begin{center}
+% TODO: Insert image for problem 52 II
+\end{center}
+$AC$ and $BC$ intersect at $E$.
+
+\vfill
+81-CE-MATHS II \hfill 9
+
+\end{document}
+
+\newpage
+
+III
+\begin{center}
+% TODO: Insert image for figure III
+\end{center}
+$BC$ produced meets the tangent $AT$ at $T$.
+
+Which of the above figures contains one or more pairs of similar triangles?
+
+\begin{itemize}
+    \item[A.] I only
+    \item[B.] I and II only
+    \item[C.] I and III only
+    \item[D.] II and III only
+    \item[E.] I, II and III
+\end{itemize}
+
+81
+54.
+\begin{center}
+% TODO: Insert image for figure 54
+\end{center}
+In the figure, $AB \parallel CD \parallel EF$. $ACF$, $BCE$ and $BDF$ are straight lines.
+$AB = 12$, $EF = 6$. $CD = ?$
+
+\begin{itemize}
+    \item[A.] 4.5
+    \item[B.] 4
+    \item[C.] 3.6
+    \item[D.] 3
+    \item[E.] 2
+\end{itemize}
+
+81
+53.
+\begin{center}
+% TODO: Insert image for figure 53
+\end{center}
+In the figure, $P$ is the mid-point of $AB$.
+$E$ is a point on $AC$ such that
+$AE : EC = 2 : 1$. $\dfrac{\text{Area of } \Delta BFE}{\text{Area of } \Delta BCE} =$
+
+\begin{itemize}
+    \item[A.] $\dfrac{1}{2}$
+    \item[B.] $\dfrac{2}{3}$
+    \item[C.] 1
+    \item[D.] $\dfrac{3}{2}$
+    \item[E.] 2
+\end{itemize}
+
+\vspace{1cm}
+81-CE-MATHS II \hfill 10
