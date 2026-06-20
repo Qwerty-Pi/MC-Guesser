@@ -1,1 +1,40 @@
-46. In the figure, AB:BC:CD=2:1:3 .Find ∠ADC. D A. 56° B. 60° C. 63° D. 72° A 96\ E. 84° C B 47. Thebar chart below shows thedistributionof scores ofa test. Find the mean deviation of the scores of the test. A. 0 mark 20 B. 8 Kouanborj 15 9 mark 10 $2\sfqr{2}$ 5 C. 3 mark 0 1 2 3 4 5 $2\sqr{3 }$ score (marks) D. marks 3 E. 6 5 marks 2000-CE-MATH2-27 -26- Go on to the next page 保留版 All Rights Reserved 2000
+\documentclass{article}
+\usepackage{amsmath,graphicx,geometry,tabularx}
+\geometry{margin=1in}
+\begin{document}
+
+46. In the figure, $\widehat{AB} : \widehat{BC} : \widehat{CD} = 2 : 1 : 3$. Find $\angle ADC$.
+
+\begin{minipage}{0.5\textwidth}
+    A. \quad $56^\circ$ \\
+    B. \quad $60^\circ$ \\
+    C. \quad $63^\circ$ \\
+    D. \quad $72^\circ$ \\
+    E. \quad $84^\circ$
+\end{minipage}
+\begin{minipage}{0.4\textwidth}
+    % TODO: Insert figure for problem 46
+    \includegraphics[width=\linewidth]{figure46.png} 
+\end{minipage}
+
+\vspace{1cm}
+
+47. The bar chart below shows the distribution of scores of a test. Find the mean deviation of the scores of the test.
+
+\begin{minipage}{0.4\textwidth}
+    A. \quad $0$ mark \\
+    B. \quad $\dfrac{8}{9}$ mark \\
+    C. \quad $\dfrac{2\sqrt{2}}{3}$ mark \\
+    D. \quad $\dfrac{2\sqrt{3}}{3}$ marks \\
+    E. \quad $\dfrac{6}{5}$ marks
+\end{minipage}
+\begin{minipage}{0.5\textwidth}
+    % TODO: Insert bar chart figure for problem 47
+    \includegraphics[width=\linewidth]{figure47.png}
+\end{minipage}
+
+\vfill
+\noindent 2000-CE-MATH 2--27 \hfill $- 26 -$ \hfill Go on to the next page $\blacktriangleright$ \\
+\textcopyright \ 保留版權 All Rights Reserved 2000
+
+\end{document}

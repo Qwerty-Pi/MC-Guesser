@@ -1,1 +1,30 @@
-Simplify (a3b−1)-2 3. (a^1b2)4$ A. 1 $ab^{3}$ B. 1 $a^2b}$ C. 一 $a^{}$ D. 1 a2b E.  $b^}$ 4. Let f(x)=3x2+ax-7.Iff(-1)=0，findf(–2). A. -27 B. −11 C. -3 D. 1 E. 13 2000-CE-MATH 2–4 -3- ©保留版權 All Rights Reserved 2000
+\documentclass{article}
+\usepackage{amsmath,graphicx,geometry,tabularx}
+\geometry{margin=1in}
+\begin{document}
+
+3. Simplify $\dfrac{(a^3 b^{-1})^{-2}}{(a^{-1} b^2)^4}$.
+
+\begin{itemize}
+    \item[A.] $\dfrac{1}{ab^3}$
+    \item[B.] $\dfrac{1}{a^2 b^3}$
+    \item[C.] $\dfrac{1}{a^2 b^6}$
+    \item[D.] $\dfrac{1}{a^2 b^9}$
+    \item[E.] $\dfrac{a^4}{b^6}$
+\end{itemize}
+
+4. Let $f(x) = 3x^2 + ax - 7$. If $f(-1) = 0$, find $f(-2)$.
+
+\begin{itemize}
+    \item[A.] $-27$
+    \item[B.] $-11$
+    \item[C.] $-3$
+    \item[D.] $1$
+    \item[E.] $13$
+\end{itemize}
+
+\vfill
+\noindent 2000-CE-MATH 2--4 \hfill $-3-$ \\
+\includegraphics[width=0.05\linewidth]{logo.png} \copyright 保留版權 All Rights Reserved 2000
+
+\end{document}

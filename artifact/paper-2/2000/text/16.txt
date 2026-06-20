@@ -1,1 +1,44 @@
-25. Inthefigure,PXQ，QYRand RZPare semicircles with areasAcm A2cm2andA3cm2respectively.IfA1=12andA2=5，findA3. A. 13 Z B. 17 R A3cm2 C. 169 A2cm2 Y D. 13π E. 169 π P 0 8 A_1}cm^2$ X 26. Inthefgurfindtheareaofthtrianglecorrecttothenearest0.1cm2 A. 7.3cm2 B. 10.7 cm2 C. 12.7 cm2 D. 15.0 cm2 50° 60° E. 19.1 cm2 6 cm 2000-CE-MATH2-16 -15- 保留版All Rights Reserved 2000
+\documentclass{article}
+\usepackage{amsmath,graphicx,geometry,tabularx}
+\geometry{margin=1in}
+\begin{document}
+
+25. In the figure, $PXQ$, $QYR$ and $RZP$ are semicircles with areas $A_1 \text{ cm}^2$, $A_2 \text{ cm}^2$ and $A_3 \text{ cm}^2$ respectively. If $A_1 = 12$ and $A_2 = 5$, find $A_3$.
+
+\begin{minipage}{0.4\textwidth}
+\begin{itemize}
+    \item[A.] 13
+    \item[B.] 17
+    \item[C.] 169
+    \item[D.] $13\pi$
+    \item[E.] $\dfrac{169}{8}\pi$
+\end{itemize}
+\end{minipage}
+\begin{minipage}{0.5\textwidth}
+% TODO: Insert figure for problem 25
+\includegraphics[width=\linewidth]{figure25.png}
+\end{minipage}
+
+\vspace{1cm}
+
+26. In the figure, find the area of the triangle correct to the nearest $0.1 \text{ cm}^2$.
+
+\begin{minipage}{0.4\textwidth}
+\begin{itemize}
+    \item[A.] $7.3 \text{ cm}^2$
+    \item[B.] $10.7 \text{ cm}^2$
+    \item[C.] $12.7 \text{ cm}^2$
+    \item[D.] $15.0 \text{ cm}^2$
+    \item[E.] $19.1 \text{ cm}^2$
+\end{itemize}
+\end{minipage}
+\begin{minipage}{0.5\textwidth}
+% TODO: Insert figure for problem 26
+\includegraphics[width=\linewidth]{figure26.png}
+\end{minipage}
+
+\vfill
+\noindent 2000-CE-MATH 2--16 \hfill -- 15 -- \\
+\copyright All Rights Reserved 2000
+
+\end{document}

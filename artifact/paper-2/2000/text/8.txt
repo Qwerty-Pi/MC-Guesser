@@ -1,1 +1,21 @@
-11. Which ofthe following may represent the graph ofy=tanx°for 0≤x≤90？ A. y↑ B. y 1 0 →x 0 90 7s 90 C. y_↑}$ D. y↑ 0 90 7s 0o 90 →x E. y↑ 0 90 7x 2000-CE-MATH 2-8 -7- 保留版All Rights Reserved 2000
+\documentclass{article}
+\usepackage{amsmath,graphicx,geometry,tabularx}
+\geometry{margin=1in}
+\begin{document}
+
+11. Which of the following may represent the graph of $y = \tan x^\circ$ for $0 \le x \le 90$ ?
+
+\begin{tabularx}{\textwidth}{XX}
+A. & B. \\
+\includegraphics[width=0.3\linewidth]{placeholder_A} & \includegraphics[width=0.3\linewidth]{placeholder_B} \\
+C. & D. \\
+\includegraphics[width=0.3\linewidth]{placeholder_C} & \includegraphics[width=0.3\linewidth]{placeholder_D} \\
+E. & \\
+\includegraphics[width=0.3\linewidth]{placeholder_E} & \\
+\end{tabularx}
+
+\vfill
+\noindent 2000-CE-MATH 2--8 \hfill $- 7 -$ \\
+\includegraphics[width=0.05\linewidth]{placeholder_logo} \copyright\ 保留版權 All Rights Reserved 2000
+
+\end{document}

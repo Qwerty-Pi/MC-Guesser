@@ -1,1 +1,35 @@
-33. Inthefigureasolidwoodensphereofradiusrcmistobecutintoacubeof side 3cm.Find the smallest possible valueofr. 3 cm r cm 3\s}$ A. 2 $3\sq{2}$ B. 2 C. 32 D. $3\sqr{3}$ E. 3\sq{2}$ 34. If9a2−b{2=0 and ab<0，then a- b a+ b$ A. -2. B. 1 2 C. 0. D. 1 2 E. 2. 2000-CE-MATH 2–20 -19- 保留版All Rights Reserved 2000
+\documentclass{article}
+\usepackage{amsmath,graphicx,geometry,tabularx}
+\geometry{margin=1in}
+\begin{document}
+
+33. In the figure, a solid wooden sphere of radius $r$ cm is to be cut into a cube of side 3 cm . Find the smallest possible value of $r$.
+
+% TODO: Insert figure here
+\begin{center}
+    \includegraphics[width=0.5\linewidth]{figure_placeholder.png} % TODO: Placeholder for the sphere-to-cube diagram
+\end{center}
+
+\begin{itemize}
+    \item[A.] $\dfrac{3\sqrt{3}}{2}$
+    \item[B.] $\dfrac{3\sqrt{2}}{2}$
+    \item[C.] $\dfrac{3}{2}$
+    \item[D.] $3\sqrt{3}$
+    \item[E.] $3\sqrt{2}$
+\end{itemize}
+
+34. If $9a^2 - b^2 = 0$ and $ab < 0$ , then $\dfrac{a-b}{a+b} =$
+
+\begin{itemize}
+    \item[A.] $-2$ .
+    \item[B.] $-\dfrac{1}{2}$ .
+    \item[C.] $0$ .
+    \item[D.] $\dfrac{1}{2}$ .
+    \item[E.] $2$ .
+\end{itemize}
+
+\vfill
+\noindent 2000-CE-MATH 2--20 \hfill -- 19 -- \\
+\copyright \ 保留版權 All Rights Reserved 2000
+
+\end{document}

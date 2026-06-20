@@ -1,1 +1,28 @@
-9. Let f（x）=x3−2x−5x+6.Itisknownthatf(1）=0.f(x）canbe factorized as A. (x-1）²(x+6). B. (x-1)(x+1)(x+6). C. (x−1)(x−2)(x+3). D. (x-1)(x+2)(x-3). E. (x+1)(x-2)(x-3). 10. If3x{2+ax+7=3(x-2)²+b，then A. a=-12，b=-5. B. a=-12，b=7. C. a=-4,b=3. D. a=0，b=-5. E. a=0，b=19. 2000-CF-MATH2-7 -6- Go on to the next page 保留版 All Rights Reserved 2000
+\documentclass{article}
+\usepackage{amsmath,graphicx,geometry,tabularx}
+\geometry{margin=1in}
+\begin{document}
+
+9. Let $f(x) = x^3 - 2x^2 - 5x + 6$. It is known that $f(1) = 0$. $f(x)$ can be factorized as
+\begin{itemize}
+    \item[A.] $(x-1)^2(x+6)$.
+    \item[B.] $(x-1)(x+1)(x+6)$.
+    \item[C.] $(x-1)(x-2)(x+3)$.
+    \item[D.] $(x-1)(x+2)(x-3)$.
+    \item[E.] $(x+1)(x-2)(x-3)$.
+\end{itemize}
+
+10. If $3x^2 + ax + 7 = 3(x-2)^2 + b$, then
+\begin{itemize}
+    \item[A.] $a = -12$, $b = -5$.
+    \item[B.] $a = -12$, $b = 7$.
+    \item[C.] $a = -4$, $b = 3$.
+    \item[D.] $a = 0$, $b = -5$.
+    \item[E.] $a = 0$, $b = 19$.
+\end{itemize}
+
+\vfill
+\noindent 2000-CE-MATH 2--7 \hfill $-6-$ \hfill Go on to the next page $\blacktriangleright$ \\
+\noindent \includegraphics[width=0.05\textwidth]{% TODO: logo placeholder} \copyright\ 保留版權 All Rights Reserved 2000
+
+\end{document}

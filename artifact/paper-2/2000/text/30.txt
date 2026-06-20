@@ -1,1 +1,25 @@
-52. The figure shows a right triangular prism. Find its volume 1m a A. 1 sinαcossinβcosβm³ 3 B. 1 sinαcos2sinβcosβm³ 3 C. 一 sinαcosαsimnβcosβm 2 D. 1 sin2cosαsinβcosβm³ 2 E. 一 2 sinαcos2simnβcosβm 2000-CE-MATH 2-30 -29- 保留版All Rights Reserved 2000
+\documentclass{article}
+\usepackage{amsmath,graphicx,geometry,tabularx}
+\geometry{margin=1in}
+\begin{document}
+
+52. The figure shows a right triangular prism. Find its volume.
+
+\begin{center}
+% TODO: Insert image of the right triangular prism
+\includegraphics[width=0.5\linewidth]{prism_figure.png}
+\end{center}
+
+\begin{itemize}
+    \item[A.] $\frac{1}{3} \sin^2 \alpha \cos \alpha \sin \beta \cos \beta \text{ m}^3$
+    \item[B.] $\frac{1}{3} \sin \alpha \cos^2 \alpha \sin \beta \cos \beta \text{ m}^3$
+    \item[C.] $\frac{1}{2} \sin \alpha \cos \alpha \sin \beta \cos \beta \text{ m}^3$
+    \item[D.] $\frac{1}{2} \sin^2 \alpha \cos \alpha \sin \beta \cos \beta \text{ m}^3$
+    \item[E.] $\frac{1}{2} \sin \alpha \cos^2 \alpha \sin \beta \cos \beta \text{ m}^3$
+\end{itemize}
+
+\vfill
+\noindent 2000-CE-MATH 2--30 \hfill $- 29 -$ \\
+\includegraphics[width=0.1\linewidth]{logo.png} \copyright \ 保留版權 All Rights Reserved 2000
+
+\end{document}

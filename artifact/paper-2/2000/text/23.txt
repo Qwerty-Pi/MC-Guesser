@@ -1,1 +1,22 @@
-39. Whichofthefollowingmayrepresentthegraphofy=x22x3？ A. y{↑}$ B. 71 →x 0 0 C. D. y y →x 0 7x 0 E. y O →x 2000-CE-MATH2-23 -22- Go on to the next page 保留版 All Rights Reserved 2000
+\documentclass{article}
+\usepackage{amsmath,graphicx,geometry,tabularx}
+\geometry{margin=1in}
+\begin{document}
+
+39. Which of the following may represent the graph of $y = -x^2 + 2x - 3$ ?
+
+\begin{tabularx}{\textwidth}{XX}
+A. & B. \\
+\includegraphics[width=0.3\textwidth]{% TODO: image A} & \includegraphics[width=0.3\textwidth]{% TODO: image B} \\
+ & \\
+C. & D. \\
+\includegraphics[width=0.3\textwidth]{% TODO: image C} & \includegraphics[width=0.3\textwidth]{% TODO: image D} \\
+ & \\
+E. & \\
+\includegraphics[width=0.3\textwidth]{% TODO: image E} & \\
+\end{tabularx}
+
+\vfill
+\noindent 2000-CE-MATH 2--23 \hfill $- 22 -$ \hfill Go on to the next page $\rightarrow$
+
+\end{document}

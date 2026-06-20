@@ -1,1 +1,51 @@
-53. In the figure, the area of ΔABC is A. π 3}  C B. 2π y=1-2cos2x 3 C. π. 4π 0 2 π B π D. 3 E. 2π. 54. In the figure,AECand BEDare straight lines.If theareaofΔABE=4cm and the areaofΔBCE=5cm2，find the areaofΔCDE. A. 4.5 cm2 D B. 5cm2$ A C. 6cm2$ E D. 6.25 cm2 E. 9 cm2 B C END OF PAPER 2000-CE-MATH2-31 -30- 保留版All Rights Reserved 2000
+\documentclass{article}
+\usepackage{amsmath,graphicx,geometry,tabularx}
+\geometry{margin=1in}
+\begin{document}
+
+53. In the figure, the area of $\Delta ABC$ is
+
+\begin{minipage}{0.5\textwidth}
+\begin{itemize}
+    \item[A.] $\dfrac{\pi}{3}$ .
+    \item[B.] $\dfrac{2\pi}{3}$ .
+    \item[C.] $\pi$ .
+    \item[D.] $\dfrac{4\pi}{3}$ .
+    \item[E.] $2\pi$ .
+\end{itemize}
+\end{minipage}
+\begin{minipage}{0.5\textwidth}
+% TODO: Insert figure for problem 53
+\includegraphics[width=\linewidth]{figure53.png}
+\end{minipage}
+
+\vspace{1em}
+
+54. In the figure, $AEC$ and $BED$ are straight lines. If the area of $\Delta ABE = 4 \text{ cm}^2$ and the area of $\Delta BCE = 5 \text{ cm}^2$ , find the area of $\Delta CDE$ .
+
+\begin{minipage}{0.5\textwidth}
+\begin{itemize}
+    \item[A.] $4.5 \text{ cm}^2$
+    \item[B.] $5 \text{ cm}^2$
+    \item[C.] $6 \text{ cm}^2$
+    \item[D.] $6.25 \text{ cm}^2$
+    \item[E.] $9 \text{ cm}^2$
+\end{itemize}
+\end{minipage}
+\begin{minipage}{0.5\textwidth}
+% TODO: Insert figure for problem 54
+\includegraphics[width=\linewidth]{figure54.png}
+\end{minipage}
+
+\vspace{2em}
+
+\begin{center}
+\textbf{END OF PAPER}
+\end{center}
+
+\vspace{2em}
+
+\noindent 2000-CE-MATH 2--31 \hfill $- 30 -$ \\
+\includegraphics[width=0.1\textwidth]{logo.png} \copyright All Rights Reserved 2000
+
+\end{document}

@@ -1,1 +1,41 @@
-12. Inthefigure,ABCD isa rectangle formed by four squares each ofa 1cm.DB isa diagonal. Findthe areaof the shaded region. A. 9 cm2$ A D $\fv$ B. 7 8 $cm^{2}$ B C C. 55 6 $$_^}$ D. 4 5 $c_^{}$ E. 3 4 $cm_^}$ 13. Inthe figure,the areas of the two triangles are equal. Find. 10 cm 5 cm 0 30° 8 cm 4 em A. 7.2° (correct to the nearest 0.1°) B. 7.5° (correct to the nearest 0.1°) C. 14.5°(correct to the nearest 0.1°) D. $15°}$ E. 30° 2000-CE-MATH2-9 -8- Go on to the next page 保留版 All Rights Reserved 2000
+\documentclass{article}
+\usepackage{amsmath,graphicx,geometry,tabularx}
+\geometry{margin=1in}
+\begin{document}
+
+12. In the figure, $ABCD$ is a rectangle formed by four squares each of area $1 \text{ cm}^2$. $DB$ is a diagonal. Find the area of the shaded region.
+
+\begin{itemize}
+    \item[A.] $\dfrac{9}{10} \text{ cm}^2$
+    \item[B.] $\dfrac{7}{8} \text{ cm}^2$
+    \item[C.] $\dfrac{5}{6} \text{ cm}^2$
+    \item[D.] $\dfrac{4}{5} \text{ cm}^2$
+    \item[E.] $\dfrac{3}{4} \text{ cm}^2$
+\end{itemize}
+
+% TODO: Insert figure for question 12
+\begin{center}
+    \includegraphics[width=0.5\linewidth]{figure12.png} % TODO: Placeholder for figure
+\end{center}
+
+13. In the figure, the areas of the two triangles are equal. Find $\theta$.
+
+% TODO: Insert figure for question 13
+\begin{center}
+    \includegraphics[width=0.5\linewidth]{figure13.png} % TODO: Placeholder for figure
+\end{center}
+
+\begin{itemize}
+    \item[A.] $7.2^\circ$ (correct to the nearest $0.1^\circ$)
+    \item[B.] $7.5^\circ$ (correct to the nearest $0.1^\circ$)
+    \item[C.] $14.5^\circ$ (correct to the nearest $0.1^\circ$)
+    \item[D.] $15^\circ$
+    \item[E.] $30^\circ$
+\end{itemize}
+
+\vfill
+\noindent 2000-CE-MATH 2--9 \hfill $-8-$ \hfill Go on to the next page $\blacktriangleright$
+
+\noindent \copyright \ 保留版權 All Rights Reserved 2000
+
+\end{document}
