@@ -1,0 +1,6 @@
+<div>2. Let \(f(x)=x+2x^2+k\), where \(k\) is a constant. If \(f(-1)=0\), find the remainder when \(f(x)\) is divided by \(x-1\).<br/>
+A. \(-1\).<br/>
+B. \(0\).<br/>
+C. \(2\).<br/>
+D. \(6\).
+</div>

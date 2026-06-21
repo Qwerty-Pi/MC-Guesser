@@ -1,15 +1,19 @@
 #!/bin/python3
 import os, sys
 from bs4 import BeautifulSoup
+import fitz
 import json
 
-def resize_paper(paper):
-    os.system(f"pdfjam --paper a4paper raw/{paper}.pdf --outfile raw/{paper}.pdf")
+def resize_paper(paper_id):
+    doc = fitz.open(f"raw/{paper_id}.pdf")
+    papersize = ""
+    if doc[0].rect.x1 > doc[0].rect.y1:
+        papersize = '{297mm,210mm}' # a4 paper in landscape
+    else:
+        papersize = '{210mm,297mm}' # a4 paper in portrait
+    os.system(f"pdfjam --papersize {papersize} raw/{paper_id}.pdf --outfile raw/{paper_id}.pdf")
 
 def parse_paper(paper):
-    print(f"Confirm to parse {paper}? [Y/N] ", end="")
-    if input().lower() != "y":
-        exit(0)
     pdf_path = f"raw/{paper}.pdf"
     output_path = f"artifact/{paper}"
     os.system(f"time ./parse {pdf_path} {output_path}")
@@ -31,10 +35,6 @@ def concat_text(paper):
     with open(f"artifact/{paper}/merged.txt", "w") as f:
         f.write(content)
 
-    prompt = open("prompt.txt").read()
-    with open("prompt-actual.txt", "w") as f:
-        f.write(prompt + content)
-
 def convert_html_to_json(paper_path):
     content = open(f"artifact/{paper_path}/questions.html").read()
     soup = BeautifulSoup(content, "html.parser")
@@ -42,7 +42,7 @@ def convert_html_to_json(paper_path):
     for question in soup.find_all("div"):
         s = question.prettify().replace("<div>", "").replace("</div>", "")
         s = s.replace("\n", "").strip(" ")
-        for n in range(1, 100):
+        for n in range(1, 10000):
             if s.startswith(f"{n}. "):
                 s = s[len(f"{n}. "):]
         if s.startswith("<br/>"):
@@ -57,27 +57,24 @@ def convert_html_to_json(paper_path):
     print(f"Written output to artifact/{paper_path}/questions.json.")
 
 def gen_figure(paper_path):
-    download_path = "/mnt/c/Users/thele/Downloads/figures.json"
-    if os.path.exists(download_path):
-        os.makedirs(f"artifact/{paper_path}", exist_ok = True)
-        os.system(f"mv {download_path} artifact/{paper_path}/figures.json")
-        print(f"Copied the configuration file from the download path.")
     cmd = f"./gen_figure raw/{paper_path}.pdf artifact/{paper_path}/figures.json artifact/{paper_path}/figure"
     os.system(cmd)
 
-def fix_fullstop(paper_path):
+def fix_formatting(paper_path):
     file_path = f"artifact/{paper_path}/questions.html"
-    os.system(f"python3 fix_fullstop.py {file_path} {file_path}")
+    os.system(f"python3 fix_formatting.py {file_path} {file_path}")
 
-for year in range(2010, 2006, -1):
-    paperID = f"paper-2/{year}"
-    resize_paper(paperID)
-    parse_paper(paperID)
-    concat_text(paperID)
+# year = 2006
+# for year in range(1999, 2001):
+# paperID = f"paper-2/{year}"
+# resize_paper(paperID)
+# parse_paper(paperID)
+#     concat_text(paperID)
 
-# fix_fullstop("paper-2/2011")
-
-if len(sys.argv) == 2:
+if len(sys.argv) >= 2:
     paperID = f"paper-2/{sys.argv[1]}"
+    if "--fix" in sys.argv:
+        print("Fixing Formatting...")
+        fix_formatting(paperID)
     convert_html_to_json(paperID)
     gen_figure(paperID)

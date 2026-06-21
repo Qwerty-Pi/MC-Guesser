@@ -1,0 +1,43 @@
+
+div {
+    margin-bottom: 2em;
+}
+img {
+    filter: invert(0.917); 
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+* {
+    outline-style: none;	
+}
+
+select, button, option {
+    background-color: var(--background-color);
+}
+
+select, ::picker(select) {
+    appearance: base-select;
+    border-radius: 0;
+}
+
+#selector {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: var(--background-color);
+    z-index: 10;
+}
+
+option:hover {
+    background: color-mix(in srgb, var(--background-color) 100%, var(--text-color) 20%) !important;
+}
+
+input {
+    background-color: var(--background-color);
+}

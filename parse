@@ -1,23 +1,97 @@
 #!/bin/python3
 import os, sys
-import ollama
-from pdf2image import convert_from_path
+import fitz
+import lexoid.api
+from PIL import Image
+import random
 
-def parse_texts(pdf_path, output_path):
-    pages = convert_from_path(pdf_path, dpi=80)
+def resize_paper(paper_id):
+    doc = fitz.open(f"raw/{paper_id}.pdf")
+    papersize = ""
+    if doc[0].rect.x1 > doc[0].rect.y1:
+        papersize = '{297mm,210mm}' # a4 paper in landscape
+    else:
+        papersize = '{210mm,297mm}' # a4 paper in portrait
+    os.system(f"pdfjam --papersize {papersize} raw/{paper_id}.pdf --outfile raw/{paper_id}.pdf")
+
+def parse_text(page):
+    os.makedirs("tmp", exist_ok=True)
+    img_path = f"tmp/{random.randint(0, 1_000_000_000)}.png"
+    page.save(img_path)
+    # Image.open(img_path).show()
+    result = lexoid.api.parse_to_latex(
+        img_path,
+        model="gemini-3.1-flash-lite"
+    )
+    return result
+
+def parse_texts(pdf_path, output_path, two_column = False, dpi=80):
+    doc = fitz.open(pdf_path)
+    pages = []
+    if two_column:
+        for page in doc:
+            left_half = fitz.Rect(0, 0, page.rect.width / 2, page.rect.height)
+            page.set_cropbox(left_half)
+            pages.append(page.get_pixmap(alpha=False, dpi=dpi))
+
+            right_half = fitz.Rect(page.rect.width, 0, page.rect.width * 2, page.rect.height)
+            page.set_cropbox(right_half)
+            pages.append(page.get_pixmap(alpha=False, dpi=dpi))
+    else:
+        pages = [page.get_pixmap(alpha=False, dpi=dpi) for page in doc]
+    os.makedirs(f"{output_path}/text", exist_ok=True)
     for i, page in enumerate(pages):
         print(f"*** Recognising Page #{i+1} ***")
-        os.makedirs(f"{output_path}/page", exist_ok=True)
-        os.makedirs(f"{output_path}/text", exist_ok=True)
-        img_path = f"{output_path}/page/{i+1}.png"
+        # file already exists, skipping
+        # delete the text files to force re-parse
         text_path = f"{output_path}/text/{i+1}.txt"
-        page.save(img_path, "PNG")
-        os.system(f"lexoid parse -i {img_path} --parser-type static_parse --verbose > {text_path}")
+        if os.path.isfile(text_path):
+            continue
+        result = parse_text(page)
+        print(f"Write to {text_path}")
+        print(result)
+        with open(text_path, "w") as f:
+            f.write(result)
 
+def parse_paper(paper):
+    pdf_path = f"raw/{paper}.pdf"
+    output_path = f"artifact/{paper}"
+    parse_texts(pdf_path, output_path, two_column=False)
+    print("Parsing Done!")
+
+def parse_paper_latex(paper):
+    res = lexoid.api.parse_to_latex(
+        f"raw/{paper}.pdf",
+        model="gemini-3.1-flash-lite"
+    )
+    with open(f"artifact/{paper}/merged.txt", "w") as f:
+        f.write(res)
+
+def custom_int(s):
+    if s[-4:] == ".txt":
+        s = s[:-4]
+    try:
+        return int(s)
+    except:
+        return 0
+
+def concat_text(paper):
+    path = f"artifact/{paper}/text"
+    content = ""
+    for file in sorted(os.listdir(path), key=custom_int):
+        if file == "." or file == "..": continue
+        content += open(f"{path}/{file}", "r").read() + "\n"
+    with open(f"artifact/{paper}/merged.txt", "w") as f:
+        f.write(content)
 
 if __name__ == '__main__':
-    if len(sys.argv) != 3:
-        print("Usage: ./parse pdf_path output_path")
+    if len(sys.argv) != 2:
+        print("Usage: ./parse paperID")
     else:
-        pdf_path, output_path = sys.argv[1], sys.argv[2]
-        parse_texts(pdf_path, output_path)
+        paperID = sys.argv[1]
+        resize_paper(paperID)
+        # parse_paper_latex(paperID) # works better?
+
+        parse_paper(paperID)
+        concat_text(paperID)
+        
