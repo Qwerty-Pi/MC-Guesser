@@ -1,16 +1,805 @@
-1993 HKCEE MATHS Paper II 1993 HKCEE1 1 If f(x)=10,then f(4y)= A. $10^{}$ B. $1^{2+4y D. 40 C. 108y E. 402y 2 $If s= =| [2a + (n −1)d], then = 2 2(s −an) A. n(n−1) B. 2(s− an) D. as−n $n-1$ a(n−1) S 4(s − an) C. n(n−1) E. n(n−1) 3 Simplify(x²-√3x+1)(x2+√3x+1) A. $x{4}+$ B.$x{4-x2+1$ C.$x^{4+x2+1$ D.x4-3x²-2√3x-1 E.x+√3x²-2√3x²+√3x+ 4 Simplify $\sr b$ \  $\a\b + \a\b A. 1 √ia−√db a+2\abb$ B. D. b+2\aba a− b$ a−b$ √\i)a C. E. $a+b$ 2\ a a−b 5 If3x²+ax-5=(bx-1)(2-x）-3，then A.a=-5, b=-3 B.a=-5, b=3 C.a=-3,b=-5 D. a=5,b=-3 E.a=3,b=5
-P.1 MATHS PaperII 6 Find the greatest valueof 3+2y if (x,y)is a point lying in the region OABCD (including the boundary). y$ 5 A. 15 D 4 C B. 13 3 B C. 12 D. 9 A α 4 5 x E. 8 `1 2 3 3x+2y=0 7 The diagram shows the graphs of y=ax² +bx andy=cx+d.The solutions of the equation ax2+bx=cx+dare y=ax +bx A.-1,1 B.-1, 2 C. 0,1 D. 0,3 E. 1,3 0 4 Y =cx+ 8 If log(p +q)=log p+logq,then A. p=q= 1 B. p= q D. p= q+1$ $q-1$ q C. p = q E.p= q−1 $q+1$ q 9 Theexpression x-2x+k is divisible by (x+1).Find the remainder when it is divided by (x+3). A. 1 B. 4 D. 16 C. 12 E. 18
-1993 HKCEE MATHS Paper II 10If3,a,b,c,23areinA.S.,thena+b+c= A. 13 B. 26 D. 39 C. 33 E. 65 11 Findthe H.C.F.and L.C.M.ofabcandabc H.C.F. L.C.M. A. a $a^2b{3c$ B. abc ab^²2c$ C. abc a2b3c4 D. ab2c$ abc E. a^{b3c4$ abc 12 If and β are the roots of the quadratic equation x2-3x-1=0，find the value of 1 1 α + $\fr}$ A. -3 B. −1 D. 2 3 C. 1 E. 3 3 13 $y=x2$ If the simultaneous equations y=x have only one solution,find k. A.-1 B. 1 D. 一 4 4 C.-4 E. 1 14 The price of a cylindrical cake of radius r and height h varies directly as the volume. If r =5cm andh= 4cm,the price is $30.Findthe price when =4cm andh=6cm. A. $25 B. $28.80 C. $31.50 h D. $36 E. $54
-P.2 15 Find the perimeter of the sector in the figure. A.2.25cm B. 3cm C. π +3 cm 2rad 60 D. 4.5cm 1.5cm E. 6cm 16 In the figure,the base of the conical vessel is inscribed in the bottom of the cubical box. If the box and the conical vessel have the same capacity,findh:r. A. 24:π h B. 3:1 C. 6:π D. 3:π r E. 8:3π 17 The figure shows a solid consisting of a cylinder of height h and a hemisphere of radius r. The area of the curved surface of the cylinder is twice that of the hemisphere. Find the ratio volume of cylinder :volume of hemisphere. A.1:3 h B. 2:3 `r C. 3:4 D. 3:2
-1993 HKCEE MATHS Paper II E.3:1 18 A merchant marks his goods 25% above the cost. He allows 10% discount on the marked price for a cash sale. Find the percentage profit the merchant makes for a cash sale A. 12.5% B. 15% D. 35% C. 22.5% E.37.5% 19 cosθ $1-cos{2θ $1-sin2θ × sinθ A. sinθ B. cosθ D. 1 sinθ C. tanθ E. 1 cosθ 20 cos4θ-sin4θ+2sin²θ= A. 0 B.1 D. (1-cos2}θ)2 C. (1−sin2θ) E. (cos2θ−sin2θ) 21 In the figure, cos A = 4 .Find a. 5 B A.$\s5r53$ B. √13 a √sq8 $ /8 C. D. \sq4 1 E. $\sr2 }$ C 5 A 22 The largest valueof3sin2θ+2cosθ−1is A. 1 B. 32 D. 3
-P.3 23Inthe figure,AB=BC,BP=CPandBP⊥CP Find tan θ. A. 1 4 B. 1 B 3 C. 1 θ 2 D. 1 $\sfr{3}$ C P $\sqr{3}$ E. 2 24 Inthe figure, points A, B, C and D are concyclic.Findx. C 2x-15° A. 20° D B. 22.5° C. 25° 4x+50 D. 27.5° 2x-10° A B E. 30{ 25In the figure,BA/DE and AC=AD.Findθ. A E A.34° B.54° C.70{o$ D.72° θ 72° E.76° 38° B C 26 In the figure, AB is a diameter. Find ∠ADC. D C A. 100° B. 1100 120° 20^{°}$ C. B D. 135° E. 140°
-1993 HKCEE MATHS Paper II 27 If the point (1, 1), (3, 2) and (7, k) are on the same straight line, then k= A. 3 B. 4 D.7 C. 6 E. 10 28A(0,0),B(5,0) and C(2,6)are the vertices of a triangle. P(9,5),O(6, 6) and R(2,−9) are three points. Which of the following triangles has/have area(s) greater than the area of △ABC? I.△ABP II.ΔABQ II.△ABR A. Ionly B. ⅡI only D. I and II only C. IIlonly E.II and III only 29 A circle of radius 1 touches both the positive x-axis and the positive y-axis. Which ofthe following is/are true? I.Its center is in the first quadant. II.Its center lies on the line x-y= 0. III. Its center lies on the line x+y=1. A. Ionly B. Ⅱ only D. I and II only C. IIl only E. I and III only 30 What is the area of the circle x²+y²-10x+6y-2=0 A. 32π B. 34π D. 134π
-P.4 31 Two fair dice are thrown. What is the probability of getting a total of5 or 10 A. 一| 9 B. 5 D. 7 36 36 C. 1 E. 2 6 9 32 A group of n numbers has mean m. If the numbers 1, 2 and 6 are removed fromthe group, the mean of the remaining n–3 numbers remains unchanged. Find m. A. 1 B. 2 D. 6 C. 3 E. $n-3$ 33 4 The figure shows the frequency polygons of two symmetric distributions A and B with the same mean. Which of the following is/are true? I.Interquartile range ofAInterquartile range of B II.Standard deviation of A>Standard deviation of B III.Mode of A>Mode of B A. Ionly B. ⅡI only D. I and III only C. III only E. Il and III only 34If9+²=36,then 3^= 2-3 A.
-1993 HKCEE MATHS Paper II B. 4 D. \sr6}$ 3 C. 2 E. 9 35 If a:b=2:3 and b:c=5:3 then a+b+c a−b+c A. -2 B. 5 D. 17 2 2 C. 4 E. 31 36 x Sign of (x) 3.56 + 3.58 = 3.57 + 3.575 + From the table,a root of the equation f (x)=0 is A. 3.57(correct to 3 sig.fig.) B. 3.575(correct to 4 sig.fig.) C. 3.5775(correct to 5 sig.fig.). D.3.5725(correct to 4 sig.fig.). E.3.58(correct to 3 sig.fig.). 37 Given that the positive numbers p,qrs are in GS., which of the following must be true? I.kp,kq,kr,ks are in GS.,wherekisa non-zero constant. II.a,a,a′,aarein GS.,whereaisa positive constant. III. log p,logq,logr, logs are in A.S. A. Ionly B. Ⅱl only
-P.5 38 In the figure, the rectangle has perimeter 16cm and area 15cm2.Find the length of its diagonal AC. D A.\√32 cmcm$ B.$\s34cmcm$ y C. 7cm D.\226 cmcm A X B E.√241cm$ 39Infactorizingtheexpressiona+a²b²+b4， we find that A.(a2−b2)isa factor. B. (a2+b2)is a factor. C.(a2−ab−b2)isa factor. D.(a{2−ab+b2)isafactor. E. it cannot be factorized 40 Ifthe solution of the inequality x²−ax+6≤0 isc≤x≤3，then A.a=5c=2 B.a=-5,c=2 C.a=5c=-2 D.a= 1, c=-2 E.a=-c=2 41 In the figure, ABCD is a square and ABE is an equilateral triangle. Area of ABE Area of ABCD Ⅱ A. 1 4 B. 1 D C 3 E $\sqr{3 }$ C. 8 B
-1993 HKCEE MATHS Paper II $\sqr{3}$ D. 4 $\sqr3}$ E. 2 42 In the figure, the radii of the sectors OPo and ORS are 5cm and 3cm respectively, Area of shaded region Area of sector OPO A. 4 25 B. 2 5 Q P C. 9 S R 25 0 D. 16 25 E. 21 25 43 Which of the following gives the compound interest on $10000 at 6% p.a. for one year, compounded monthly 0.06 A. $10000× ×12 12 B. $10000(1.06^12−1) $100001+ 0.06 12 C. 12 0.06 12 D. $10000 1+ -1 12 0.6 12 E. $10000 1+ -1 12 44 Originally 2 of the students in a class failed in 3 an examination. After taking a re-examination, 40% of the failed students passed. Find the total pass percentage of the class.
-P.6 45Solvetan1θ+2tan{2θ-3=0 for0°≤θ<360° A.45°,135° only B. $45{°, 225{° onlyly C.45°,60°,225°,240° D.$45°,120°,225°,300° E.45°,135°,225°,315° 46 The figure shows the graph of the function y 1 1 0 80° x 170° 260° 350° -1 A.y=sin(350{°−x) B. y = sin(x+10°) D.y = sin(x−10°) C. y= cos(x+10°}) E. y = cos(x−10°) 47 In the figure,ABC is an equilateral triangle and the radii of the three circles are each equal to 1. Find the perimeter of the triangle A. 12 C B. $3(1 +tan 30°}) C. 6(1+tan30°)
-1993 HKCEE MATHS Paper II D. 31+ 1 tan 30° E. 61+ 1 tan30° 48 In the figure, ABCDEFGH is a cuboid. The diagonal AH makes an angle θ with the base ABCD.Findtanθ A. 3 5 3 E H B. 12 3 C. 3 D 13 F G 3 12 D. √178 5 B √15tr5 E. 5 49 In the figure, if arcBC:arcCA:arcAB=1:2:3.whichofthe following is/are true? I. ∠A:∠B:∠C=1:2:3 II. a:b:c=1:2:3 II.sinA:sinB:sinC=1:2:3 C A. Ionly b B. II only A C B C. III only D. I and II only E. I, II and III only 50 In the figure, TP and TO are tangents tothe circle at P and Q respectively.If M is a point on the minor arc PQ and ∠PMQ= θ,then ∠PTQ= P
-P.7 51 In the figure,O is the center of the circle. AB touches the circle at N. Which of the following is/are correct? I. M, N, K,O are concyclic. II.∆HNB~∆NKB III.∠OAN=∠NOB A. I only B. ⅡI only ) C. III only M K D. I and II only A N B E. I, II and III 52 In the figure, ABCD and EFGH are two squares and ACH is an equilateral triangle FindAB:EF H G A. 1:2 7 B. 1:3 C. $1:\sqr}$ /A B D. $1:\sqr3}$ E F E. $\s:sr{3}$
-1993 HKCEE MATHS Paper II 53 F D A F B E C D B E A F C 1 B E In the figure, a rectangular piece of paper ABCD is folded along EF so that C and A coincide.If AB=12cm, BC=16cm,find BE. A.3.5cm B. 4.5cm D. 8cm C. 5cm E. 12.5cm 54 In the figure, the three circles touch one another. XY is their common tangent. The two larger circles are equal. If the radius ofthe smaller circle is 4cm,find the radii of the larger circles. A. 8cm B. 10cm C. 12cm X Y
-P.8 END OF PAPER
+\documentclass{article}
+\usepackage{amsmath,graphicx,geometry,tabularx}
+\geometry{margin=1in}
+\begin{document}
+
+\begin{center}
+    \textbf{HKCEE 1993} \\
+    \textbf{Mathematics II}
+\end{center}
+
+\noindent 93 1. If $f(x) = 10^{2x}$, then $f(4y) =$
+\begin{itemize}
+    \item[A.] $10^{4y}$
+    \item[B.] $10^{2+4y}$
+    \item[C.] $10^{8y}$
+    \item[D.] $40^y$
+    \item[E.] $40^{2y}$
+\end{itemize}
+
+\noindent 93 2. If $s = \dfrac{n}{2}[2a + (n-1)d]$, then $d =$
+\begin{itemize}
+    \item[A.] $\dfrac{2(s-an)}{n(n-1)}$
+    \item[B.] $\dfrac{2(s-an)}{(n-1)}$
+    \item[C.] $\dfrac{s}{n(n-1)}$
+    \item[D.] $\dfrac{as-n}{a(n-1)}$
+    \item[E.] $\dfrac{4(s-an)}{n(n-1)}$
+\end{itemize}
+
+\noindent 93 3. Simplify $(x^2 - \sqrt{3}x + 1)(x^2 + \sqrt{3}x + 1)$.
+\begin{itemize}
+    \item[A.] $x^4 + 1$
+    \item[B.] $x^4 - x^2 + 1$
+    \item[C.] $x^4 + x^2 + 1$
+    \item[D.] $x^4 - 3x^2 - 2\sqrt{3}x - 1$
+    \item[E.] $x^4 + 3x^3 - 2\sqrt{3}x^2 + \sqrt{3}x - 1$
+\end{itemize}
+
+\noindent 93 4. $\dfrac{\sqrt{a}}{\sqrt{a}-\sqrt{b}} + \dfrac{\sqrt{a}}{\sqrt{a}+\sqrt{b}} =$
+\begin{itemize}
+    \item[A.] $\dfrac{1}{\sqrt{a}-\sqrt{b}}$
+    \item[B.] $\dfrac{a+2\sqrt{ab}-b}{a-b}$
+    \item[C.] $\dfrac{\sqrt{b}+\sqrt{a}}{2\sqrt{a}}$
+    \item[D.] $\dfrac{b+2\sqrt{ab}-a}{a-b}$
+    \item[E.] $\dfrac{a+b}{a-b}$
+\end{itemize}
+
+\noindent 93 5. If $3x^2 + ax - 5 \equiv (bx - 1)(2 - x) - 3$, then
+\begin{itemize}
+    \item[A.] $a = -5, b = -3$
+    \item[B.] $a = -5, b = 3$
+    \item[C.] $a = -3, b = -5$
+    \item[D.] $a = 5, b = -3$
+    \item[E.] $a = 3, b = 5$
+\end{itemize}
+
+\noindent 93 6. 
+\begin{center}
+    % TODO: Insert image of graph here
+    \includegraphics[width=0.4\linewidth]{graph_placeholder.png} 
+\end{center}
+Find the greatest value of $3x + 2y$ if $(x, y)$ is a point lying in the region $OABCD$ (including the boundary).
+\begin{itemize}
+    \item[A.] 15
+    \item[B.] 13
+    \item[C.] 12
+    \item[D.] 9
+    \item[E.] 8
+\end{itemize}
+
+\vfill
+\noindent 93-CE-MATHS II \hfill 1
+
+\end{document}
+\documentclass{article}
+\usepackage{amsmath,graphicx,geometry,tabularx}
+\geometry{margin=1in}
+\begin{document}
+
+93 7.
+\begin{center}
+    \includegraphics[width=0.4\linewidth]{% TODO: filename}
+\end{center}
+The diagram shows the graphs of $y = ax^2 + bx$ and $y = cx + d$. The solutions of the equation $ax^2 + bx = cx + d$ are
+\begin{itemize}
+    \item[A.] $-1, 1$
+    \item[B.] $-1, 2$
+    \item[C.] $0, 1$
+    \item[D.] $0, 3$
+    \item[E.] $1, 3$
+\end{itemize}
+
+93 8. If $\log(p + q) = \log p + \log q$, then
+\begin{itemize}
+    \item[A.] $p = q = 1$.
+    \item[B.] $p = \dfrac{q}{q - 1}$.
+    \item[C.] $p = \dfrac{q}{q + 1}$.
+    \item[D.] $p = \dfrac{q + 1}{q}$.
+    \item[E.] $p = \dfrac{q - 1}{q}$.
+\end{itemize}
+
+93 9. The expression $x^2 - 2x + k$ is divisible by $(x + 1)$. Find the remainder when it is divided by $(x + 3)$.
+\begin{itemize}
+    \item[A.] $1$
+    \item[B.] $4$
+    \item[C.] $12$
+    \item[D.] $16$
+    \item[E.] $18$
+\end{itemize}
+
+93 10. If $3, a, b, c, 23$ are in A.P., then $a + b + c =$
+\begin{itemize}
+    \item[A.] $13$.
+    \item[B.] $26$.
+    \item[C.] $33$.
+    \item[D.] $39$.
+    \item[E.] $65$.
+\end{itemize}
+
+93 11. Find the H.C.F. and L.C.M. of $ab^2c$ and $abc^3$
+
+\begin{tabularx}{\textwidth}{XX}
+ & H.C.F. \hfill L.C.M. \\
+A. & $a$ \hfill $a^2b^3c^4$ \\
+B. & $abc$ \hfill $ab^2c^3$ \\
+C. & $abc$ \hfill $a^2b^3c^4$ \\
+D. & $ab^2c^3$ \hfill $abc$ \\
+E. & $a^2b^3c^4$ \hfill $abc$
+\end{tabularx}
+
+93 12. If $\alpha$ and $\beta$ are the roots of the quadratic equation $x^2 - 3x - 1 = 0$, find the value of $\dfrac{1}{\alpha} + \dfrac{1}{\beta}$.
+\begin{itemize}
+    \item[A.] $-3$
+    \item[B.] $-1$
+    \item[C.] $-\dfrac{1}{3}$
+    \item[D.] $\dfrac{2}{3}$
+    \item[E.] $3$
+\end{itemize}
+
+93 13. If the simultaneous equations
+$\begin{cases} y = x^2 - k \\ y = x \end{cases}$ have only one solution, find $k$.
+\begin{itemize}
+    \item[A.] $-1$
+    \item[B.] $-\dfrac{1}{4}$
+    \item[C.] $-4$
+    \item[D.] $\dfrac{1}{4}$
+    \item[E.] $1$
+\end{itemize}
+
+\vfill
+93-CE-MATHS II \hfill 2
+
+\end{document}
+\documentclass{article}
+\usepackage{amsmath,graphicx,geometry,tabularx}
+\geometry{margin=1in}
+\begin{document}
+
+\noindent 93 \\
+14. \hfill \includegraphics[width=0.25\linewidth]{% TODO: image_14}
+
+\noindent The price of a cylindrical cake of radius $r$ and height $h$ varies directly as the volume. If $r = 5$ cm and $h = 4$ cm, the price is \$30. Find the price when $r = 4$ cm and $h = 6$ cm.
+
+\begin{itemize}
+    \item[A.] \$25
+    \item[B.] \$28.80
+    \item[C.] \$31.50
+    \item[D.] \$36
+    \item[E.] \$54
+\end{itemize}
+
+\noindent 93 \\
+15. \hfill \includegraphics[width=0.25\linewidth]{% TODO: image_15}
+
+\noindent Find the perimeter of the sector in the figure.
+
+\begin{itemize}
+    \item[A.] 2.25 cm
+    \item[B.] 3 cm
+    \item[C.] $\left( \dfrac{\pi}{60} + 3 \right)$ cm
+    \item[D.] 4.5 cm
+    \item[E.] 6 cm
+\end{itemize}
+
+\hfill 93 \\
+\hfill 16. \hfill \includegraphics[width=0.25\linewidth]{% TODO: image_16}
+
+\noindent In the figure, the base of the conical vessel is inscribed in the bottom of the cubical box. If the box and the conical vessel have the same capacity, find $h : r$.
+
+\begin{itemize}
+    \item[A.] $24 : \pi$
+    \item[B.] $3 : 1$
+    \item[C.] $6 : \pi$
+    \item[D.] $3 : \pi$
+    \item[E.] $8 : 3\pi$
+\end{itemize}
+
+\noindent 93 \\
+17. \hfill \includegraphics[width=0.25\linewidth]{% TODO: image_17}
+
+\noindent The figure shows a solid consisting of a cylinder of height h and a hemisphere of radius r. The area of the curved surface of the cylinder is twice that of the hemisphere. Find the ratio volume of cylinder : volume of hemisphere
+
+\begin{itemize}
+    \item[A.] $1 : 3$
+    \item[B.] $2 : 3$
+    \item[C.] $3 : 4$
+    \item[D.] $3 : 2$
+    \item[E.] $3 : 1$
+\end{itemize}
+
+\vfill
+\noindent 93-CE-MATHS II \hfill 3
+
+\end{document}
+\documentclass{article}
+\usepackage{amsmath,graphicx,geometry,tabularx}
+\geometry{margin=1in}
+\begin{document}
+
+93 18. A merchant marks his goods 25\% above the cost. He allows 10 \% discount on the marked price for a cash sale. Find the percentage profit the merchant makes for a cash sale.
+
+\begin{itemize}
+    \item[A.] 12.5\%
+    \item[B.] 15\%
+    \item[C.] 22.5\%
+    \item[D.] 35\%
+    \item[E.] 37.5\%
+\end{itemize}
+
+93 19. $\dfrac{\cos\theta}{1-\sin^2\theta} \cdot \dfrac{1-\cos^2\theta}{\sin\theta} =$
+
+\begin{itemize}
+    \item[A.] $\sin\theta$
+    \item[B.] $\cos\theta$
+    \item[C.] $\tan\theta$
+    \item[D.] $\dfrac{1}{\sin\theta}$
+    \item[E.] $\dfrac{1}{\cos\theta}$
+\end{itemize}
+
+93 20. $\cos^4\theta - \sin^4\theta + 2\sin^2\theta =$
+
+\begin{itemize}
+    \item[A.] 0
+    \item[B.] 1
+    \item[C.] $(1-\sin^2\theta)^2$
+    \item[D.] $(1-\cos^2\theta)^2$
+    \item[E.] $(\cos^2\theta - \sin^2\theta)^2$
+\end{itemize}
+
+93 21. 
+% TODO: Insert figure for question 21
+\begin{center}
+    \includegraphics[width=0.4\linewidth]{figure_21.png} % TODO: Placeholder for figure
+\end{center}
+
+In the figure, $\cos A = -\dfrac{4}{5}$. Find $a$.
+
+\begin{itemize}
+    \item[A.] $\sqrt{153}$
+    \item[B.] $\sqrt{137}$
+    \item[C.] $\sqrt{89}$
+    \item[D.] $\sqrt{41}$
+    \item[E.] $\sqrt{25}$
+\end{itemize}
+
+93 22. The largest value of $3\sin^2\theta + 2\cos^2\theta - 1$ is
+
+\begin{itemize}
+    \item[A.] 1
+    \item[B.] $\dfrac{3}{2}$
+    \item[C.] 2
+    \item[D.] 3
+    \item[E.] 4
+\end{itemize}
+
+93 23. 
+% TODO: Insert figure for question 23
+\begin{center}
+    \includegraphics[width=0.4\linewidth]{figure_23.png} % TODO: Placeholder for figure
+\end{center}
+
+In the figure, $AB = BC$, $BP = CP$ and $BP \perp CP$. Find $\tan\theta$.
+
+\begin{itemize}
+    \item[A.] $\dfrac{1}{4}$
+    \item[B.] $\dfrac{1}{3}$
+    \item[C.] $\dfrac{1}{2}$
+    \item[D.] $\dfrac{1}{\sqrt{3}}$
+    \item[E.] $\dfrac{\sqrt{3}}{2}$
+\end{itemize}
+
+\vfill
+93-CE-MATHS II \hfill 4
+
+\end{document}
+\documentclass{article}
+\usepackage{amsmath,graphicx,geometry,tabularx}
+\geometry{margin=1in}
+\begin{document}
+
+93 24.
+\begin{center}
+    % TODO: Insert image for problem 24
+    \includegraphics[width=0.4\textwidth]{problem24.png}
+\end{center}
+In the figure, points $A$, $B$, $C$ and $D$ are concyclic. Find $x$.
+\begin{itemize}
+    \item[A.] $20^\circ$
+    \item[B.] $22.5^\circ$
+    \item[C.] $25^\circ$
+    \item[D.] $27.5^\circ$
+    \item[E.] $30^\circ$
+\end{itemize}
+\begin{itemize}
+    \item[B.] $110^\circ$
+    \item[C.] $120^\circ$
+    \item[D.] $135^\circ$
+    \item[E.] $140^\circ$
+\end{itemize}
+
+93 25.
+\begin{center}
+    % TODO: Insert image for problem 25
+    \includegraphics[width=0.4\textwidth]{problem25.png}
+\end{center}
+In the figure, $BA \parallel DE$ and $AC = AD$. Find $\theta$.
+\begin{itemize}
+    \item[A.] $34^\circ$
+    \item[B.] $54^\circ$
+    \item[C.] $70^\circ$
+    \item[D.] $72^\circ$
+    \item[E.] $76^\circ$
+\end{itemize}
+
+93 26.
+\begin{center}
+    % TODO: Insert image for problem 26
+    \includegraphics[width=0.3\textwidth]{problem26.png}
+\end{center}
+In the figure, $AB$ is a diameter. Find $\angle ADC$.
+\begin{itemize}
+    \item[A.] $100^\circ$
+\end{itemize}
+
+93 27. If the points $(1, 1)$, $(3, 2)$ and $(7, k)$ are on the same straight line, then $k =$
+\begin{itemize}
+    \item[A.] $3$
+    \item[B.] $4$
+    \item[C.] $6$
+    \item[D.] $7$
+    \item[E.] $10$
+\end{itemize}
+
+93 28. $A(0, 0)$, $B(5, 0)$ and $C(2, 6)$ are the vertices of a triangle. $P(9, 5)$, $Q(6, 6)$ and $R(2, -9)$ are three points. Which of the following triangles has/have area(s) greater than the area of $\Delta ABC$?
+\begin{itemize}
+    \item[I.] $\Delta ABP$
+    \item[II.] $\Delta ABQ$
+    \item[III.] $\Delta ABR$
+\end{itemize}
+\begin{itemize}
+    \item[A.] I only
+    \item[B.] II only
+    \item[C.] III only
+    \item[D.] I and II only
+    \item[E.] II and III only
+\end{itemize}
+
+93 29. A circle of radius 1 touches both the positive $x$-axis and the positive $y$-axis. Which of the following is/are true?
+\begin{itemize}
+    \item[I.] Its centre is in the first quadrant.
+    \item[II.] Its centre lies on the line $x - y = 0$.
+    \item[III.] Its centre lies on the line $x + y = 1$.
+\end{itemize}
+\begin{itemize}
+    \item[A.] I only
+    \item[B.] II only
+    \item[C.] III only
+    \item[D.] I and II only
+    \item[E.] I and III only
+\end{itemize}
+
+93 30. What is the area of the circle $x^2 + y^2 - 10x + 6y - 2 = 0$?
+\begin{itemize}
+    \item[A.] $32\pi$
+\end{itemize}
+
+\vfill
+\noindent 93-CE-MATHS II \hfill 5
+
+\end{document}
+\documentclass{article}
+\usepackage{amsmath,graphicx,geometry,tabularx}
+\geometry{margin=1in}
+\begin{document}
+
+\begin{itemize}
+    \item[B.] $34\pi$
+    \item[C.] $36\pi$
+    \item[D.] $134\pi$
+    \item[E.] $138\pi$
+\end{itemize}
+
+\noindent 9331. Two fair dice are thrown. What is the probability of getting a total of 5 or 10?
+\begin{itemize}
+    \item[A.] $\dfrac{1}{9}$
+    \item[B.] $\dfrac{5}{36}$
+    \item[C.] $\dfrac{1}{6}$
+    \item[D.] $\dfrac{7}{36}$
+    \item[E.] $\dfrac{2}{9}$
+\end{itemize}
+
+\noindent 9332. A group of $n$ numbers has mean $m$. If the numbers 1, 2 and 6 are removed from the group, the mean of the remaining $n-3$ numbers remains unchanged. Find $m$.
+\begin{itemize}
+    \item[A.] 1
+    \item[B.] 2
+    \item[C.] 3
+    \item[D.] 6
+    \item[E.] $n-3$
+\end{itemize}
+
+\noindent 9333.
+% TODO: Insert figure here
+The figure shows the frequency polygons of two symmetric distributions $A$ and $B$ with the same mean. Which of the following is/are true?
+\begin{itemize}
+    \item[I.] Interquartile range of $A <$ Interquartile range of $B$
+    \item[II.] Standard deviation of $A >$ Standard deviation of $B$
+    \item[III.] Mode of $A >$ Mode of $B$
+\end{itemize}
+\begin{itemize}
+    \item[A.] I only
+    \item[B.] II only
+    \item[C.] III only
+    \item[D.] I and II only
+    \item[E.] II and III only
+\end{itemize}
+
+\noindent 9334. If $9^{x+2} = 36$, then $3^x =$
+\begin{itemize}
+    \item[A.] $\dfrac{2}{3}$
+    \item[B.] $\dfrac{4}{3}$
+    \item[C.] 2
+    \item[D.] $\sqrt{6}$
+    \item[E.] 9
+\end{itemize}
+
+\noindent 9335. If $a : b = 2 : 3$ and $b : c = 5 : 3$, then $\dfrac{a+b+c}{a-b+c} =$
+\begin{itemize}
+    \item[A.] $-2$
+    \item[B.] $\dfrac{5}{2}$
+    \item[C.] 4
+    \item[D.] $\dfrac{17}{2}$
+    \item[E.] 31
+\end{itemize}
+
+\noindent 9336.
+\begin{tabularx}{0.5\textwidth}{|c|c|}
+\hline
+$x$ & Sign of f($x$) \\
+\hline
+3.56 & $+$ \\
+\hline
+3.58 & $-$ \\
+\hline
+3.57 & $+$ \\
+\hline
+3.575 & $+$ \\
+\hline
+\end{tabularx}
+
+\noindent From the table, a root of the equation f($x$) = 0 is
+\begin{itemize}
+    \item[A.] 3.57 (correct to 3 sig. fig.)
+    \item[B.] 3.575 (correct to 4 sig. fig.)
+    \item[C.] 3.5775 (correct to 5 sig. fig.)
+    \item[D.] 3.5725 (correct to 4 sig. fig.)
+    \item[E.] 3.58 (correct to 3 sig. fig.)
+\end{itemize}
+
+\vspace{1cm}
+\noindent 93-CE-MATHS II \hfill 6
+
+\end{document}
+\documentclass{article}
+\usepackage{amsmath,graphicx,geometry,tabularx}
+\geometry{margin=1in}
+\begin{document}
+
+\noindent 93 37. Given that the positive numbers $p, q, r, s$ are in G.P., which of the following must be true?
+\begin{itemize}
+    \item[I.] $kp, kq, kr, ks$ are in G.P., where $k$ is a non-zero constant.
+    \item[II.] $a^p, a^q, a^r, a^s$ are in G.P., where $a$ is a positive constant.
+    \item[III.] $\log p, \log q, \log r, \log s$ are in A.P.
+\end{itemize}
+\begin{itemize}
+    \item[A.] I only
+    \item[B.] II only
+    \item[C.] I and II only
+    \item[D.] I and III only
+    \item[E.] I, II and III only
+\end{itemize}
+
+\vspace{1em}
+
+\noindent 93 38.
+\begin{center}
+    % TODO: Insert image for question 38
+    \includegraphics[width=0.3\linewidth]{image_38.png}
+\end{center}
+In the figure, the rectangle has perimeter 16 cm and area 15 cm$^2$. Find the length of its diagonal $AC$.
+\begin{itemize}
+    \item[A.] $\sqrt{32}$ cm
+    \item[B.] $\sqrt{34}$ cm
+    \item[C.] 7 cm
+    \item[D.] $\sqrt{226}$ cm
+    \item[E.] $\sqrt{241}$ cm
+\end{itemize}
+
+\vspace{1em}
+
+\noindent 93 39. In factorizing the expression $a^4 + a^2b^2 + b^4$, we find that
+\begin{itemize}
+    \item[A.] $(a^2 - b^2)$ is a factor.
+    \item[B.] $(a^2 + b^2)$ is a factor.
+    \item[C.] $(a^2 - ab - b^2)$ is a factor.
+    \item[D.] $(a^2 - ab + b^2)$ is a factor.
+    \item[E.] it cannot be factorized.
+\end{itemize}
+
+\vspace{1em}
+
+\noindent 93 40. If the solution of the inequality $x^2 - ax + 6 \le 0$ is $c \le x \le 3$, then
+\begin{itemize}
+    \item[A.] $a = 5, c = 2$.
+    \item[B.] $a = -5, c = 2$.
+    \item[C.] $a = 5, c = -2$.
+    \item[D.] $a = 1, c = -2$.
+    \item[E.] $a = -1, c = 2$.
+\end{itemize}
+
+\vspace{1em}
+
+\noindent 93 41.
+\begin{center}
+    % TODO: Insert image for question 41
+    \includegraphics[width=0.3\linewidth]{image_41.png}
+\end{center}
+In the figure, $ABCD$ is a square and $ABE$ is an equilateral triangle.
+$\dfrac{\text{Area of } ABE}{\text{Area of } ABCD} =$
+\begin{itemize}
+    \item[A.] $\dfrac{1}{4}$
+    \item[B.] $\dfrac{1}{3}$
+    \item[C.] $\dfrac{\sqrt{3}}{8}$
+    \item[D.] $\dfrac{\sqrt{3}}{4}$
+    \item[E.] $\dfrac{\sqrt{3}}{2}$
+\end{itemize}
+
+\vspace{1em}
+
+\noindent 93 42.
+\begin{center}
+    % TODO: Insert image for question 42
+    \includegraphics[width=0.3\linewidth]{image_42.png}
+\end{center}
+In the figure, the radii of the sectors $OPQ$ and $ORS$ are 5 cm and 3 cm respectively. $\dfrac{\text{Area of shaded region}}{\text{Area of sector } OPQ} =$
+
+\vfill
+\noindent 93-CE-MATHS II \hfill 7
+
+\end{document}
+\documentclass{article}
+\usepackage{amsmath,graphicx,geometry,tabularx}
+\geometry{margin=1in}
+\begin{document}
+
+\begin{itemize}
+    \item[A.] $\dfrac{4}{25}$
+    \item[B.] $\dfrac{2}{5}$
+    \item[C.] $\dfrac{9}{25}$
+    \item[D.] $\dfrac{16}{25}$
+    \item[E.] $\dfrac{21}{25}$
+\end{itemize}
+
+\noindent 93 43. Which of the following gives the compound interest on \$ 10 000 at 6\% p.a. for one year, compounded monthly?
+
+\begin{itemize}
+    \item[A.] $\$ 10\,000 \times \dfrac{0.06}{12} \times 12$
+    \item[B.] $\$ 10\,000(1.06^{12} - 1)$
+    \item[C.] $\$ 10\,000\left(1 + \dfrac{0.06}{12}\right)^{12}$
+    \item[D.] $\$ 10\,000\left[\left(1 + \dfrac{0.06}{12}\right)^{12} - 1\right]$
+    \item[E.] $\$ 10\,000\left[\left(1 + \dfrac{0.6}{12}\right)^{12} - 1\right]$
+\end{itemize}
+
+\noindent 93 44. Originally $\dfrac{2}{3}$ of the students in a class failed in an examination. After taking a re-examination, 40\% of the failed students passed. Find the total pass percentage of the class.
+
+\begin{itemize}
+    \item[A.] $26\dfrac{2}{3}\%$
+    \item[B.] $33\dfrac{1}{3}\%$
+    \item[C.] $40\%$
+    \item[D.] $60\%$
+    \item[E.] $73\dfrac{1}{3}\%$
+\end{itemize}
+
+\noindent 93 45. Solve $\tan^4\theta + 2\tan^2\theta - 3 = 0$ for $0^\circ \leq \theta < 360^\circ$.
+
+\begin{itemize}
+    \item[A.] $45^\circ, 135^\circ$ only
+    \item[B.] $45^\circ, 225^\circ$ only
+    \item[C.] $45^\circ, 60^\circ, 225^\circ, 240^\circ$
+    \item[D.] $45^\circ, 120^\circ, 225^\circ, 300^\circ$
+    \item[E.] $45^\circ, 135^\circ, 225^\circ, 315^\circ$
+\end{itemize}
+
+\noindent 93 46. 
+% TODO: Insert figure for graph
+\begin{center}
+    \includegraphics[width=0.4\linewidth]{figure_46.png} % Placeholder for the graph
+\end{center}
+The figure shows the graph of the function
+
+\begin{itemize}
+    \item[A.] $y = \sin(350^\circ - x)$.
+    \item[B.] $y = \sin(x + 10^\circ)$.
+    \item[C.] $y = \cos(x + 10^\circ)$.
+    \item[D.] $y = \sin(x - 10^\circ)$.
+    \item[E.] $y = \cos(x - 10^\circ)$.
+\end{itemize}
+
+\noindent 93 47. 
+% TODO: Insert figure for triangle
+\begin{center}
+    \includegraphics[width=0.4\linewidth]{figure_47.png} % Placeholder for the triangle
+\end{center}
+In the figure, $ABC$ is an equilateral triangle and the radii of the three circles are each equal to 1. Find the perimeter of the triangle.
+
+\begin{itemize}
+    \item[A.] $12$
+    \item[B.] $3(1 + \tan 30^\circ)$
+    \item[C.] $6(1 + \tan 30^\circ)$
+\end{itemize}
+
+\vfill
+\noindent 93-CE-MATHS II \hfill 8
+
+\end{document}
+\documentclass{article}
+\usepackage{amsmath,graphicx,geometry,tabularx}
+\geometry{margin=1in}
+\begin{document}
+
+\begin{itemize}
+    \item[D.] $3\left(1 + \dfrac{1}{\tan 30^\circ}\right)$
+    \item[E.] $6\left(1 + \dfrac{1}{\tan 30^\circ}\right)$
+\end{itemize}
+
+\begin{itemize}
+    \item[II.] $a : b : c = 1 : 2 : 3$
+    \item[III.] $\sin A : \sin B : \sin C = 1 : 2 : 3$
+\end{itemize}
+
+\begin{itemize}
+    \item[A.] I only
+    \item[B.] II only
+    \item[C.] III only
+    \item[D.] I and II only
+    \item[E.] I, II and III only
+\end{itemize}
+
+\noindent 93 \\
+48. 
+\begin{center}
+    % TODO: Insert image for cuboid diagram
+    \includegraphics[width=0.4\textwidth]{cuboid_diagram.png}
+\end{center}
+
+\noindent In the figure, $ABCDEFGH$ is a cuboid. The diagonal $AH$ makes an angle $\theta$ with the base $ABCD$. Find $\tan \theta$.
+
+\begin{itemize}
+    \item[A.] $\dfrac{3}{5}$
+    \item[B.] $\dfrac{3}{12}$
+    \item[C.] $\dfrac{3}{13}$
+    \item[D.] $\dfrac{3}{\sqrt{178}}$
+    \item[E.] $\dfrac{\sqrt{153}}{5}$
+\end{itemize}
+
+\noindent 93 \\
+50.
+\begin{center}
+    % TODO: Insert image for circle tangent diagram
+    \includegraphics[width=0.4\textwidth]{circle_tangent_diagram.png}
+\end{center}
+
+\noindent In the figure, $TP$ and $TQ$ are tangent to the circle at $P$ and $Q$ respectively. if $M$ is a point on the minor arc $PQ$ and $\angle PMQ = \theta$, then $\angle PTQ =$
+
+\begin{itemize}
+    \item[A.] $\dfrac{\theta}{2}$
+    \item[B.] $\theta - 90^\circ$
+    \item[C.] $180^\circ - \theta$
+    \item[D.] $180^\circ - 2\theta$
+    \item[E.] $2\theta - 180^\circ$
+\end{itemize}
+
+\noindent 93 \\
+49.
+\begin{center}
+    % TODO: Insert image for circle with triangle ABC
+    \includegraphics[width=0.3\textwidth]{circle_triangle_abc.png}
+\end{center}
+
+\noindent In the figure, if arc $BC$ : arc $CA$ : arc $AB$ = $1 : 2 : 3$, which of the following is/are true?
+
+\begin{itemize}
+    \item[I.] $\angle A : \angle B : \angle C = 1 : 2 : 3$
+\end{itemize}
+
+\noindent 93 \\
+51.
+\begin{center}
+    % TODO: Insert image for circle with tangent AB
+    \includegraphics[width=0.4\textwidth]{circle_tangent_ab.png}
+\end{center}
+
+\noindent In the figure, $O$ is the centre of the circle. $AB$ touches the circle at $N$. Which of the following is/are correct?
+
+\begin{itemize}
+    \item[I.] $M, N, K, O$ are concyclic.
+    \item[II.] $\Delta HNB \sim \Delta NKB$
+    \item[III.] $\angle OAN = \angle NOB$
+\end{itemize}
+
+\begin{itemize}
+    \item[A.] I only
+    \item[B.] II only
+\end{itemize}
+
+\vfill
+\noindent 93-CE-MATHS II \hfill 9
+
+\end{document}
+\documentclass{article}
+\usepackage{amsmath,graphicx,geometry,tabularx}
+\geometry{margin=1in}
+\begin{document}
+
+\begin{itemize}
+    \item[C.] III only
+    \item[D.] I and II only
+    \item[E.] I, II and III only
+\end{itemize}
+
+\noindent 93 \\
+52.
+\begin{center}
+    % TODO: Insert figure for 52
+    \includegraphics[width=0.4\textwidth]{figure_52.png}
+\end{center}
+In the figure $ABCD$ and $EFGH$ are two squares and $ACH$ is an equilateral triangle. Find $AB : EF$.
+
+\begin{itemize}
+    \item[A.] $1 : 2$
+    \item[B.] $1 : 3$
+    \item[C.] $1 : \sqrt{2}$
+    \item[D.] $1 : \sqrt{3}$
+    \item[E.] $\sqrt{2} : \sqrt{3}$
+\end{itemize}
+
+\vspace{1em}
+
+\noindent 93 \\
+54.
+\begin{center}
+    % TODO: Insert figure for 54
+    \includegraphics[width=0.4\textwidth]{figure_54.png}
+\end{center}
+In the figure, the three circles touch one another. $XY$ is their common tangent. The two larger circles are equal. If the radius of the smaller circle is 4 cm, find the radii of the larger circles.
+
+\begin{itemize}
+    \item[A.] 8 cm
+    \item[B.] 10 cm
+    \item[C.] 12 cm
+    \item[D.] 14 cm
+    \item[E.] 16 cm
+\end{itemize}
+
+\vspace{1em}
+
+\noindent 93 \\
+53.
+\begin{center}
+    % TODO: Insert figure for 53
+    \includegraphics[width=0.5\textwidth]{figure_53.png}
+\end{center}
+In the figure, a rectangular piece of paper $ABCD$ is folded along $EF$ so that $C$ and $A$ coincide. If $AB = 12$ cm, $BC = 16$ cm, find $BE$.
+
+\begin{itemize}
+    \item[A.] 3.5 cm
+    \item[B.] 4.5 cm
+    \item[C.] 5 cm
+    \item[D.] 8 cm
+    \item[E.] 12.5 cm
+\end{itemize}
+
+\vspace{2em}
+
+\noindent 93-CE-MATHS II \hfill 10
+
+\end{document}

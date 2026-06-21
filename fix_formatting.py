@@ -89,7 +89,7 @@ def fix_numbers(text):
     text = re.sub(r"([\d\\,]+)\\\(\\pi", r"\( \1 \\pi", text)
     text = re.sub(r"([\d.]+)%", r"\( \1 \% \)", text)
     text = re.sub(r"\$((\d|\.|\\,)+)", r"\( \$ \1 \)", text)
-    text = text.replace("\\\\", "\\")
+    text = text.replace("\\\\(", "\\(")
     text = re.sub(r"([A-Za-df-z])(\s?)(\d+)(\s[A-Za-z]|\.)", r"\1\2\( \3 \)\4", text)
     return text
 

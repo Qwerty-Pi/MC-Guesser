@@ -42,6 +42,7 @@ def convert_html_to_json(paper_path):
     for question in soup.find_all("div"):
         s = question.prettify().replace("<div>", "").replace("</div>", "")
         s = s.replace("\n", "").strip(" ")
+        s = s.replace("<u> ", "<u>").replace("<u> ", "<u>").replace(" </u>", "</u>") # prettify add spaces?
         for n in range(1, 10000):
             if s.startswith(f"{n}. "):
                 s = s[len(f"{n}. "):]
