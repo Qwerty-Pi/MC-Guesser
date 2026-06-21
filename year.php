@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <title>DSE Mathematics Compulsory Part Practice Paper</title>
     <script src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js"></script>
+    <script src="https://code.jquery.com/jquery-4.0.0.js" integrity="sha256-9fsHeVnKBvqh3FB2HYu7g2xseAZ5MlN6Kz/qnkASV8U=" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="index.css">
     <link rel="stylesheet" href="style.css">
 </head>
@@ -34,28 +35,30 @@
 		</select>
 		<button onclick="loadPaper()">Load</button>
 	</div>
-	<div></div>
-	<div id="content">
+	<div id="question-container">
 
 	</div>
 	<script>
-		function sleep(ms) {
-			return new Promise(resolve => setTimeout(resolve, ms));
+		async function getQuestion() {
+
 		}
 
 		function loadPaper() {
-			let year = document.getElementById("year").value
-			let paper = document.getElementById("paper").value
+			let year = $("#year").val()
+			let paper = $("#paper").val()
 			fetch(`artifact/paper-${paper}/${year}/questions.json`, {method: "GET", type: "json"})
 			.then((res) => res.json())
 			.then(async (data) => {
-				const e = document.getElementById("content");
-				e.innerHTML = "";
-				let question = 1;
-				for (const datum of data) {
-					e.innerHTML += "<div>" + question + ". " + datum + "</div>";
-					question += 1;
+				const questionContainer = $("#question-container");
+				questionContainer.html("");
+				let label = 1;
+				let content = "";
+				for (const question of data) {
+					questionContainer.append($("<div class='question-label'>").html(`${label}`));
+					questionContainer.append($("<div class='question-content'>").html(question));
+					label += 1;
 				}
+				// e.html(content);
 				await MathJax.typesetPromise();
 			})
 		}

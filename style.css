@@ -1,6 +1,5 @@
-
 div {
-    margin-bottom: 2em;
+    margin-bottom: 1em;
 }
 img {
     filter: invert(0.917); 
@@ -16,7 +15,11 @@ img {
     outline-style: none;	
 }
 
-select, button, option {
+optgroup {
+    background-color: var(--background-color);
+}
+
+select, button, option, input {
     background-color: var(--background-color);
 }
 
@@ -25,8 +28,15 @@ select, ::picker(select) {
     border-radius: 0;
 }
 
+body {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+
 #selector {
-    position: fixed;
+    position: sticky;
+    top: 0;
     top: 0;
     left: 0;
     width: 100%;
@@ -34,10 +44,26 @@ select, ::picker(select) {
     z-index: 10;
 }
 
-option:hover {
-    background: color-mix(in srgb, var(--background-color) 100%, var(--text-color) 20%) !important;
+#question-container {
+    display: grid;
+    align-items: stretch;
+    grid-template-columns: 3em 1fr;
 }
 
-input {
-    background-color: var(--background-color);
+#question-container > .question-label {
+    background-color: var(--text-color);
+    color: var(--background-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0.5em;
+    font-size: 1.2em;
+}
+
+#question-container > .question-content {
+    margin: 0.5em;
+}
+
+option:hover {
+    background: color-mix(in srgb, var(--background-color) 100%, var(--text-color) 20%) !important;
 }

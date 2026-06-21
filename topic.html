@@ -6,51 +6,10 @@
     <script src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js"></script>
     <script src="https://code.jquery.com/jquery-4.0.0.js" integrity="sha256-9fsHeVnKBvqh3FB2HYu7g2xseAZ5MlN6Kz/qnkASV8U=" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
 	<style>
-		div {
-			margin-bottom: 1em;
-		}
-		img {
-			filter: invert(0.917); 
-			-webkit-touch-callout: none;
-			-webkit-user-select: none;
-			-khtml-user-select: none;
-			-moz-user-select: none;
-			-ms-user-select: none;
-			user-select: none;
-		}
-
-		* {
-			outline-style: none;	
-		}
-
-		select, button, option, input {
-			background-color: var(--background-color);
-		}
-
-		select, ::picker(select) {
-			appearance: base-select;
-			border-radius: 0;
-		}
-
-		#selector {
-			position: fixed;
-			top: 0;
-			left: 0;
-			width: 100%;
-			background-color: var(--background-color);
-			z-index: 10;
-		}
-
-		option:hover {
-			background: color-mix(in srgb, var(--background-color) 100%, var(--text-color) 20%) !important;
-		}
-
-        #content {
-            margin-top: 6em;
-        }
 	</style>
 	<div id="selector">
         <div>
