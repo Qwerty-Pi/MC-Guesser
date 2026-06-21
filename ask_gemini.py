@@ -19,6 +19,8 @@ def by_topic(paper):
     prompt = prompt.replace("\n", "").replace("  ", " ").replace("  ", " ").replace("  ", " ")
     prompt += "\nRefers to the above documents, classify the topics listed below, and return as an array of the format J1, S3 where J refers to junior, S refers to senior. The format is [J/S][1-99] where the number is the subtopic of the question, NOT the question label itself. Return in JSON format.\n"
     prompt += open(f"artifact/{paper}/questions.html").read().replace("<br/>", "").replace(" ", "").replace("\n", "")
+    with open("prompt.txt", "w") as f:
+        f.write(prompt)
     res = ask(prompt, model="gemini-3.5-flash")
     return json.loads(res[7:-3])
 
