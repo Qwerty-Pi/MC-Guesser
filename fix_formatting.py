@@ -5,6 +5,8 @@ def fix_fullstop(question):
     lines_parsed = []
     lines = question.split("<br/>") 
     ended_with_punctuation = False
+    
+    equation_question = False
     for line in lines:
         line = line.strip()
 
@@ -12,6 +14,10 @@ def fix_fullstop(question):
         item = re.match(r'^(I|II|III|IV)\.', line)
         figure = re.match(r'<img.*>', line)
         equation = re.match(r'\\\[.*\\\]', line)
+    
+        if not item and not figure and not equation and not option and line.endswith("\\)") and line.count("\\(") == 1 and re.match(r'\d+\. \\\(', line):
+            equation_question = True
+            print("Equation")
         if option:
             prefix, content = option.groups()
             prefix = prefix.strip()
@@ -26,6 +32,9 @@ def fix_fullstop(question):
                     should_end = True
             else:
                 should_end = True
+            
+            if equation_question:
+                should_end = False
             # should_end = False # old paper doesn't have!
             # should not add fullstop to figures!
             if re.match(r'<img.*>', content):
@@ -42,13 +51,14 @@ def fix_fullstop(question):
             pass
         else:
             ended_with_punctuation = line.endswith(".") or line.endswith("?") # or line.endswith(r"\)")
-        if line.strip() == "":
+        line = line.strip()
+        if line == "":
             continue # do not add empty <br>
         lines_parsed.append(line)
     return "<br/>\n".join(lines_parsed)
 
 def fix_numeric_string(text):
-    pattern = re.compile(r"([^.\dA-F])(\d+)(\d\d\d)")
+    pattern = re.compile(r"([^.\dA-F])(\d\d+)(\d\d\d)")
     def replace(match):
         b = [match.group(g) for g in [1, 2, 3]]
         return b[0] + b[1] + "\\," + b[2] # spacing
@@ -61,6 +71,8 @@ def fix_arb(text):
                .replace(r"\text{marks}", r"\text{ marks}")
     text = text.replace(r"\widehat", r"\overparen")
     text = text.replace(r".\)", r"\)")
+    text = re.sub(r"\\textit{(.*?)}", r"<i>\1</i>", text)
+    text = re.sub(r"\\textbf{(.*?)}", r"<b>\1</b>", text)
     return text
 
 def fix_cmp(text):
@@ -77,15 +89,16 @@ def fix_numbers(text):
     text = re.sub(r"([\d\\,]+)\\\(\\pi", r"\( \1 \\pi", text)
     text = re.sub(r"([\d.]+)%", r"\( \1 \% \)", text)
     text = re.sub(r"\$((\d|\.|\\,)+)", r"\( \$ \1 \)", text)
+    text = text.replace("\\\\", "\\")
     text = re.sub(r"([A-Za-df-z])(\s?)(\d+)(\s[A-Za-z]|\.)", r"\1\2\( \3 \)\4", text)
     return text
 
 def format_question(text):
-    text = fix_fullstop(text)
     text = fix_numeric_string(text)
     text = fix_arb(text)
     text = fix_cmp(text)
     text = fix_numbers(text)
+    text = fix_fullstop(text)
     text = text.replace("figures/figure", "figures/")
     return text
 

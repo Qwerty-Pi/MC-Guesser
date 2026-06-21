@@ -1,0 +1,218 @@
+<div>1. If \(f(x)=10^{2x}\), then \(f(4y)=\)<br/>
+A. \(10^{4y}\).<br/>
+B. \(10^{2+4y}\).<br/>
+C. \(10^{8y}\).<br/>
+D. \(40^y\).<br/>
+E. \(40^{2y}\).
+</div>
+
+<div>2. If \(s=\dfrac{n}{2}[2a+(n-1)d]\), then \(d=\)<br/>
+A. \(\dfrac{2(s-an)}{n(n-1)}\).<br/>
+B. \(\dfrac{2(s-an)}{n-1}\).<br/>
+C. \(\dfrac{s}{n(n-1)}\).<br/>
+D. \(\dfrac{as-n}{a(n-1)}\).<br/>
+E. \(\dfrac{4(s-an)}{n(n-1)}\).
+</div>
+
+<div>3. Simplify \((x^2-\sqrt{3}x+1)(x^2+\sqrt{3}x+1)\).<br/>
+A. \(x^4+1\)<br/>
+B. \(x^4-x^2+1\)<br/>
+C. \(x^4+x^2+1\)<br/>
+D. \(x^4-3x^2-2\sqrt{3}x-1\)<br/>
+E. \(x^4+\sqrt{3}x^3-2\sqrt{3}x^2+\sqrt{3}x+1\)
+</div>
+
+<div>4. Simplify \(\dfrac{\sqrt{b}}{\sqrt{a}-\sqrt{b}}+\dfrac{\sqrt{a}}{\sqrt{a}+\sqrt{b}}\).<br/>
+A. \(\dfrac{1}{\sqrt{a}-\sqrt{b}}\)<br/>
+B. \(\dfrac{a+2\sqrt{ab}-b}{a-b}\)<br/>
+C. \(\dfrac{\sqrt{b}+\sqrt{a}}{2\sqrt{a}}\)<br/>
+D. \(\dfrac{b+2\sqrt{ab}-a}{a-b}\)<br/>
+E. \(\dfrac{a+b}{a-b}\)
+</div>
+
+<div>5. If \(3x^2+ax-5 \equiv (bx-1)(2-x)-3\), then<br/>
+A. \(a=-5, b=-3\).<br/>
+B. \(a=-5, b=3\).<br/>
+C. \(a=-3, b=-5\).<br/>
+D. \(a=5, b=-3\).<br/>
+E. \(a=3, b=5\).
+</div>
+
+<div>6. Find the greatest value of \(3x+2y\) if \((x,y)\) is a point lying in the region \(OABCD\) (including the boundary).<br/>
+<img src="figures/6.svg" alt="Figure 6"><br/>
+A. \(15\)<br/>
+B. \(13\)<br/>
+C. \(12\)<br/>
+D. \(9\)<br/>
+E. \(8\)
+</div>
+
+<div>7. The diagram shows the graphs of \(y=ax^2+bx\) and \(y=cx+d\). The solutions of the equation \(ax^2+bx=cx+d\) are<br/>
+<img src="figures/7.svg" alt="Figure 7"><br/>
+A. \(-1, 1\).<br/>
+B. \(-1, 2\).<br/>
+C. \(0, 1\).<br/>
+D. \(0, 3\).<br/>
+E. \(1, 3\).
+</div>
+
+<div>8. If \(\log(p+q)=\log p+\log q\), then<br/>
+A. \(p=q=1\).<br/>
+B. \(p=\dfrac{q}{q-1}\).<br/>
+C. \(p=\dfrac{q}{q+1}\).<br/>
+D. \(p=\dfrac{q+1}{q}\).<br/>
+E. \(p=\dfrac{q-1}{q}\).
+</div>
+
+<div>9. The expression \(x^2-2x+k\) is divisible by \((x+1)\). Find the remainder when it is divided by \((x+3)\).<br/>
+A. \(1\)<br/>
+B. \(4\)<br/>
+C. \(12\)<br/>
+D. \(16\)<br/>
+E. \(18\)
+</div>
+
+<div>10. If \(3, a, b, c, 23\) are in A.S., then \(a+b+c=\)<br/>
+A. \(13\).<br/>
+B. \(26\).<br/>
+C. \(33\).<br/>
+D. \(39\).<br/>
+E. \(65\).
+</div>
+
+<div>11. Find the H.C.F. and L.C.M. of \(ab^2c\) and \(abc^3\).<br/>
+A. H.C.F. \(a\), L.C.M. \(a^2b^3c^4\)<br/>
+B. H.C.F. \(abc\), L.C.M. \(ab^2c^3\)<br/>
+C. H.C.F. \(abc\), L.C.M. \(a^2b^3c^4\)<br/>
+D. H.C.F. \(ab^2c^3\), L.C.M. \(abc\)<br/>
+E. H.C.F. \(a^2b^3c^4\), L.C.M. \(abc\)
+</div>
+
+<div>12. If \(\alpha\) and \(\beta\) are the roots of the quadratic equation \(x^2-3x-1=0\), find the value of \(\dfrac{1}{\alpha}+\dfrac{1}{\beta}\).<br/>
+A. \(-3\)<br/>
+B. \(-1\)<br/>
+C. \(-\dfrac{1}{3}\)<br/>
+D. \(\dfrac{2}{3}\)<br/>
+E. \(3\)
+</div>
+
+<div>13. If the simultaneous equations \(\begin{cases} y=x^2-k \\ y=x \end{cases}\) have only one solution, find \(k\).<br/>
+A. \(-1\)<br/>
+B. \(-\dfrac{1}{4}\)<br/>
+C. \(-4\)<br/>
+D. \(\dfrac{1}{4}\)<br/>
+E. \(1\)
+</div>
+
+<div>14. The price of a cylindrical cake of radius \(r\) and height \(h\) varies directly as the volume. If \(r=5 \text{ cm}\) and \(h=4 \text{ cm}\), the price is \( \$ 30 \). Find the price when \(r=4 \text{ cm}\) and \(h=6 \text{ cm}\).<br/>
+<img src="figures/14.svg" alt="Figure 14"><br/>
+A. \( \$ 25 \)<br/>
+B. \( \$ 28.80 \)<br/>
+C. \( \$ 31.50 \)<br/>
+D. \( \$ 36 \)<br/>
+E. \( \$ 54 \)
+</div>
+
+<div>15. Find the perimeter of the sector in the figure.<br/>
+<img src="figures/15.svg" alt="Figure 15"><br/>
+A. \(2.25 \text{ cm}\)<br/>
+B. \(3 \text{ cm}\)<br/>
+C. \(\left(\dfrac{\pi}{60}+3\right) \text{ cm}\)<br/>
+D. \(4.5 \text{ cm}\)<br/>
+E. \(6 \text{ cm}\)
+</div>
+
+<div>16. <img src="figures/16.svg" alt="Figure 16"><br/>
+In the figure, the base of the conical vessel is inscribed in the bottom of the cubical box. If the box and the conical vessel have the same capacity, find \(h:r\).<br/>
+A. \(24:\pi\)<br/>
+B. \(3:1\)<br/>
+C. \(6:\pi\)<br/>
+D. \(3:\pi\)<br/>
+E. \(8:3\pi\)
+</div>
+
+<div>17. The figure shows a solid consisting of a cylinder of height \(h\) and a hemisphere of radius \(r\). The area of the curved surface of the cylinder is twice that of the hemisphere. Find the ratio volume of cylinder : volume of hemisphere.<br/>
+<img src="figures/17.svg" alt="Figure 17"><br/>
+A. \(1:3\)<br/>
+B. \(2:3\)<br/>
+C. \(3:4\)<br/>
+D. \(3:2\)<br/>
+E. \(3:1\)
+</div>
+
+<div>18. A merchant marks his goods \(25\%\) above the cost. He allows \(10\%\) discount on the marked price for a cash sale. Find the percentage profit the merchant makes for a cash sale.<br/>
+A. \(12.5\%\)<br/>
+B. \(15\%\)<br/>
+C. \(22.5\%\)<br/>
+D. \(35\%\)<br/>
+E. \(37.5\%\)
+</div>
+
+<div>19. \(\dfrac{\cos\theta}{1-\sin^2\theta}\times\dfrac{1-\cos^2\theta}{\sin\theta}=\)<br/>
+A. \(\sin\theta\)<br/>
+B. \(\cos\theta\)<br/>
+C. \(\tan\theta\)<br/>
+D. \(\dfrac{1}{\sin\theta}\)<br/>
+E. \(\dfrac{1}{\cos\theta}\)
+</div>
+
+<div>20. \(\cos^4\theta-\sin^4\theta+2\sin^2\theta=\)<br/>
+A. \(0\)<br/>
+B. \(1\)<br/>
+C. \((1-\sin^2\theta)^2\)<br/>
+D. \((1-\cos^2\theta)^2\)<br/>
+E. \((\cos^2\theta-\sin^2\theta)^2\)
+</div>
+
+<div>21. In the figure, \(\cos A=-\dfrac{4}{5}\). Find \(a\).<br/>
+<img src="figures/21.svg" alt="Figure 21"><br/>
+A. \(\sqrt{153}\)<br/>
+B. \(\sqrt{137}\)<br/>
+C. \(\sqrt{89}\)<br/>
+D. \(\sqrt{41}\)<br/>
+E. \(\sqrt{25}\)
+</div>
+
+<div>22. The largest value of \(3\sin^2\theta+2\cos^2\theta-1\) is<br/>
+A. \(1\).<br/>
+B. \(\dfrac{3}{2}\).<br/>
+C. \(2\).<br/>
+D. \(3\).<br/>
+E. \(4\).
+</div>
+
+<div>23. In the figure, \(AB=BC\), \(BP=CP\) and \(BP \mathbin{\!/\mkern-5mu/\!} CP\). Find \(\tan\theta\).<br/>
+<img src="figures/23.svg" alt="Figure 23"><br/>
+A. \(\dfrac{1}{4}\)<br/>
+B. \(\dfrac{1}{3}\)<br/>
+C. \(\dfrac{1}{2}\)<br/>
+D. \(\dfrac{1}{\sqrt{3}}\)<br/>
+E. \(\dfrac{\sqrt{3}}{2}\)
+</div>
+
+<div>24. In the figure, points \(A\), \(B\), \(C\) and \(D\) are concyclic. Find \(x\).<br/>
+<img src="figures/24.svg" alt="Figure 24"><br/>
+A. \(20^\circ\)<br/>
+B. \(22.5^\circ\)<br/>
+C. \(25^\circ\)<br/>
+D. \(27.5^\circ\)<br/>
+E. \(30^\circ\)
+</div>
+
+<div>25. In the figure, \(BA \mathbin{\!/\mkern-5mu/\!} DE\) and \(AC=AD\). Find \(\theta\).<br/>
+<img src="figures/25.svg" alt="Figure 25"><br/>
+A. \(34^\circ\)<br/>
+B. \(54^\circ\)<br/>
+C. \(70^\circ\)<br/>
+D. \(72^\circ\)<br/>
+E. \(76^\circ\)
+</div>
+
+<div>26. In the figure, \(AB\) is a diameter. Find \(\angle ADC\).<br/>
+<img src="figures/26.svg" alt="Figure 26"><br/>
+A. \(100^\circ\)<br/>
+B. \(110^\circ\)<br/>
+C. \(120^\circ\)<br/>
+D. \(135^\circ\)<br/>
+E. \(140^\circ\)
+</div>

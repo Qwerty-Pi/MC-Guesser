@@ -130,7 +130,8 @@ def process_figures(year, doc, page_no, page_cnt = 1, verbal = False):
 
         label = None
         if (prv_bbox.empty or bbox.x1 % (1.0 / page_cnt) < prv_bbox.x1 % (1.0 / page_cnt) + 0.05) and text_density > 5000 and bbox.width() < 0.1:
-            label = re.fullmatch(str(year % 100) + "\n" + r"(\d{1,2})\.?", reader.read_label(img))
+            label = re.fullmatch(r"(\d{1,2})\.?", reader.read_label(img))
+            # label = re.fullmatch(str(year % 100) + "\n" + r"(\d{1,2})\.?", reader.read_label(img))
         print("Detected Text (Tesseract):", detected_text)
         print("Detected Text (Label):", label_txt)
 
