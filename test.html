@@ -1,16 +1,90 @@
-<div>
-1.<br/>
-\(5^{334} \left( \dfrac{-1}{5} \right)^{333} = \)<br/>
-A. \(-5\).<br/>
-B. \(-0.2\).<br/>
-C. \(0\).<br/>
-D. \(5\).
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>DSE Mathematics Compulsory Part Practice Paper</title>
+    <script src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js"></script>
+    <script src="https://code.jquery.com/jquery-4.0.0.js" integrity="sha256-9fsHeVnKBvqh3FB2HYu7g2xseAZ5MlN6Kz/qnkASV8U=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="style.css">
+</head>
 
-<div>
-2. If \(\dfrac{2+a}{a}=\dfrac{2-x}{x}\), then \(x=\)<br/>
-A. \(\dfrac{a}{1+a}\).<br/>
-B. \(\dfrac{2a}{1+a}\).<br/>
-C. \(\dfrac{a}{2+a}\).<br/>
-D. \(\dfrac{2a}{2+a}\).
-</div>
+<body>
+	<div id="question-container">
+        <div class="question-label">
+            1
+        </div>
+        <div class="question-content">
+            \(5^{334} \left( \dfrac{-1}{5} \right)^{333} = \)
+            <div class="option-container">
+                <div class="option">A. \( -5 \).</div>
+                <div class="option">B. \( -0.2 \).</div>
+                <div class="option">C. \( 0 \).</div>
+                <div class="option">D. \( 5 \).</div>
+            </div>
+        </div>
+
+        <div class="question-label">
+            <div class="question-order">
+                2
+            </div>
+			<div class="question-reference">
+				<span>2012</span>
+				<span>Q34</span>
+			</div>
+        </div>
+
+        <div class="question-content">
+            If \(\dfrac{2+a}{a}=\dfrac{2-x}{x}\), then \(x=\)
+            <div class="option-container">
+                <div class="option">A. \(\dfrac{a}{1+a}\).</div>
+                <div class="option">B. \(\dfrac{2a}{1+a}\).</div>
+                <div class="option">C. \(\dfrac{a}{2+a}\).</div>
+                <div class="option">D. \(\dfrac{2a}{2+a}\).</div>
+            </div>
+        </div>
+	</div>
+	<script>
+		async function appendQuestion(container, label, question) {
+			container.append($("<div class='question-label'>").html(`${label}`));
+			container.append($("<div class='question-content'>").html(question));
+		}
+
+		function loadPaper() {
+			let year = $("#year").val()
+			let paper = $("#paper").val()
+			fetch(`artifact/paper-${paper}/${year}/questions.json`, {method: "GET", type: "json"})
+			.then((res) => res.json())
+			.then(async (data) => {
+				const questionContainer = $("#question-container");
+				questionContainer.html("");
+				let label = 1;
+				let content = "";
+				for (const question of data) {
+					await appendQuestion(questionContainer, label, question);
+					label += 1;
+				}
+				// e.html(content);
+				await MathJax.typesetPromise();
+			})
+		}
+
+		const urlParams = new URLSearchParams(window.location.search);
+		const year = urlParams.get('year');
+		if (year) {
+			document.getElementById("year").value = year;
+			loadPaper();
+		}
+		// too slow...
+		// document.getElementById("year").addEventListener('change', function() {
+		// 	loadPaper();
+		// })
+		// document.getElementById("paper").addEventListener('change', function() {
+		// 	loadPaper();
+		// })
+		// loadPaper();
+	</script>
+</body>
+</html>
+
+

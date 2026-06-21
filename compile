@@ -3,6 +3,7 @@ import os, sys
 from bs4 import BeautifulSoup
 import fitz
 import json
+import re
 
 def resize_paper(paper_id):
     doc = fitz.open(f"raw/{paper_id}.pdf")
@@ -35,24 +36,33 @@ def concat_text(paper):
     with open(f"artifact/{paper}/merged.txt", "w") as f:
         f.write(content)
 
+def convert_question(paper_path, content):
+    content = content.prettify().replace("<div>", "").replace("</div>", "")
+    content = content.replace("\n", "").strip()
+    content = content.replace("<u> ", "<u>").replace("<u> ", "<u>").replace(" </u>", "</u>") # prettify add spaces?
+    content = re.sub("^\\d+\\.", "", content)
+    content = content.replace("figures/", f"artifact/{paper_path}/figure/")
+    content = content.replace("<br>", "<br/>")
+    lines = [_.strip() for _ in content.split("<br/>") if len(_.strip()) > 0]
+    statement, options = [], []
+    for line in lines:
+        if re.match(r"[A-E]\.", line):
+            line = line[2:].strip()
+            options.append(line)
+        else:
+            statement.append(line)
+    statement = "<br/>".join(statement)
+    return {
+        'statement': statement,
+        'options': options
+    }
+
 def convert_html_to_json(paper_path):
     content = open(f"artifact/{paper_path}/questions.html").read()
     soup = BeautifulSoup(content, "html.parser")
     questions = []
     for question in soup.find_all("div"):
-        s = question.prettify().replace("<div>", "").replace("</div>", "")
-        s = s.replace("\n", "").strip(" ")
-        s = s.replace("<u> ", "<u>").replace("<u> ", "<u>").replace(" </u>", "</u>") # prettify add spaces?
-        for n in range(1, 10000):
-            if s.startswith(f"{n}. "):
-                s = s[len(f"{n}. "):]
-        if s.startswith("<br/>"):
-            s = s[len("<br/>"):]
-        if s.startswith("<br>"):
-            s = s[len("<br>"):]
-        s = s.strip()
-        s = s.replace("figures/", f"artifact/{paper_path}/figure/")
-        questions.append(s)
+        questions.append(convert_question(paper_path, question))
     with open(f"artifact/{paper_path}/questions.json", "w") as f:
         f.write(json.dumps(questions))
     print(f"Written output to artifact/{paper_path}/questions.json.")

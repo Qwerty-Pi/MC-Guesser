@@ -1,3 +1,5 @@
 rm -r /var/www/general-wiki/secret/artifact/*
 # cp topic.html year.html /var/www/general-wiki/secret
 cp -r artifact/* /var/www/general-wiki/secret/artifact
+cp functions.js /var/www/general-wiki/secret/functions.js
+cp style.css /var/www/general-wiki/secret/style.css

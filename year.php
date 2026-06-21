@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>DSE Mathematics Compulsory Part Practice Paper</title>
+    <title>Mathematics</title>
     <script src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js"></script>
     <script src="https://code.jquery.com/jquery-4.0.0.js" integrity="sha256-9fsHeVnKBvqh3FB2HYu7g2xseAZ5MlN6Kz/qnkASV8U=" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="index.css">
@@ -10,7 +10,7 @@
 </head>
 <body>
 	<div id="selector">
-		DSE Mathematics 
+		Mathematics 
 		<select id="year">
 			<?php
 				for ($year = 1980; $year <= 2011; $year++) {
@@ -30,7 +30,6 @@
 			?>
 		</select>
 		<select id="paper">
-			<!-- <option value="1">Paper 1</option> -->
 			<option value="2">Paper 2</option>
 		</select>
 		<button onclick="loadPaper()">Load</button>
@@ -38,11 +37,8 @@
 	<div id="question-container">
 
 	</div>
+	<script src="functions.js"></script>
 	<script>
-		async function getQuestion() {
-
-		}
-
 		function loadPaper() {
 			let year = $("#year").val()
 			let paper = $("#paper").val()
@@ -54,8 +50,7 @@
 				let label = 1;
 				let content = "";
 				for (const question of data) {
-					questionContainer.append($("<div class='question-label'>").html(`${label}`));
-					questionContainer.append($("<div class='question-content'>").html(question));
+					await appendQuestion(questionContainer, label, null, question);
 					label += 1;
 				}
 				// e.html(content);
@@ -69,14 +64,6 @@
 			document.getElementById("year").value = year;
 			loadPaper();
 		}
-		// too slow...
-		// document.getElementById("year").addEventListener('change', function() {
-		// 	loadPaper();
-		// })
-		// document.getElementById("paper").addEventListener('change', function() {
-		// 	loadPaper();
-		// })
-		// loadPaper();
 	</script>
 </body>
 </html>

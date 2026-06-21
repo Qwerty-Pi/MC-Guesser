@@ -9,8 +9,6 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-	<style>
-	</style>
 	<div id="selector">
         <div>
             <span>DSE Mathematics</span>
@@ -18,7 +16,7 @@
                 <!-- <option value="1">Paper 1</option> -->
                 <option value="2">Paper 2</option>
             </select>
-            <select id="topic">
+            <select id="topic" disabled>
                 <optgroup label="Junior Secondary Mathematics">
                     <option value="J1">J1. Basic computation</option>
                     <option value="J2">J2. Directed numbers</option>
@@ -142,44 +140,11 @@
         </div>
 	</div>
 	<div></div>
-	<div id="content">
+	<div id="question-container">
 
 	</div>
+	<script src="functions.js"></script>
 	<script>
-		function sleep(ms) {
-			return new Promise(resolve => setTimeout(resolve, ms));
-		}
-
-        async function fetchJson(paper, year, file) {
-            try {
-                res = await fetch(`artifact/paper-${paper}/${year}/${file}.json`)
-                return await res.json()
-            } catch {
-                return []
-            }
-        }
-
-        questions = []
-        topics = []
-
-        async function loadQuestionJson(paper, year) {
-            questions[year] = await fetchJson('2', year, 'questions')
-        }
-
-        async function loadTopicJson(paper, year) {
-            topics[year] = await fetchJson('2', year, 'topics')
-        }
-
-        var years = []
-        for (year = 1980; year <= 2011; year++) {
-            years.push(year)
-        }
-        years.push("2012-PP")
-        years.push("2012-CP")
-        for (year = 2012; year <= 2025; year++) {
-            years.push(year)
-        }
-
         async function loadData() {
             promises = []
             for (const year of years) {
@@ -188,7 +153,8 @@
             }
             Promise.all(promises).then(() => {
                 document.getElementById("load").style = "display: none"
-                // document.getElementById("load-btn").style = ""
+                $("#topic").prop('disabled', false)
+                loadTopic()
             })
         }
 
@@ -219,9 +185,9 @@
         }
 
         async function loadTopic() {
-            const topic = document.getElementById("topic").value
-            const e = document.getElementById("content");
-            e.innerHTML = "";
+            const topic = $("#topic").val()
+            const container = $("#question-container")
+            container.html("")
             let qid = 1;
             for (const year of years) {
                 const topics_year = topics[year]
@@ -229,14 +195,14 @@
                 for (var q = 0; q < questions_year.length; q++) {
                     let identifier = `${year} Q${q+1}`
                     if (topics_year[q] == topic) {
-                        e.innerHTML += `<div class="question" data-identifier="${year} ${q}">${qid}. (${identifier}) ${questions_year[q]}</div>`
+                        appendQuestion(container, qid, [year, q+1], questions_year[q])
                         qid += 1;
                     }
                 }
             }
             $("#change-topic").val(topic)
-            $(".question").on('click', function(e) {
-                $("#change-question-label").val($(e.target).data("identifier"))
+            $(".question-content").on('click', function(e) {
+                $("#change-question-label").val($(e.currentTarget).data("identifier"))
                 $("#change-question-label").change()
             })
             await MathJax.typesetPromise();
