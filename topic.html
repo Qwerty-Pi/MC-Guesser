@@ -150,6 +150,7 @@
             for (const year of years) {
                 promises.push(loadQuestionJson('2', year))
                 promises.push(loadTopicJson('2', year))
+                promises.push(loadAnswerJson('2', year))
             }
             Promise.all(promises).then(() => {
                 document.getElementById("load").style = "display: none"
@@ -190,12 +191,9 @@
             container.html("")
             let qid = 1;
             for (const year of years) {
-                const topics_year = topics[year]
-                const questions_year = questions[year]
-                for (var q = 0; q < questions_year.length; q++) {
-                    let identifier = `${year} Q${q+1}`
-                    if (topics_year[q] == topic) {
-                        appendQuestion(container, qid, [year, q+1], questions_year[q])
+                for (const q in questions[year]) {
+                    if (topics[year][q] == topic) {
+                        appendQuestion(container, qid, [year, parseInt(q)+1], questions[year][q], answers[year][q])
                         qid += 1;
                     }
                 }
@@ -204,6 +202,9 @@
             $(".question-content").on('click', function(e) {
                 $("#change-question-label").val($(e.currentTarget).data("identifier"))
                 $("#change-question-label").change()
+            })
+            $(".question-label").on('click', function(e) {
+                toggleAnswer($(e.currentTarget))
             })
             await MathJax.typesetPromise();
         }

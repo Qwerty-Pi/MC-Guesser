@@ -17,7 +17,7 @@
         <div class="question-content">
             \(5^{334} \left( \dfrac{-1}{5} \right)^{333} = \)
             <div class="option-container">
-                <div class="option">A. \( -5 \).</div>
+                <div class="option answer">A. \( -5 \).</div>
                 <div class="option">B. \( -0.2 \).</div>
                 <div class="option">C. \( 0 \).</div>
                 <div class="option">D. \( 5 \).</div>
@@ -37,7 +37,7 @@
         <div class="question-content">
             If \(\dfrac{2+a}{a}=\dfrac{2-x}{x}\), then \(x=\)
             <div class="option-container">
-                <div class="option">A. \(\dfrac{a}{1+a}\).</div>
+                <div class="option answer-hidden">A. \(\dfrac{a}{1+a}\).</div>
                 <div class="option">B. \(\dfrac{2a}{1+a}\).</div>
                 <div class="option">C. \(\dfrac{a}{2+a}\).</div>
                 <div class="option">D. \(\dfrac{2a}{2+a}\).</div>
@@ -49,6 +49,10 @@
 			container.append($("<div class='question-label'>").html(`${label}`));
 			container.append($("<div class='question-content'>").html(question));
 		}
+
+		$(".question-label").on('click', function(e) {
+			toggleAnswer($(e.currentTarget))
+		})
 
 		function loadPaper() {
 			let year = $("#year").val()
@@ -64,7 +68,10 @@
 					await appendQuestion(questionContainer, label, question);
 					label += 1;
 				}
-				// e.html(content);
+				$(".question-label").on('click', function(e) {
+					console.log("Hi")
+					toggleAnswer($(e.currentTarget))
+				})
 				await MathJax.typesetPromise();
 			})
 		}
