@@ -100,18 +100,17 @@ br {
 }
 
 .option-container {
-    line-height: 3em;
     display: grid;
     grid-template-columns: 1fr 1fr;
-}
-
-.option-label {
-    vertical-align: top;
 }
 
 .option {
     padding-left: 0.5em;
     margin-top: 0.5em;
+    min-height: 3em;
+    display: flex;
+    align-items: center;
+    white-space: pre;
 }
 
 @media (max-width: 768px) {
@@ -129,6 +128,6 @@ option:hover {
     color: var(--background-color);
 
     > img {
-        filter: invert(0);
+        filter: invert(0.2);
     }
 }
