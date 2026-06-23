@@ -23,7 +23,8 @@
 	}
 </script>
 <meta charset="utf-8">
-<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/index.css">
+<link rel="stylesheet" type="text/css" href="index.css">
+<link rel="stylesheet" type="text/css" href="style.css">
 <script src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js"></script>
 <style>
 :root {
@@ -74,9 +75,8 @@ button {
 	}
 }
 
-.game-screen {
+.question-content {
 	padding: 0.5em;
-	font-size: 1.2em;
 	flex: 1 1 auto;
 	overflow-y: auto; 
 	
@@ -179,20 +179,38 @@ button {
 			Time <span class="value-counter">00:00</span>
 		</div>
 	</div>
-	<div class="game-screen">The equations of the straight lines $L_1$ and $L_2$ are $4x - 6y + 5 = 0$ and $6x - 9y - 1 = 0$ respectively. If $P$ is a moving point on the rectangular coordinate plane such that the perpendicular distance from $P$ to $L_1$ is equal to the perpendicular distance from $P$ to $L_2$, then the locus of $P$ is<br><br>A. a straight line.<br>B. two intersecting straight lines.<br>C. two parallel straight lines.<br>D. a circle. </div>
-	<div class="game-options">
+	<div id="game-screen" class="question-content">
+	</div>
+	<!-- <div class="game-options">
 		<button class="game-option option-x unselectable" data-option="X" style="grid-column: span 2">Pass (X)</button>
 		<button class="game-option option-a unselectable" data-option="A">A</button>
 		<button class="game-option option-b unselectable" data-option="B">B</button>
 		<button class="game-option option-c unselectable" data-option="C">C</button>
 		<button class="game-option option-d unselectable" data-option="D">D</button>
-	</div>
+	</div> -->
 </div>
 
+<script src="functions.js"></script>
 <script>
 	const Game = {
-
-		send: function(option) {
+		load: function (year, qid) {
+			if (!(year in questions)) {
+				promises = []
+				promises.push(loadQuestionJson('2', year))
+				promises.push(loadAnswerJson('2', year))
+				Promise.all(promises).then(async function () {
+					const content = await getQuestionContent([year, qid], questions[year][qid])
+					$("#game-screen").html(content.html())
+					await MathJax.typesetPromise()
+				})
+			}
+		},
+		loadRandom: function () {
+			year = parseInt(2012 + Math.floor(Math.random() * 14))
+			qid = parseInt(Math.floor(Math.random() * 45))
+			this.load(year, qid)
+		},
+		send: function (option) {
 			$('.game-screen').html($('.game-screen').html() + option)
 		}
 	}
@@ -201,6 +219,8 @@ button {
 		const option = $(this).data('option')
 		Game.send(option)
 	})
+
+	Game.loadRandom()
 
 	$(document).on('keydown', function(e) {
 		e = e || window.event

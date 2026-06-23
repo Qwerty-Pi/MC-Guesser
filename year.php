@@ -19,8 +19,8 @@
 					EOF;
 				}
 			?>
+			<option value="2012-SP">2012-SP</option>
 			<option value="2012-PP">2012-PP</option>
-			<option value="2012-CP">2012-CP</option>
 			<?php
 				for ($year = 2012; $year <= 2025; $year++) {
 					echo <<<EOF

@@ -1,15 +1,4 @@
-
-async function appendQuestion(container, label, identifier, data, answer = null) {
-    questionOrder = $("<div class='question-order'>").html(label)
-    questionLabel = $("<div class='question-label'>").append(questionOrder)
-    
-    if (identifier) {
-        questionReference = $("<div class='question-reference'>")
-            .append($("<span>").html(identifier[0]))
-            .append($("<span>").html('Q' + identifier[1]))
-        questionLabel.append(questionReference)
-    }
-    
+function getQuestionContent(identifier, data, answer = null) {
     statement = $("<div class='question-statement'>")
                     .html(data.statement)
     options = $("<div class='option-container'>")
@@ -36,8 +25,21 @@ async function appendQuestion(container, label, identifier, data, answer = null)
     }
     content.append(statement)
     content.append(options)
+    return content
+}
+
+async function appendQuestion(container, label, identifier, data, answer = null) {
+    questionOrder = $("<div class='question-order'>").html(label)
+    questionLabel = $("<div class='question-label'>").append(questionOrder)
     
+    if (identifier) {
+        questionReference = $("<div class='question-reference'>")
+            .append($("<span>").html(identifier[0]))
+            .append($("<span>").html('Q' + identifier[1]))
+        questionLabel.append(questionReference)
+    }
     container.append(questionLabel)
+    const content = getQuestionContent(identifier, data, answer)
     container.append(content)
 }
 
